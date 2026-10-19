@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-04T17:50:24.144Z",
+  "exported_at": "2026-10-19T11:33:46.121Z",
   "total_kp": 33765,
   "total_relations": 21536,
   "grade_bands": [
@@ -32,7 +32,7 @@
     "related"
   ],
   "schema": {
-    "knowledge_points": "id, canonical_name, subject, grade_band, curriculum_system, confidence, aliases, annotations, summary, title",
+    "knowledge_points": "id, canonical_name, subject, grade_band, curriculum_system, confidence, aliases, annotations, summary, title, grades, textbooks[textbook_id, textbook_title, grade, volume, chapter_path]",
     "kp_relations": "id, from_kp_id, to_kp_id, relation_type, source_evidence, from_name, from_subject, to_name, to_subject"
   }
 }

@@ -14,7 +14,21 @@
       "aliases": "[\"第四课生词\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确拼读并识记 город, друг, завод 等本课生词\",\"掌握 спасибо, здравствуй 等日常用语的含义与用法\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语字母的认读与发音\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"重音位置读错导致词义改变\",\"未掌握名词的阳阴中性\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "Урок 4 核心词汇"
+      "title": "Урок 4 核心词汇",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "f6e8c7e0-a5d7-447a-90ad-1dcaa0721d69",
@@ -26,7 +40,21 @@
       "aliases": "[]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"会用 Это... 介绍人物\",\"会用 Он/Она тут/там 表达人物位置\",\"能听懂并朗读相关简单句\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"音节、重音与元音字母 о 和 а 的弱化\",\"俄语陈述句语调（调型1）\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆тут和там的方位意义\",\"代词он和она指代人物时张冠李戴\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "人物介绍与位置表达的基本句型"
+      "title": "人物介绍与位置表达的基本句型",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "e62dca07-46fb-45fe-aba8-ab7846c90398",
@@ -38,7 +66,21 @@
       "aliases": "[\"代词он она оно они\",\"方位词тут там дома\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"识记人称代词он, она, оно, они的指代意义\",\"理解方位副词тут, там, дома的含义\",\"能将代词与方位副词连用描述位置\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆он, она, оно的性别指代\",\"将дома(在家)误认为дом(房子)的复数\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "人称代词与方位副词的初步用法"
+      "title": "人称代词与方位副词的初步用法",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "a035ceae-30b8-49cc-90df-7b9679e8b60a",
@@ -50,7 +92,21 @@
       "aliases": "[\"Это...句型\",\"确认位置句型\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"会用Это...介绍人或物\",\"会用疑问句确认人或物的位置并作肯定回答\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"人称代词与方位副词的初步用法\",\"俄语调型 3 的特征与应用\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"在回答Да, это Нина时漏掉это\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "介绍人与物及确认位置的交际句型"
+      "title": "介绍人与物及确认位置的交际句型",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "de2b0ad6-410d-4814-b8c2-9e5ecad35bca",
@@ -62,7 +118,21 @@
       "aliases": "[]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握句子开头首字母大写的规则\",\"掌握姓名、地名首字母大写的规则\",\"掌握词与词之间留一个字母间隔的规则\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"元音字母 а, о, у, э 的认读与书写\",\"辅音字母 м, н, т, п 的认读与拼读\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"词与词之间不留间隔或间隔过大\",\"句中普通名词首字母大写\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.95,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语书写基本规则（首字母大写与词间距）"
+      "title": "俄语书写基本规则（首字母大写与词间距）",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "2e68f62d-d880-46b2-a765-79d4d320949c",
@@ -74,7 +144,21 @@
       "aliases": "[\"Урок 7 自我检查\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773011851,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773011851,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能辨析并正确运用俄语未完成体与完成体动词\",\"能区分并使用定向与不定向运动动词\",\"能正确变格名词与代词并搭配前置词\",\"能在听说读写中综合运用本单元语法知识\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773011851,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语动词体\",\"俄语运动动词\",\"俄语名词变格\",\"俄语代词变格\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773011851,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆未完成体与完成体的语境\",\"误用定向与不定向运动动词\",\"名词代词变格错误或前置词搭配错误\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773011851,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773011851,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语动词体、运动动词与变格的综合复习"
+      "title": "俄语动词体、运动动词与变格的综合复习",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 7"
+          ]
+        }
+      ]
     },
     {
       "id": "42595a3d-e22b-40c5-9dc0-5b76c5c6fcaa",
@@ -86,7 +170,21 @@
       "aliases": "[\"не 的否定用法\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"学会使用 нет 和 не 构成否定回答\",\"掌握 не 与名词连用表示\\\"不是...\\\"的句型\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词的认读\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"在否定句中遗漏 не\",\"混淆 нет 和 не 的用法\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语否定句的构成（не 的用法）"
+      "title": "俄语否定句的构成（не 的用法）",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "3209204f-a559-4e62-84fd-05eb64337366",
@@ -98,7 +196,21 @@
       "aliases": "[\"俄语字母表\",\"Алфавит\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773001204,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773001204,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能识别俄语33个字母的印刷体和手写体\",\"能正确读出俄语33个字母的名称\",\"能区分易混字母的印刷体与手写体形态\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773001204,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773001204,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"将俄语字母与形似的英语字母混淆（如Рр读作P，Сс读作S）\",\"混淆印刷体与手写体的形态差异\",\"忽略ё和е、ь和ъ的形音区别\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773001204,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773001204,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语字母的认读与书写"
+      "title": "俄语字母的认读与书写",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Aлфавит"
+          ]
+        }
+      ]
     },
     {
       "id": "7a216ef8-c52e-4c71-8523-ad984ecdccb9",
@@ -110,7 +222,21 @@
       "aliases": "[\"俄语清浊辅音同化复习\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773156571,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773156571,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能识别并拼读浊辅音清化与清辅音浊化的单词\",\"能对比带重音与不带重音元音的读音差异\",\"能运用日常交际用语进行问候、告别及确认人物\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773156571,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语清辅音与浊辅音\",\"俄语元音字母\",\"俄语疑问句语调\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773156571,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为辅音字母在任何位置都发本音\",\"忽略俄语重音对元音音值的影响\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773156571,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780773156571,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语语音清浊同化与日常交际复习"
+      "title": "俄语语音清浊同化与日常交际复习",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 7"
+          ]
+        }
+      ]
     },
     {
       "id": "0147f73f-6fa4-45cb-b125-69d98f90cd09",
@@ -122,7 +248,21 @@
       "aliases": "[\"ИК-2\",\"调型2\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解调型2的音调特点（调心处音调骤降）\",\"能在带疑问词的疑问句中运用调型2\",\"能在呼语中运用调型2\",\"能区分调型1、2、3的语义差别\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语调型1的认读\",\"俄语调型3的认读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误以为调型2调心处音调上升\",\"无调心概念导致语调平淡\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语调型 2 的认读与运用"
+      "title": "俄语调型 2 的认读与运用",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "6b9daf06-d94b-4652-9506-fa0f7bf64b28",
@@ -134,7 +274,21 @@
       "aliases": "[\"调型3\",\"疑问调\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解调型3用于不带疑问词的疑问句\",\"能在疑问句中正确运用调型3，调心处音调陡升\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"疑问句一律用升调，忽略调心陡升的特点\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语调型 3 的特征与应用"
+      "title": "俄语调型 3 的特征与应用",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "2f88269c-f4b5-4741-a91c-61e5683bb776",
@@ -146,7 +300,21 @@
       "aliases": "[\"浊辅音清化\",\"清辅音浊化\",\"辅音同化\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解浊辅音在词末清化的规则并正确发音\",\"理解清辅音在浊辅音前浊化的规则并正确发音\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"辅音字母 с, з, й 与软音符号 ь 的认读与发音\",\"俄语清浊辅音的对立\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"在词末仍按字母本音读浊辅音\",\"清辅音在浊辅音前未发生浊化\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语辅音的清浊同化规则（浊辅音清化与清辅音浊化）"
+      "title": "俄语辅音的清浊同化规则（浊辅音清化与清辅音浊化）",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "5a2f5dd4-6ffc-4c0e-a338-8f0dcad4bb9b",
@@ -158,7 +326,21 @@
       "aliases": "[\"调型1\",\"ИК-1\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"了解调型1的音调特点（调心处音调缓慢下降）\",\"能用调型1正确朗读陈述句\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"音节、重音与元音字母 о 和 а 的弱化\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"用汉语降调生硬套用俄语调型1\",\"调心位置找错导致语调不对\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "俄语陈述句语调（调型1）"
+      "title": "俄语陈述句语调（调型1）",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "10e1eb48-6658-43bd-8540-bfe9c1a468a8",
@@ -170,7 +352,21 @@
       "aliases": "[\"健康与疾病主题词汇\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握 чувствовать себя 的变位与用法\",\"掌握 У кого что болит 句型表达疼痛\",\"掌握体温相关词汇（температура等）\",\"能用俄语询问和描述健康状况\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"人称代词第三格\",\"名词第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将 болеть 随主语我/你变位而非随疼痛部位变位\",\"混淆 чувствовать 的过去时形式\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "健康状况的表达（感觉、疼痛、体温）"
+      "title": "健康状况的表达（感觉、疼痛、体温）",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "b1ad5915-2865-4c7c-831f-6998550d918d",
@@ -182,7 +378,21 @@
       "aliases": "[\"元音а о у э\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确认读元音字母 а, о, у, э\",\"能正确书写元音字母 а, о, у, э 的大小写\",\"能听辨这四个元音的发音\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"将俄语а的发音等同于英语a的发音\",\"混淆印刷体与手写体的形状\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "元音字母 а, о, у, э 的认读与书写"
+      "title": "元音字母 а, о, у, э 的认读与书写",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "e989106f-1379-46d3-8159-005323b33d53",
@@ -194,7 +404,21 @@
       "aliases": "[\"字母и和ы\",\"元音и ы\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确发音元音字母 и 和 ы\",\"能识别并书写元音字母 и 和 ы\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆 и 和 ы 的发音口型\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "元音字母 и, ы 的认读"
+      "title": "元音字母 и, ы 的认读",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "e507a068-ac4e-44c9-9cc4-da1d2ff19ee1",
@@ -206,7 +430,21 @@
       "aliases": "[\"я ё ю е 的发音\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确认读元音字母 я, ё, ю, е\",\"能拼读辅音与 я, ё, ю, е 组成的音节\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语字母表基础\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"将 я, ё, ю, е 简单等同于英语字母发音\",\"混淆 я, ё, ю, е 在重读与非重读音节的发音\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "元音字母 я, ё, ю, е 的认读"
+      "title": "元音字母 я, ё, ю, е 的认读",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "905fe193-cc7f-47d0-943a-8e21e9b9a6e0",
@@ -218,7 +456,21 @@
       "aliases": "[]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"识记兴趣爱好类词汇(театр, спорт, музыка等)\",\"识记职业类词汇(инженер等)\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "兴趣爱好与职业类词汇"
+      "title": "兴趣爱好与职业类词汇",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "75859420-d87f-4335-8d59-39c36d7ab28c",
@@ -230,7 +482,21 @@
       "aliases": "[\"с+五格表示带有……\",\"Что с чем\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解前置词с+第五格表示配料或特征的语法意义\",\"能正确回答С чем?的问题\",\"会用с+第五格描述食物的配料（如пельмени с мясом）\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第五格的构成\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"配料名词未变第五格，仍用第一格\",\"混淆с表示伴随和表示配料的用法\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "前置词с+名词第五格表示事物特征或配料"
+      "title": "前置词с+名词第五格表示事物特征或配料",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "8313d7f2-345b-4529-9462-585ed4a193fe",
@@ -242,7 +508,21 @@
       "aliases": "[\"с+五格表示和……一起\",\"Кто с кем\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解前置词с+第五格表示伴随的语法意义\",\"能正确回答С кем?的问题\",\"会用Мы с...结构表达\\\"我和某人\\\"\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第五格的构成\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"将\\\"我和某人\\\"直译为Я и кто-то，而不用Мы с кем-то结构\",\"伴随对象未变成第五格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "前置词с+名词第五格表示伴随"
+      "title": "前置词с+名词第五格表示伴随",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "fb4ffc34-d3ce-4662-8c5a-d8cc2408c40f",
@@ -254,7 +534,21 @@
       "aliases": "[\"был/была/было/были的用法\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握动词 быть 的过去时形式\",\"会用 быть 的过去时表示“在某处”\",\"会用 У кого был/была/было/были 结构表示“某人有某物”\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词的性\",\"名词的第六格\",\"名词的第二格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"在 У кого был... 结构中，误将主语变成第二格\",\"表示“在”时误用第一格而非第六格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词 быть 的过去时用法"
+      "title": "动词 быть 的过去时用法",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "a3798d90-3260-4497-a0ed-73b078dfd468",
@@ -266,7 +560,21 @@
       "aliases": "[\"быть+第五格表职业\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解 быть 表示\\\"成为\\\"的含义\",\"会用 быть 的将来时 + 名词第五格表达将来的职业\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第五格\",\"быть 的将来时变位\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将职业名词用第一格而非第五格\",\"混淆 быть 的过去时和将来时表职业\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词 быть 表示将来职业的用法"
+      "title": "动词 быть 表示将来职业的用法",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "ab632207-1e30-459b-9112-6e43629fa391",
@@ -278,7 +586,21 @@
       "aliases": "[\"从事某活动\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握动词 заниматься 的变位\",\"会用 заниматься чем 表达从事某种活动\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第五格\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将 заниматься 后接第四格或前置词\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词 заниматься 的用法"
+      "title": "动词 заниматься 的用法",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "62c2f1d7-69bf-4a61-8782-fcde6d8b76ba",
@@ -290,7 +612,21 @@
       "aliases": "[\"играть во что\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握动词 играть 表示“玩/打(球)”时的接格关系\",\"能正确使用 играть в + 第四格表达参与某项运动\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第四格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将 играть 后直接加第一格名词\",\"混淆 играть в (运动) 与 играть на (乐器) 的接格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词 играть 的接格关系"
+      "title": "动词 играть 的接格关系",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "782b1660-f385-4750-8334-0df291e59f93",
@@ -302,7 +638,21 @@
       "aliases": "[\"表达兴趣\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握动词 интересоваться 的变位\",\"会用 интересоваться кем/чем 表达对某事物的兴趣\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第五格\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将 интересоваться 后接第四格而非第五格\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词 интересоваться 的用法"
+      "title": "动词 интересоваться 的用法",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "296695f5-a252-4a76-8c08-4161199a348b",
@@ -314,7 +664,21 @@
       "aliases": "[\"表达喜欢\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握动词 нравиться 的变位\",\"会用 нравиться 表达某人喜欢某物或做某事\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第三格\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将喜欢的主语用第一格而非第三格\",\"混淆 нравится 和 нравятся 的单复数变位\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780772823626,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词 нравиться 的用法"
+      "title": "动词 нравиться 的用法",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "fe9b7009-6ca8-4544-8706-476a2ec71d54",
@@ -326,7 +690,21 @@
       "aliases": "[\"动词的将来时\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解复合式将来时与简单式将来时的语义区别\",\"掌握复合式将来时的构成（быть变位+未完成体不定式）\",\"掌握简单式将来时的构成（完成体动词变位）\",\"能运用两种将来时表达将来的行为\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"动词现在时变位\",\"动词体\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为将来时只有一种形式\",\"混淆复合式与简单式将来时的使用语境\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词将来时"
+      "title": "动词将来时",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "4961a2cd-8dae-459e-8d48-1692b1458309",
@@ -338,7 +716,21 @@
       "aliases": "[\"动词的体\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解俄语动词未完成体和完成体的基本含义\",\"能区分未完成体强调过程与完成体强调结果\",\"能在语境中正确选用未完成体或完成体动词\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"动词过去时\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为未完成体和完成体只是时态不同\",\"混淆行为过程与行为结果的体选择\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词未完成体与完成体的区别"
+      "title": "动词未完成体与完成体的区别",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "17271ec2-b07d-4b71-9301-39bb60033e01",
@@ -350,7 +742,21 @@
       "aliases": "[\"动词的体（2）\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解未完成体动词表示经常或重复发生的行为\",\"理解完成体动词表示一次性的行为\",\"能根据语境选择动词的体\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"动词未完成体与完成体的基本概念\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为完成体只表示过去时\",\"混淆经常性动作与一次性动作对应的动词体\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词未完成体与完成体的用法（2）"
+      "title": "动词未完成体与完成体的用法（2）",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "9fa84146-1a57-4e7e-a55f-f28af78a96b1",
@@ -362,7 +768,21 @@
       "aliases": "[\"动词过去时\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解动词过去时的意义\",\"掌握动词过去时阳性、阴性、中性及复数的词尾变化规则\",\"能根据主语的性数正确写出动词过去时形式\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词的性\",\"名词的数\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为动词过去时有人称变化\",\"混淆过去时词尾与现在时变位词尾\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "动词过去时的构成与变化"
+      "title": "动词过去时的构成与变化",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "f0138bc5-5aab-4796-8480-09095d037768",
@@ -374,7 +794,21 @@
       "aliases": "[\"名词单数第三格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解名词第三格表示间接客体的用法\",\"掌握名词单数第三格的变格规则\",\"能识别并回答 Кому? 问题\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第一格与第四格\",\"及物动词与不及物动词的区分\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆第三格与第四格的客体功能\",\"误将阳性软音词尾变-ю写成-у\",\"误将中性-ие结尾变-у而非-ию\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "名词单数第三格的构成与间接客体用法"
+      "title": "名词单数第三格的构成与间接客体用法",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "7cae8fd4-9e57-4744-89e7-62b80abc88ba",
@@ -386,7 +820,21 @@
       "aliases": "[\"名词复数与格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握名词复数第三格的词尾变化规则\",\"能识别并运用名词复数第三格表示动作的接受者\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第三格\",\"名词复数第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆硬变化词尾-ам与软变化词尾-ям\",\"遗忘以-ь结尾的名词软变化规则\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "名词复数第三格"
+      "title": "名词复数第三格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "dfd812cc-543f-4a1e-afdd-febbab0a345c",
@@ -398,7 +846,21 @@
       "aliases": "[\"名词复数前置格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握名词复数第六格的构成规则\",\"能识别并运用名词复数第六格词尾-ах和-ях\",\"能在前置词о, об, в, на后正确使用名词复数第六格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第六格\",\"名词复数第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆硬辅音与软辅音/й词尾导致的-ах与-ях区分\",\"将名词复数第六格词尾与单数词尾混淆\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "名词复数第六格"
+      "title": "名词复数第六格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "780abe80-7954-4acb-b791-5469bbc00bb9",
@@ -410,7 +872,21 @@
       "aliases": "[\"名词复数第四格变化规则\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握非动物名词复数第四格同第一格的规则\",\"掌握动物名词复数第四格的词尾变化规则\",\"记忆特殊名词的复数第四格形式\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第四格\",\"名词复数第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误认为所有名词复数第四格形式都同第一格\",\"混淆动物名词阳性与阴性的词尾变化规律\",\"忽略特殊名词的不规则变化\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "名词复数第四格"
+      "title": "名词复数第四格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "9df91e13-1e53-4337-a87e-4a91810e428b",
@@ -422,7 +898,21 @@
       "aliases": "[\"名词第二格的用法\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解名词第二格表示性质和特征的用法\",\"理解名词第二格表示所属关系的用法\",\"能根据语境用Какой/Чей提问并使用名词第二格作答\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第二格变格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆性质特征与所属关系的提问词\",\"误将名词第二格与形容词修饰语完全等同\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "名词第二格表示性质特征与所属关系"
+      "title": "名词第二格表示性质特征与所属关系",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "f54735e2-1d6f-44d2-a4ce-5fbbea2e91d1",
@@ -434,7 +924,21 @@
       "aliases": "[\"第五格表示工具\",\"Чем?\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解名词第五格表示行为工具的语法意义\",\"能正确回答Чем?的问题\",\"会用名词第五格表达使用某种工具（如есть ложкой）\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第五格的构成\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"工具名词未变第五格\",\"误加前置词с（如есть с ложкой）\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772891130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "名词第五格表示行为工具"
+      "title": "名词第五格表示行为工具",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "6b16e9e9-4bac-4768-8c6f-3fd3267b8af0",
@@ -446,7 +950,21 @@
       "aliases": "[\"天气类词汇\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"识记天气相关词汇如снег, дождь, ветер\",\"掌握Идёт снег或дождь等描述天气的固定搭配\",\"能用Какая сегодня погода?等句型询问和描述天气\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词的格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误用其他动词代替идти描述下雪下雨\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "天气词汇与基本表达"
+      "title": "天气词汇与基本表达",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "46dff55e-248b-4d09-9c42-7b88f8f5c0f9",
@@ -458,7 +976,21 @@
       "aliases": "[\"运动动词\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解定向与不定向运动动词的区别\",\"掌握идти-ходить, ехать-ездить, лететь-летать的意义和变位\",\"能用运动动词表达有方向、无方向、经常性及往返的运动\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"动词现在时变位\",\"动词过去时构成\",\"运动方向前置词в/на\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆定向与不定向动词的使用场景\",\"认为不定向动词只表示无方向运动\",\"忽略不定向动词过去时表示往返的用法\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "定向和不定向运动动词"
+      "title": "定向和不定向运动动词",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "81dbf3f9-3486-498a-a620-9595c943feaf",
@@ -470,7 +1002,21 @@
       "aliases": "[\"или 选择疑问句\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解 или 连接的选择疑问句的结构\",\"掌握 или 前后调型 3 和调型 2 的语调变化\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"疑问句的基本语调\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"или 前后使用相同的语调\",\"将 или 误读为重读\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "带连接词 или 的选择疑问句及语调"
+      "title": "带连接词 или 的选择疑问句及语调",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "9c154b7c-40ba-44b5-8050-c4f262aacb08",
@@ -482,7 +1028,21 @@
       "aliases": "[\"接格关系为第三格的动词\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握нравиться的搭配与主谓一致原则\",\"掌握помогать和мешать接第三格的用法\",\"能运用第三格表达喜好、帮助与妨碍等情境\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词复数第三格\",\"形容词和代词复数第三格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"нравиться谓语随逻辑主语变化而非语法主语变化\",\"误将помогать和мешать的接受者用第四格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "常用第三格动词与句型"
+      "title": "常用第三格动词与句型",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "9a99028d-b7c6-4d71-ac27-ff692c107833",
@@ -494,7 +1054,21 @@
       "aliases": "[\"球类运动词汇\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"识记 футбол, баскетбол, волейбол, шахматы, хоккей 等运动名词\",\"能将运动名词与 играть в 搭配使用\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"将 шахматы 误视为单数名词\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772735451,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "常见运动项目名词"
+      "title": "常见运动项目名词",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "17fc0ec9-08a5-4762-840a-f43a45320348",
@@ -506,7 +1080,21 @@
       "aliases": "[\"形容词和代词单数第三格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握形容词单数第三格的词尾变化\",\"掌握物主代词、指示代词等单数第三格的变化\",\"能将形容词和代词与名词第三格正确搭配\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第三格的构成与间接客体用法\",\"形容词与代词单数第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"形容词硬变化误用-ему词尾\",\"软变化词尾误用-ому\",\"代词第三格与形容词词尾混淆\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772892427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词与代词单数第三格的构成"
+      "title": "形容词与代词单数第三格的构成",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "340b9837-ede5-4160-90bb-17feadafa16b",
@@ -518,7 +1106,21 @@
       "aliases": "[\"形容词代词复数第四格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握说明非动物名词的形容词和代词复数第四格同第一格\",\"掌握说明动物名词的形容词复数第四格词尾\",\"掌握说明动物名词的代词复数第四格词尾\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词复数第四格\",\"形容词与代词复数第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将说明非动物名词的形容词变为-ых/-их\",\"混淆物主代词和指示代词的复数第四格词尾\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772979390,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词与代词复数第四格"
+      "title": "形容词与代词复数第四格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "39632835-c5a3-4836-9aa8-b18565dfa856",
@@ -530,7 +1132,21 @@
       "aliases": "[\"形容词和代词单数第二格变化\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握形容词单数第二格的词尾变化\",\"掌握代词单数第二格的变化形式\",\"能在表示来源的语境中正确使用形容词和代词第二格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第二格\",\"形容词和代词第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"形容词阳性和中性第二格词尾误写为-ого而忽略硬软辅音区别\",\"物主代词его/его/его混淆\",\"前置词из/с与第二格连用时形容词词尾选择错误\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772928428,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词和代词单数第二格"
+      "title": "形容词和代词单数第二格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "a730a127-ea2c-488c-b6e6-a3b645be0b0c",
@@ -542,7 +1158,21 @@
       "aliases": "[\"形容词和代词单数第五格变化\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握形容词单数第五格的词尾变化\",\"掌握代词单数第五格的词尾变化\",\"能在语境中正确使用形容词和代词的第五格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第五格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆硬变化和软变化的词尾\",\"误将代词第五格词尾与形容词词尾混同\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词和代词单数第五格"
+      "title": "形容词和代词单数第五格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "38d9e72f-d604-4045-96e1-196443adddfc",
@@ -554,7 +1184,21 @@
       "aliases": "[\"形容词和代词单数前置格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握形容词单数第六格的词尾变化规则\",\"掌握物主代词、指示代词、限定代词单数第六格的词尾变化\",\"能在语境中正确将形容词和代词变为第六格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词单数第六格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆硬变化词尾-ом与软变化词尾-ем\",\"误将阴性第六格词尾-ей用于阳性或中性\",\"忽略代词特殊变格如обо всём\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词和代词单数第六格"
+      "title": "形容词和代词单数第六格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "9111eb35-eec4-416b-ac68-bd3f1c55121b",
@@ -566,7 +1210,21 @@
       "aliases": "[\"形容词和代词复数与格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握形容词复数第三格的词尾变化规则\",\"掌握常用代词复数第三格的变化形式\",\"能在句中正确搭配名词、形容词和代词的复数第三格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词复数第三格\",\"形容词和代词复数第一格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"形容词硬变化词尾-ым与软变化词尾-им混淆\",\"代词变格时词干发生不规则变化\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772978654,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词和代词复数第三格"
+      "title": "形容词和代词复数第三格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "c1a26f5e-d58f-4954-b933-806e1f0a5e0e",
@@ -578,7 +1236,21 @@
       "aliases": "[\"形代复数前置格\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握形容词复数第六格词尾-ых, -их\",\"掌握物主代词和指示代词复数第六格词尾-их, -ех\",\"能在句中正确搭配名词复数第六格使用形容词和代词复数第六格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词复数第六格\",\"形容词和代词单数第六格\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"形容词硬变化词尾误用-их\",\"代词эти, все的第六格误用-их而不用-ех\",\"形容词与名词性数格搭配不一致\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "形容词和代词复数第六格"
+      "title": "形容词和代词复数第六格",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "852dca96-c778-4614-afbe-5b530a3f2374",
@@ -590,7 +1262,21 @@
       "aliases": "[\"рубль的变格搭配\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握1及以1结尾的数词与рубль的搭配\",\"掌握2-4及以2-4结尾的数词与рубля的搭配\",\"掌握5及以上数词与рублей的搭配\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语基数词\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为所有数词后都接相同形式的货币单位\",\"忽略11-14接рублей的规则\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772925259,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "数词与货币单位的搭配"
+      "title": "数词与货币单位的搭配",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "711e3723-8b76-4c5b-b2ea-efd573c71ff7",
@@ -602,7 +1288,21 @@
       "aliases": "[\"天气与人称状态的时态表达\",\"谓语副词的时态\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解长尾形容词与短尾或谓语副词在描述天气时的区别\",\"掌握谓语副词表示天气或状态时的现在时、过去时和将来时构成\",\"能用无人称句描述不同时间的天气或感受\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"谓语副词\",\"быть的过去时和将来时\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误将谓语副词加было或будет当作长尾形容词加动词\",\"混淆холодный день与холодно的用法语境\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772934193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "无人称句的时态表达"
+      "title": "无人称句的时态表达",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "a653ed98-97ce-4111-857c-83f6851571ce",
@@ -614,7 +1314,21 @@
       "aliases": "[\"星期表达法\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"记住星期一至星期日的俄语词汇\",\"掌握表示“在星期几”用前置词в/во+第四格\",\"掌握через+第四格表示“过若干时间”的用法\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第四格\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"在星期几前误用前置词на或第二格\",\"误将через与第二格连用\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772777106,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "星期几的表达与时间前置词"
+      "title": "星期几的表达与时间前置词",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "e0db46a3-3b8b-4a00-bd23-e2758704fd0a",
@@ -626,7 +1340,21 @@
       "aliases": "[\"动词体的辨析\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解俄语动词未完成体与完成体的语法意义差异\",\"能区分выбирать/выбрать, узнавать/узнать等常用动词的体\",\"能在具体语境中正确选择动词的体\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"动词过去时\",\"动词现在时与将来时\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为完成体只表示过去时\",\"忽略过程与结果的语义差异而错选动词体\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772985154,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "未完成体与完成体动词辨析"
+      "title": "未完成体与完成体动词辨析",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "a2ff49b0-e3bb-4fba-b605-3b854783ac8e",
+          "textbook_title": "新教材-初中俄语人教版八年级下册",
+          "grade": "八年级",
+          "volume": "下册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "d04de176-149c-4544-a1dd-8afdd9a53dac",
@@ -638,7 +1366,21 @@
       "aliases": "[\"浊辅音清化(2)\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解浊辅音在清辅音前清化的规则\",\"能正确读出符合清化规则的单词（如 ложка, автобус）\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"清辅音与浊辅音的对应关系\",\"辅音字母 Ш Ж Ч Щ Ц 的认读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"在清辅音前仍发浊辅音的本音\",\"不知道哪个浊辅音对应哪个清辅音\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "浊辅音清化规则（在清辅音前）"
+      "title": "浊辅音清化规则（在清辅音前）",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "445531c5-90fa-47b0-8351-56651c1db34a",
@@ -650,7 +1392,21 @@
       "aliases": "[\"清浊辅音对比\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解清辅音与浊辅音的发音区别\",\"能区分并正确发出п-б, т-д, к-г三对清浊辅音\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"辅音字母 б, д, к, г, х 的认读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为清浊辅音只是送气与不送气的区别\",\"发浊辅音时声带不振动\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "清浊辅音的对立（п-б, т-д, к-г）"
+      "title": "清浊辅音的对立（п-б, т-д, к-г）",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "4e1cbb7a-7bd2-4df8-afb5-5579f452fe8a",
@@ -662,7 +1418,21 @@
       "aliases": "[\"мой твоя моё мои 的用法\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"识别物主代词 мой, твой 的阳性、阴性、中性及复数形式\",\"能根据名词的性数正确使用 мой, моя, моё, мои\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语名词的性\",\"俄语名词的数\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"不论名词性数统一使用 мой\",\"将 моё 误用于所有非阳性名词\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "物主代词 мой, твой 的性数搭配"
+      "title": "物主代词 мой, твой 的性数搭配",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "78261a80-373b-4a33-a2cf-858241ced06c",
@@ -674,7 +1444,21 @@
       "aliases": "[\"硬音符号Ъ\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"知道 Ъ 是无音字母\",\"理解 Ъ 在词中的分音作用\",\"能正确拼读含有硬音符号 Ъ 的单词\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"辅音字母 Ш Ж Ч Щ Ц 的认读\",\"元音字母的认读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"以为 Ъ 有发音\",\"不理解 Ъ 前后字母的拼读关系\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "硬音符号 Ъ 的分音作用"
+      "title": "硬音符号 Ъ 的分音作用",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "f0054087-17ec-4656-b530-2be994ce1e05",
@@ -686,7 +1470,21 @@
       "aliases": "[\"Урок 7 自我检测\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780772893534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780772893534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确选用前置词与名词搭配\",\"能辨析并正确使用动词未完成体与完成体\",\"能区分учить, учиться, заниматься的用法\",\"能将肯定句改写为含не надо/нельзя的否定句\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780772893534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语前置词用法\",\"俄语动词体\",\"учить与учиться的辨析\",\"俄语否定句\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780772893534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆动词未完成体与完成体的语境\",\"混淆учить与учиться的接格关系与意义\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780772893534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780772893534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "第七课语法与词汇综合复习"
+      "title": "第七课语法与词汇综合复习",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 7"
+          ]
+        }
+      ]
     },
     {
       "id": "e80823bc-ca14-420e-b362-4ec09e3296dd",
@@ -698,7 +1496,21 @@
       "aliases": "[\"Как долго的提问与回答\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"掌握用第四格表示行为持续时间的方法\",\"能用\\\"Как долго?\\\"提问行为持续时间\",\"能正确使用时间名词第四格回答持续时间\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"名词第四格\",\"动词未完成体与完成体的区别\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"误以为表示持续时间需用前置词\",\"在回答Как долго时使用完成体动词\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780772765397,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "行为持续时间的表达"
+      "title": "行为持续时间的表达",
+      "grades": [
+        "八年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "7868340c-dbf1-440a-8aa6-a7326f1d25af",
+          "textbook_title": "新教材-初中俄语人教版八年级上册",
+          "grade": "八年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "5968cc82-0d01-475d-ba33-7e895c44b631",
@@ -710,7 +1522,21 @@
       "aliases": "[\"Кто это? 句型\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"会用 Кто это? 询问他人身份\",\"会用 Это... 介绍他人\",\"会用 Кто он/она? 询问他人职业\",\"会用 Он/она + 职业名词 回答职业\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"辅音字母 Лл, Рр, Фф, Вв 的认读\",\"人称代词 он, она 的用法\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"回答 Кто это? 时直接用人名而漏掉 Это\",\"混淆 Кто это? 和 Кто он/она? 的提问语境\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "询问与介绍人物及职业的句型"
+      "title": "询问与介绍人物及职业的句型",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "62363f63-d782-4a3c-8872-f76dfbd614eb",
@@ -722,7 +1548,21 @@
       "aliases": "[\"Где 的用法\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"会用 Где 询问人或物的位置\",\"能用 здесь/там/вот 回答位置问题\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"人称代词 он, она, они\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"回答位置时遗漏代词 он/она/они\",\"将 где 误当作介词直接加名词\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "询问与表达位置的交际用语"
+      "title": "询问与表达位置的交际用语",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "966145e5-0eb4-4a52-a991-10e7325d0bf4",
@@ -734,7 +1574,21 @@
       "aliases": "[\"打电话用语\",\"Куда они идут? 句型\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"会用 ...дома? 询问某人是否在家\",\"会用 Куда они идут? 询问去向\",\"会用 Они идут на/в... 表达去向\",\"掌握打电话起始用语 Алло! Кто это говорит?\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"辅音字母 Лл, Рр, Фф, Вв 的认读\",\"名词的格初步感知\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"打电话时用 Я... 而不是 Это... 自报家门\",\"混淆 дома 的副词用法与名词用法\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "询问人物去向及打电话的交际用语"
+      "title": "询问人物去向及打电话的交际用语",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "e0f59d8b-2364-453b-8948-1a9b7a602f5d",
@@ -746,7 +1600,21 @@
       "aliases": "[\"мой/твой的用法\",\"родом из的用法\",\"打电话用语\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"会用 мой/твой 询问和表达物品归属\",\"会用 родом из 介绍人物的出生地\",\"能使用基本用语进行电话交际\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语名词的性\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"忽略 мой/твой 与名词性的一致\",\"误用介词表达出生地\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780773168857,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "询问物品归属与人物介绍的交际用语"
+      "title": "询问物品归属与人物介绍的交际用语",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 4"
+          ]
+        }
+      ]
     },
     {
       "id": "2c0424b0-0ba8-4414-b914-de976dca8f20",
@@ -758,7 +1626,21 @@
       "aliases": "[\"辅音字母 л, р, ф, в\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确发音辅音字母 л, р, ф, в\",\"能区分清浊辅音 ф 和 в 的发音\",\"能区分辅音 л 和 р 的发音\",\"能拼读包含这些辅音的音节和单词\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语元音字母的认读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆辅音 л 和 р 的发音\",\"混淆清浊辅音 ф 和 в 的发音\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773058412,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "辅音字母 Лл, Рр, Фф, Вв 的认读"
+      "title": "辅音字母 Лл, Рр, Фф, Вв 的认读",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 3"
+          ]
+        }
+      ]
     },
     {
       "id": "6cfdce05-51d8-4d79-9d9a-94f9b717bde4",
@@ -770,7 +1652,21 @@
       "aliases": "[\"辅音字母ШЖЧЩЦ\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确发出辅音字母 Ш Ж Ч Щ Ц 的音\",\"能区分辅音 Ш 和 Ж 的发音\",\"能拼读包含这些辅音的音节和单词\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"俄语元音字母的认读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"混淆清辅音 Ш 和对应的浊辅音 Ж 的发音\",\"将 Щ 发成 Ч 的长音或与 Ш 混淆\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773132936,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "辅音字母 Ш Ж Ч Щ Ц 的认读"
+      "title": "辅音字母 Ш Ж Ч Щ Ц 的认读",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 6"
+          ]
+        }
+      ]
     },
     {
       "id": "008916e1-60ec-4790-bc25-4e0ffeca2b43",
@@ -782,7 +1678,21 @@
       "aliases": "[\"字母б д к г х\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确发音辅音字母 б, д, к, г, х\",\"能识别并书写辅音字母 б, д, к, г, х\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"将浊辅音б, д, г发成不送气清音\",\"发х音时摩擦部位不准\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773063828,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "辅音字母 б, д, к, г, х 的认读"
+      "title": "辅音字母 б, д, к, г, х 的认读",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 2"
+          ]
+        }
+      ]
     },
     {
       "id": "0a507551-7c35-49e8-9ea7-f52b7899313c",
@@ -794,7 +1704,21 @@
       "aliases": "[\"辅音м н т п\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"能正确认读辅音字母 м, н, т, п\",\"能正确书写辅音字母 м, н, т, п 的大小写\",\"能将辅音与已学元音拼读（如 ма, мо, му, мэ）\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"元音字母 а, о, у, э 的认读与书写\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"辅音后加元音时发音生硬不连贯\",\"混淆т和п的发音部位与送气特征\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "辅音字母 м, н, т, п 的认读与拼读"
+      "title": "辅音字母 м, н, т, п 的认读与拼读",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     },
     {
       "id": "76102b22-d2db-47df-8a67-d07658672351",
@@ -806,7 +1730,21 @@
       "aliases": "[\"е 和 я 的弱化\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解 е 和 я 在非重读音节中的弱化现象\",\"能根据重音位置判断 е 和 я 的发音\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"元音字母 я, ё, ю, е 的认读\",\"重音的概念\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为非重读的 е 和 я 发音完全消失\",\"忽略重读前第一音节与其他非重读音节的弱化程度差异\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780773122241,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "非重读音节中 е 和 я 的弱化规则"
+      "title": "非重读音节中 е 和 я 的弱化规则",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 5"
+          ]
+        }
+      ]
     },
     {
       "id": "447262cd-baa3-4578-bedb-e077e2d25ef8",
@@ -818,7 +1756,21 @@
       "aliases": "[\"元音弱化\"]",
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"learningObjectives\":{\"value\":[\"理解音节的概念并能正确划分音节\",\"识别重音符号并掌握重读音节的发音特点\",\"掌握非重读音节中元音字母 о 和 а 的弱化发音规则\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"prerequisites\":{\"value\":[\"元音字母 а, о, у, э 的认读与书写\",\"辅音字母 м, н, т, п 的认读与拼读\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"misconceptions\":{\"value\":[\"认为所有元音在任何位置发音都相同\",\"忽略重音符号导致发音错误\",\"将弱化的а和о发成完全的汉语e\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780773046169,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"zhipu:glm-5.1\"}}",
       "summary": "",
-      "title": "音节、重音与元音字母 о 和 а 的弱化"
+      "title": "音节、重音与元音字母 о 和 а 的弱化",
+      "grades": [
+        "七年级"
+      ],
+      "textbooks": [
+        {
+          "textbook_id": "c9daceed-c876-4e77-8ff2-97ca7ca114be",
+          "textbook_title": "新教材-初中俄语人教版七年级上册",
+          "grade": "七年级",
+          "volume": "上册",
+          "chapter_path": [
+            "Урок 1"
+          ]
+        }
+      ]
     }
   ],
   "relations": [

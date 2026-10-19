@@ -37,10 +37,10 @@
 ## 文件结构
 
 ```
-knowledge_points.json   # 全量知识点（70MB）
+knowledge_points.json   # 全量知识点（83MB）
 kp_relations.json       # 全量关系（9.6MB）
 meta.json               # 元信息
-split/                  # 按学段×科目拆分（推荐使用，单文件 200KB–11MB）
+split/                  # 按学段×科目拆分（推荐使用，单文件 190KB–14MB）
   index.json            # 拆分索引：文件清单 + 各组计数
   小学/<科目>.json
   初中/<科目>.json
@@ -65,6 +65,8 @@ split/                  # 按学段×科目拆分（推荐使用，单文件 200
 | `annotations` | 标注信息（JSON 字符串）|
 | `summary` | 摘要 |
 | `title` | 标题 |
+| `grades` | 年级列表（去重，如 `["七年级"]`）。少数知识点因新旧版教材并存出现在多个年级；高中多数教材按模块编排、本身不标年级，此时该字段为空，按 `textbooks[].volume` 的模块名使用（约 5,400 条高中知识点属于这种情况）|
+| `textbooks` | 来源教材明细数组，每项含 `textbook_id`、`textbook_title`、`grade`（年级）、`volume`（册次：上册/下册/全一册，高中为模块名如"选择性必修1 化学反应原理"）、`chapter_path`（教材内的单元→课路径）|
 
 **kp_relations / relations**
 

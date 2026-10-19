@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-04T17:50:24.901Z",
+  "exported_at": "2026-10-19T11:33:47.974Z",
   "total_kp": 33765,
   "total_relations": 21536,
   "files": [
@@ -9,7 +9,7 @@
       "subject": "体育",
       "kp_count": 404,
       "relation_count": 332,
-      "size_kb": 982
+      "size_kb": 1150
     },
     {
       "path": "初中/俄语.json",
@@ -17,7 +17,7 @@
       "subject": "俄语",
       "kp_count": 68,
       "relation_count": 90,
-      "size_kb": 168
+      "size_kb": 192
     },
     {
       "path": "初中/化学.json",
@@ -25,7 +25,7 @@
       "subject": "化学",
       "kp_count": 365,
       "relation_count": 457,
-      "size_kb": 899
+      "size_kb": 1060
     },
     {
       "path": "初中/历史.json",
@@ -33,7 +33,7 @@
       "subject": "历史",
       "kp_count": 1050,
       "relation_count": 639,
-      "size_kb": 2388
+      "size_kb": 2868
     },
     {
       "path": "初中/地理.json",
@@ -41,7 +41,7 @@
       "subject": "地理",
       "kp_count": 762,
       "relation_count": 745,
-      "size_kb": 1905
+      "size_kb": 2225
     },
     {
       "path": "初中/思政.json",
@@ -49,7 +49,7 @@
       "subject": "思政",
       "kp_count": 1028,
       "relation_count": 690,
-      "size_kb": 2512
+      "size_kb": 2992
     },
     {
       "path": "初中/数学.json",
@@ -57,7 +57,7 @@
       "subject": "数学",
       "kp_count": 1683,
       "relation_count": 1124,
-      "size_kb": 4145
+      "size_kb": 4896
     },
     {
       "path": "初中/日语.json",
@@ -65,7 +65,7 @@
       "subject": "日语",
       "kp_count": 120,
       "relation_count": 182,
-      "size_kb": 358
+      "size_kb": 406
     },
     {
       "path": "初中/物理.json",
@@ -73,7 +73,7 @@
       "subject": "物理",
       "kp_count": 711,
       "relation_count": 858,
-      "size_kb": 1881
+      "size_kb": 2184
     },
     {
       "path": "初中/生物.json",
@@ -81,7 +81,7 @@
       "subject": "生物",
       "kp_count": 795,
       "relation_count": 811,
-      "size_kb": 2031
+      "size_kb": 2421
     },
     {
       "path": "初中/美术.json",
@@ -89,7 +89,7 @@
       "subject": "美术",
       "kp_count": 389,
       "relation_count": 450,
-      "size_kb": 1022
+      "size_kb": 1188
     },
     {
       "path": "初中/艺术.json",
@@ -97,7 +97,7 @@
       "subject": "艺术",
       "kp_count": 459,
       "relation_count": 622,
-      "size_kb": 1273
+      "size_kb": 1471
     },
     {
       "path": "初中/英语.json",
@@ -105,7 +105,7 @@
       "subject": "英语",
       "kp_count": 1308,
       "relation_count": 638,
-      "size_kb": 3155
+      "size_kb": 3741
     },
     {
       "path": "初中/语文.json",
@@ -113,7 +113,7 @@
       "subject": "语文",
       "kp_count": 2263,
       "relation_count": 1284,
-      "size_kb": 5635
+      "size_kb": 6595
     },
     {
       "path": "初中/通用.json",
@@ -121,7 +121,7 @@
       "subject": "通用",
       "kp_count": 107,
       "relation_count": 0,
-      "size_kb": 219
+      "size_kb": 272
     },
     {
       "path": "初中/音乐.json",
@@ -129,7 +129,7 @@
       "subject": "音乐",
       "kp_count": 1219,
       "relation_count": 0,
-      "size_kb": 2398
+      "size_kb": 2917
     },
     {
       "path": "小学/体育.json",
@@ -137,7 +137,7 @@
       "subject": "体育",
       "kp_count": 1170,
       "relation_count": 111,
-      "size_kb": 2319
+      "size_kb": 2864
     },
     {
       "path": "小学/思政.json",
@@ -145,7 +145,7 @@
       "subject": "思政",
       "kp_count": 987,
       "relation_count": 666,
-      "size_kb": 2300
+      "size_kb": 2744
     },
     {
       "path": "小学/数学.json",
@@ -153,7 +153,7 @@
       "subject": "数学",
       "kp_count": 2201,
       "relation_count": 1755,
-      "size_kb": 5395
+      "size_kb": 6324
     },
     {
       "path": "小学/美术.json",
@@ -161,7 +161,7 @@
       "subject": "美术",
       "kp_count": 1144,
       "relation_count": 1059,
-      "size_kb": 2764
+      "size_kb": 3214
     },
     {
       "path": "小学/英语.json",
@@ -169,7 +169,7 @@
       "subject": "英语",
       "kp_count": 832,
       "relation_count": 0,
-      "size_kb": 1735
+      "size_kb": 2109
     },
     {
       "path": "小学/语文.json",
@@ -177,7 +177,7 @@
       "subject": "语文",
       "kp_count": 4851,
       "relation_count": 2889,
-      "size_kb": 11729
+      "size_kb": 13718
     },
     {
       "path": "小学/通用.json",
@@ -185,7 +185,7 @@
       "subject": "通用",
       "kp_count": 167,
       "relation_count": 0,
-      "size_kb": 332
+      "size_kb": 405
     },
     {
       "path": "小学/音乐.json",
@@ -193,7 +193,7 @@
       "subject": "音乐",
       "kp_count": 1021,
       "relation_count": 0,
-      "size_kb": 1968
+      "size_kb": 2398
     },
     {
       "path": "高中/体育.json",
@@ -201,7 +201,7 @@
       "subject": "体育",
       "kp_count": 262,
       "relation_count": 192,
-      "size_kb": 637
+      "size_kb": 740
     },
     {
       "path": "高中/化学.json",
@@ -209,7 +209,7 @@
       "subject": "化学",
       "kp_count": 707,
       "relation_count": 491,
-      "size_kb": 1754
+      "size_kb": 2067
     },
     {
       "path": "高中/历史.json",
@@ -217,7 +217,7 @@
       "subject": "历史",
       "kp_count": 580,
       "relation_count": 402,
-      "size_kb": 1479
+      "size_kb": 1750
     },
     {
       "path": "高中/地理.json",
@@ -225,7 +225,7 @@
       "subject": "地理",
       "kp_count": 558,
       "relation_count": 311,
-      "size_kb": 1323
+      "size_kb": 1574
     },
     {
       "path": "高中/思政.json",
@@ -233,7 +233,7 @@
       "subject": "思政",
       "kp_count": 852,
       "relation_count": 477,
-      "size_kb": 2036
+      "size_kb": 2449
     },
     {
       "path": "高中/数学.json",
@@ -241,7 +241,7 @@
       "subject": "数学",
       "kp_count": 723,
       "relation_count": 822,
-      "size_kb": 1897
+      "size_kb": 2214
     },
     {
       "path": "高中/物理.json",
@@ -249,7 +249,7 @@
       "subject": "物理",
       "kp_count": 554,
       "relation_count": 377,
-      "size_kb": 1348
+      "size_kb": 1579
     },
     {
       "path": "高中/生物.json",
@@ -257,7 +257,7 @@
       "subject": "生物",
       "kp_count": 681,
       "relation_count": 461,
-      "size_kb": 1681
+      "size_kb": 2007
     },
     {
       "path": "高中/科学.json",
@@ -265,7 +265,7 @@
       "subject": "科学",
       "kp_count": 82,
       "relation_count": 60,
-      "size_kb": 204
+      "size_kb": 238
     },
     {
       "path": "高中/美术.json",
@@ -273,7 +273,7 @@
       "subject": "美术",
       "kp_count": 595,
       "relation_count": 423,
-      "size_kb": 1478
+      "size_kb": 1723
     },
     {
       "path": "高中/艺术.json",
@@ -281,7 +281,7 @@
       "subject": "艺术",
       "kp_count": 491,
       "relation_count": 346,
-      "size_kb": 1211
+      "size_kb": 1418
     },
     {
       "path": "高中/英语.json",
@@ -289,7 +289,7 @@
       "subject": "英语",
       "kp_count": 796,
       "relation_count": 553,
-      "size_kb": 2064
+      "size_kb": 2400
     },
     {
       "path": "高中/语文.json",
@@ -297,7 +297,7 @@
       "subject": "语文",
       "kp_count": 729,
       "relation_count": 477,
-      "size_kb": 1887
+      "size_kb": 2186
     },
     {
       "path": "高中/通用.json",
@@ -305,7 +305,7 @@
       "subject": "通用",
       "kp_count": 974,
       "relation_count": 683,
-      "size_kb": 2371
+      "size_kb": 2807
     },
     {
       "path": "高中/音乐.json",
@@ -313,7 +313,7 @@
       "subject": "音乐",
       "kp_count": 77,
       "relation_count": 59,
-      "size_kb": 200
+      "size_kb": 232
     }
   ]
 }
