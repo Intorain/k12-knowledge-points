@@ -24,6 +24,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "fe81e852-b679-3d7c-9723-7f29b218b461",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "1.电磁振荡"
@@ -51,6 +52,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "fe81e852-b679-3d7c-9723-7f29b218b461",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "1.电磁振荡"
@@ -78,6 +80,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "a2937765-ae63-3940-aaa6-a3b4444803f6",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "3.实验：电池电动势和内阻的测量"
@@ -105,6 +108,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "182d6e9d-a8ec-35eb-a34c-18e96b5747f5",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "4.电磁波谱"
@@ -130,6 +134,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e7560f6d-16ae-31ce-9aa1-4f13aa4c94e1",
           "chapter_path": [
             "第四章 光",
             "5.光的衍射"
@@ -157,6 +162,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d984cca7-4337-3d58-91b8-ec188ed21564",
           "chapter_path": [
             "第四章 运动和力的关系",
             "2.实验：探究加速度与力、质量的关系"
@@ -184,6 +190,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "4859e5ad-b3c2-3229-8f33-f306a6055b37",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "3.匀变速直线运动的位移与时间的关系"
@@ -211,6 +218,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "79966a7c-853f-3cd9-9960-f61c61054784",
           "chapter_path": [
             "第一章 运动的描述",
             "4.速度变化快慢的描述——加速度"
@@ -238,6 +246,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5ca89ff3-d699-3a2c-bb9f-1d8469633713",
           "chapter_path": [
             "第一章 运动的描述",
             "3.位置变化快慢的描述——速度"
@@ -265,6 +274,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "f3c0b769-5653-320e-88be-04e6b23dab82",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "1.实验：探究小车速度随时间变化的规律"
@@ -290,6 +300,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "4db4bb0c-4258-3982-b9d0-75c0366519b2",
           "chapter_path": [
             "第五章 原子核",
             "1.原子核的组成"
@@ -315,6 +326,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "b6245e4e-6bfe-32b2-9080-8751d185dd3e",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "3.原子的核式结构模型"
@@ -340,6 +352,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "a4981866-c075-38d1-b7f2-dd61e9ef54d5",
           "chapter_path": [
             "第五章 原子核",
             "2.放射性元素的衰变"
@@ -365,6 +378,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "a4981866-c075-38d1-b7f2-dd61e9ef54d5",
           "chapter_path": [
             "第五章 原子核",
             "2.放射性元素的衰变"
@@ -390,6 +404,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "a4981866-c075-38d1-b7f2-dd61e9ef54d5",
           "chapter_path": [
             "第五章 原子核",
             "2.放射性元素的衰变"
@@ -417,6 +432,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
           "chapter_path": [
             "第一章 运动的描述",
             "2.时间 位移"
@@ -442,6 +458,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9d8197e6-f7cd-3f1f-921c-ad2de046c904",
           "chapter_path": [
             "第一章 动量守恒定律",
             "5.弹性碰撞和非弹性碰撞"
@@ -469,6 +486,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6df8d101-e313-34d2-b508-a3a2b8345fd3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "2.万有引力定律"
@@ -496,6 +514,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "609e7e01-fe2d-3d13-92f5-17588b660b36",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "4.能源与可持续发展"
@@ -523,6 +542,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -550,6 +570,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -577,6 +598,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -602,6 +624,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "25b664a5-c0d1-3e1a-a162-3c2364bfaa02",
           "chapter_path": [
             "第四章 光",
             "2.全反射"
@@ -629,6 +652,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "609e7e01-fe2d-3d13-92f5-17588b660b36",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "4.能源与可持续发展"
@@ -656,6 +680,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "08332dd5-a390-3020-8f01-aac21850a7a5",
           "chapter_path": [
             "第二章 电磁感应",
             "4.互感和自感"
@@ -683,6 +708,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "af4aa343-dbd9-382e-8a14-5d3eeb482e6f",
           "chapter_path": [
             "第三章 交变电流",
             "3.变压器"
@@ -710,6 +736,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "1d7d4bf4-b423-3bb7-b95b-767aff1b9a22",
           "chapter_path": [
             "第三章 交变电流",
             "1.交变电流"
@@ -737,6 +764,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "c0fb018d-a5e1-3594-b0e9-f5347dcf7cdc",
           "chapter_path": [
             "第三章 交变电流",
             "2.交变电流的描述"
@@ -764,6 +792,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "1d7d4bf4-b423-3bb7-b95b-767aff1b9a22",
           "chapter_path": [
             "第三章 交变电流",
             "1.交变电流"
@@ -791,6 +820,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "c0fb018d-a5e1-3594-b0e9-f5347dcf7cdc",
           "chapter_path": [
             "第三章 交变电流",
             "2.交变电流的描述"
@@ -818,6 +848,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "66976946-4e93-3f1f-80a0-3d6f974e8bcd",
           "chapter_path": [
             "第三章 交变电流",
             "4.电能的输送"
@@ -845,6 +876,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "95c97125-9819-3609-aba6-56b62344a820",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "3.电磁感应现象及应用"
@@ -870,6 +902,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "fa72238e-d803-3296-92d4-cc273ccfbe2d",
           "chapter_path": [
             "第四章 光",
             "1.光的折射"
@@ -897,6 +930,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9266dc39-eca9-3fdf-8a4c-1e918f91f778",
           "chapter_path": [
             "第四章 运动和力的关系",
             "5.牛顿运动定律的应用"
@@ -924,6 +958,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9266dc39-eca9-3fdf-8a4c-1e918f91f778",
           "chapter_path": [
             "第四章 运动和力的关系",
             "5.牛顿运动定律的应用"
@@ -951,6 +986,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "a2937765-ae63-3940-aaa6-a3b4444803f6",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "3.实验：电池电动势和内阻的测量"
@@ -978,6 +1014,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
           "chapter_path": [
             "第十一章 电路及其应用",
             "2.导体的电阻"
@@ -1005,6 +1042,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "175fc8f1-6dc5-33d8-9103-e3e46f1ceb8c",
           "chapter_path": [
             "第五章 传感器",
             "1.认识传感器"
@@ -1032,6 +1070,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "175fc8f1-6dc5-33d8-9103-e3e46f1ceb8c",
           "chapter_path": [
             "第五章 传感器",
             "1.认识传感器"
@@ -1059,6 +1098,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "175fc8f1-6dc5-33d8-9103-e3e46f1ceb8c",
           "chapter_path": [
             "第五章 传感器",
             "1.认识传感器"
@@ -1086,6 +1126,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "175fc8f1-6dc5-33d8-9103-e3e46f1ceb8c",
           "chapter_path": [
             "第五章 传感器",
             "1.认识传感器"
@@ -1113,6 +1154,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5f07e265-f85b-353c-ad40-179e10928b32",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "4.自由落体运动"
@@ -1140,6 +1182,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
           "chapter_path": [
             "第一章 运动的描述",
             "2.时间 位移"
@@ -1165,6 +1208,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9a26a48e-6ab5-342e-8173-b16c2956d14b",
           "chapter_path": [
             "第二章 机械振动",
             "1.简谐运动"
@@ -1192,6 +1236,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
           "chapter_path": [
             "第一章 运动的描述",
             "2.时间 位移"
@@ -1219,6 +1264,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "10c06505-ae59-3eae-a055-de26c98f94de",
           "chapter_path": [
             "第三章 相互作用——力",
             "3.牛顿第三定律"
@@ -1246,6 +1292,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "10c06505-ae59-3eae-a055-de26c98f94de",
           "chapter_path": [
             "第三章 相互作用——力",
             "3.牛顿第三定律"
@@ -1273,6 +1320,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "10c06505-ae59-3eae-a055-de26c98f94de",
           "chapter_path": [
             "第三章 相互作用——力",
             "3.牛顿第三定律"
@@ -1298,6 +1346,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "d76f1c8a-4918-3031-ac72-73de80aa773f",
           "chapter_path": [
             "第四章 光",
             "6.光的偏振 激光"
@@ -1325,6 +1374,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "1.电荷"
@@ -1352,6 +1402,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "992e3206-5b27-349a-8f26-20f7c5c2de14",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "5.能量量子化"
@@ -1377,6 +1428,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "2.光电效应"
@@ -1402,6 +1454,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "25b664a5-c0d1-3e1a-a162-3c2364bfaa02",
           "chapter_path": [
             "第四章 光",
             "2.全反射"
@@ -1429,6 +1482,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "75a34d93-5bd9-3325-9e5d-b9bdee97014c",
           "chapter_path": [
             "第五章 传感器",
             "3.利用传感器制作简单的自动控制装置"
@@ -1456,6 +1510,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9c5d0d6e-0251-3d38-bbea-0245dcb42865",
           "chapter_path": [
             "第五章 传感器",
             "2.常见传感器的工作原理及应用"
@@ -1483,6 +1538,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "75a34d93-5bd9-3325-9e5d-b9bdee97014c",
           "chapter_path": [
             "第五章 传感器",
             "3.利用传感器制作简单的自动控制装置"
@@ -1508,6 +1564,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -1518,6 +1575,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -1543,6 +1601,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "2.光电效应"
@@ -1568,6 +1627,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "2.光电效应"
@@ -1593,6 +1653,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "2.光电效应"
@@ -1618,6 +1679,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "d76f1c8a-4918-3031-ac72-73de80aa773f",
           "chapter_path": [
             "第四章 光",
             "6.光的偏振 激光"
@@ -1643,6 +1705,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "fa72238e-d803-3296-92d4-cc273ccfbe2d",
           "chapter_path": [
             "第四章 光",
             "1.光的折射"
@@ -1668,6 +1731,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "25b664a5-c0d1-3e1a-a162-3c2364bfaa02",
           "chapter_path": [
             "第四章 光",
             "2.全反射"
@@ -1693,6 +1757,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "25b664a5-c0d1-3e1a-a162-3c2364bfaa02",
           "chapter_path": [
             "第四章 光",
             "2.全反射"
@@ -1718,6 +1783,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "32ceaee7-0160-3b0a-bd9d-87e35049f87c",
           "chapter_path": [
             "第二章 机械振动",
             "6.受迫振动 共振"
@@ -1745,6 +1811,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "340a5325-509f-31b1-8874-e02faea2e2cf",
           "chapter_path": [
             "第三章 相互作用——力",
             "5.共点力的平衡"
@@ -1772,6 +1839,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "340a5325-509f-31b1-8874-e02faea2e2cf",
           "chapter_path": [
             "第三章 相互作用——力",
             "5.共点力的平衡"
@@ -1799,6 +1867,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "340a5325-509f-31b1-8874-e02faea2e2cf",
           "chapter_path": [
             "第三章 相互作用——力",
             "5.共点力的平衡"
@@ -1826,6 +1895,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e9c61aab-fc16-3804-8aac-9d30a5717689",
           "chapter_path": [
             "第三章 相互作用——力",
             "4.力的合成和分解"
@@ -1851,6 +1921,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7899d625-d483-329d-8141-f9d77c664470",
           "chapter_path": [
             "第三章 热力学定律",
             "1.功、热和内能的改变"
@@ -1876,6 +1947,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "444696c1-783f-33ee-8552-f91107e11dca",
           "chapter_path": [
             "第一章 分子动理论",
             "4.分子动能和分子势能"
@@ -1901,6 +1973,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "444696c1-783f-33ee-8552-f91107e11dca",
           "chapter_path": [
             "第一章 分子动理论",
             "4.分子动能和分子势能"
@@ -1926,6 +1999,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "444696c1-783f-33ee-8552-f91107e11dca",
           "chapter_path": [
             "第一章 分子动理论",
             "4.分子动能和分子势能"
@@ -1951,6 +2025,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cbd8e3b9-2b75-33e0-b90e-df4af1a67760",
           "chapter_path": [
             "第一章 分子动理论",
             "1.分子动理论的基本内容"
@@ -1976,6 +2051,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "647c3115-734c-3fc5-b5b8-cf22817454de",
           "chapter_path": [
             "第一章 分子动理论",
             "3.分子运动速率分布规律"
@@ -2001,6 +2077,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cbd8e3b9-2b75-33e0-b90e-df4af1a67760",
           "chapter_path": [
             "第一章 分子动理论",
             "1.分子动理论的基本内容"
@@ -2028,6 +2105,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "15fa2019-0bff-336b-9b57-a83c1c202b57",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "3.万有引力理论的成就"
@@ -2055,6 +2133,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "15fa2019-0bff-336b-9b57-a83c1c202b57",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "3.万有引力理论的成就"
@@ -2082,6 +2161,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "15fa2019-0bff-336b-9b57-a83c1c202b57",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "3.万有引力理论的成就"
@@ -2109,6 +2189,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "15fa2019-0bff-336b-9b57-a83c1c202b57",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "3.万有引力理论的成就"
@@ -2136,6 +2217,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e9c61aab-fc16-3804-8aac-9d30a5717689",
           "chapter_path": [
             "第三章 相互作用——力",
             "4.力的合成和分解"
@@ -2161,6 +2243,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "72f818cd-b308-37a7-99e8-3dc580c8619d",
           "chapter_path": [
             "高考复习",
             "《力与运动》专题"
@@ -2188,6 +2271,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a4973833-8930-3a2e-9a72-ef15ff1799a9",
           "chapter_path": [
             "第三章 相互作用——力",
             "1.重力与弹力"
@@ -2215,6 +2299,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c62104ed-2271-31c2-b716-a33b258edd24",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "1.功与功率"
@@ -2242,6 +2327,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c62104ed-2271-31c2-b716-a33b258edd24",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "1.功与功率"
@@ -2267,6 +2353,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0bc53016-61d2-378d-88c7-68010d59f045",
           "chapter_path": [
             "高考复习",
             "力学中的功能关系与能量守恒"
@@ -2294,6 +2381,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "79966a7c-853f-3cd9-9960-f61c61054784",
           "chapter_path": [
             "第一章 运动的描述",
             "4.速度变化快慢的描述——加速度"
@@ -2321,6 +2409,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d984cca7-4337-3d58-91b8-ec188ed21564",
           "chapter_path": [
             "第四章 运动和力的关系",
             "2.实验：探究加速度与力、质量的关系"
@@ -2348,6 +2437,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "79966a7c-853f-3cd9-9960-f61c61054784",
           "chapter_path": [
             "第一章 运动的描述",
             "4.速度变化快慢的描述——加速度"
@@ -2375,6 +2465,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "79966a7c-853f-3cd9-9960-f61c61054784",
           "chapter_path": [
             "第一章 运动的描述",
             "4.速度变化快慢的描述——加速度"
@@ -2402,6 +2493,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "340a5325-509f-31b1-8874-e02faea2e2cf",
           "chapter_path": [
             "第三章 相互作用——力",
             "5.共点力的平衡"
@@ -2429,6 +2521,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8992ada9-b14a-380f-ac48-c612e84a269a",
           "chapter_path": [
             "第三章 相互作用——力",
             "2.摩擦力"
@@ -2456,6 +2549,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "304ebbb0-1c97-3687-a238-9ecb9cc65668",
           "chapter_path": [
             "第二章 电磁感应",
             "2.法拉第电磁感应定律"
@@ -2481,6 +2575,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0bc53016-61d2-378d-88c7-68010d59f045",
           "chapter_path": [
             "高考复习",
             "力学中的功能关系与能量守恒"
@@ -2508,6 +2603,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6253d2b1-cc56-33b1-8ddb-9850c1b9f3fc",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "3.动能和动能定理"
@@ -2535,6 +2631,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6253d2b1-cc56-33b1-8ddb-9850c1b9f3fc",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "3.动能和动能定理"
@@ -2562,6 +2659,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6253d2b1-cc56-33b1-8ddb-9850c1b9f3fc",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "3.动能和动能定理"
@@ -2589,6 +2687,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6253d2b1-cc56-33b1-8ddb-9850c1b9f3fc",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "3.动能和动能定理"
@@ -2614,6 +2713,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "9ed52f50-661b-3a34-9334-a6547d3bafba",
           "chapter_path": [
             "高考复习",
             "与动量有关的力学问题"
@@ -2639,6 +2739,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "5d237eb8-9e3a-33a0-87f6-e46c052ca671",
           "chapter_path": [
             "高考复习",
             "力学复习之能量与动量"
@@ -2664,6 +2765,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "cd690103-44eb-3cb9-ad4a-fb23b04f893a",
           "chapter_path": [
             "第一章 动量守恒定律",
             "3.动量守恒定律"
@@ -2689,6 +2791,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "cd690103-44eb-3cb9-ad4a-fb23b04f893a",
           "chapter_path": [
             "第一章 动量守恒定律",
             "3.动量守恒定律"
@@ -2714,6 +2817,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "5f0ab66a-0f05-334f-8e5e-b4556908cf61",
           "chapter_path": [
             "第一章 动量守恒定律",
             "4.实验：验证动量守恒定律"
@@ -2739,6 +2843,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "cd690103-44eb-3cb9-ad4a-fb23b04f893a",
           "chapter_path": [
             "第一章 动量守恒定律",
             "3.动量守恒定律"
@@ -2764,6 +2869,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "cd690103-44eb-3cb9-ad4a-fb23b04f893a",
           "chapter_path": [
             "第一章 动量守恒定律",
             "3.动量守恒定律"
@@ -2789,6 +2895,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "9ed52f50-661b-3a34-9334-a6547d3bafba",
           "chapter_path": [
             "高考复习",
             "与动量有关的力学问题"
@@ -2814,6 +2921,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "cd690103-44eb-3cb9-ad4a-fb23b04f893a",
           "chapter_path": [
             "第一章 动量守恒定律",
             "3.动量守恒定律"
@@ -2839,6 +2947,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "002ef276-9392-3f8a-bc39-2ea1ec4aea27",
           "chapter_path": [
             "第一章 动量守恒定律",
             "2.动量定理"
@@ -2864,6 +2973,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "002ef276-9392-3f8a-bc39-2ea1ec4aea27",
           "chapter_path": [
             "第一章 动量守恒定律",
             "2.动量定理"
@@ -2889,6 +2999,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "002ef276-9392-3f8a-bc39-2ea1ec4aea27",
           "chapter_path": [
             "第一章 动量守恒定律",
             "2.动量定理"
@@ -2914,6 +3025,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "d39a3ea5-37c1-38a8-84a3-e5e40c1ab2af",
           "chapter_path": [
             "第一章 动量守恒定律",
             "1.动量"
@@ -2939,6 +3051,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "d39a3ea5-37c1-38a8-84a3-e5e40c1ab2af",
           "chapter_path": [
             "第一章 动量守恒定律",
             "1.动量"
@@ -2966,6 +3079,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "4859e5ad-b3c2-3229-8f33-f306a6055b37",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "3.匀变速直线运动的位移与时间的关系"
@@ -2993,6 +3107,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "ff783133-3173-347b-9f75-51df3456bad9",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "2.匀变速直线运动的速度与时间的关系"
@@ -3020,6 +3135,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "4859e5ad-b3c2-3229-8f33-f306a6055b37",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "3.匀变速直线运动的位移与时间的关系"
@@ -3047,6 +3163,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "ff783133-3173-347b-9f75-51df3456bad9",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "2.匀变速直线运动的速度与时间的关系"
@@ -3074,6 +3191,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "be9bd393-9cdd-3375-a13b-a060e1720865",
           "chapter_path": [
             "第十章 静电场中的能量",
             "3.电势差与电场强度的关系"
@@ -3101,6 +3219,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
           "chapter_path": [
             "第九章 静电场及其应用",
             "3.电场 电场强度"
@@ -3128,6 +3247,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "af9f94e2-5e59-39b2-9584-53a8027c1733",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "2.磁感应强度 磁通量"
@@ -3155,6 +3275,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "132b19f0-f8db-361b-8e1d-4b40d4c32465",
           "chapter_path": [
             "第六章 圆周运动",
             "1.圆周运动"
@@ -3182,6 +3303,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f6da17f6-271e-3cf6-864a-f2590644f891",
           "chapter_path": [
             "第五章 抛体运动",
             "2.运动的合成与分解"
@@ -3209,6 +3331,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "76b92c33-d38f-3efc-a06c-ed79a88f4f0a",
           "chapter_path": [
             "课题研究"
           ]
@@ -3233,6 +3356,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -3243,6 +3367,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -3268,6 +3393,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "a4981866-c075-38d1-b7f2-dd61e9ef54d5",
           "chapter_path": [
             "第五章 原子核",
             "2.放射性元素的衰变"
@@ -3295,6 +3421,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "204e7962-d53e-3edd-99eb-596cba925d1c",
           "chapter_path": [
             "第四章 运动和力的关系",
             "4.力学单位制"
@@ -3322,6 +3449,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "204e7962-d53e-3edd-99eb-596cba925d1c",
           "chapter_path": [
             "第四章 运动和力的关系",
             "4.力学单位制"
@@ -3347,6 +3475,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "afbd948e-8b7f-35ea-a40e-ab4ee7210e2c",
           "chapter_path": [
             "课题研究"
           ]
@@ -3371,6 +3500,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "3962247e-f7dc-3936-bf3e-28f6b5247a70",
           "chapter_path": [
             "第二章 机械振动",
             "4.单摆"
@@ -3396,6 +3526,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "3962247e-f7dc-3936-bf3e-28f6b5247a70",
           "chapter_path": [
             "第二章 机械振动",
             "4.单摆"
@@ -3421,6 +3552,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "3962247e-f7dc-3936-bf3e-28f6b5247a70",
           "chapter_path": [
             "第二章 机械振动",
             "4.单摆"
@@ -3448,6 +3580,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e2452a7c-7168-3528-b9ee-7b55911fcda8",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "4.机械能守恒定律"
@@ -3473,6 +3606,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "3962247e-f7dc-3936-bf3e-28f6b5247a70",
           "chapter_path": [
             "第二章 机械振动",
             "4.单摆"
@@ -3498,6 +3632,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7899d625-d483-329d-8141-f9d77c664470",
           "chapter_path": [
             "第三章 热力学定律",
             "1.功、热和内能的改变"
@@ -3523,6 +3658,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e7560f6d-16ae-31ce-9aa1-4f13aa4c94e1",
           "chapter_path": [
             "第四章 光",
             "5.光的衍射"
@@ -3550,6 +3686,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6df8d101-e313-34d2-b508-a3a2b8345fd3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "2.万有引力定律"
@@ -3575,6 +3712,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "b6245e4e-6bfe-32b2-9080-8751d185dd3e",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "3.原子的核式结构模型"
@@ -3600,6 +3738,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "4.氢原子光谱和玻尔的原子模型"
@@ -3625,6 +3764,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
           "chapter_path": [
             "第五章 原子核",
             "4.核裂变与核聚变"
@@ -3650,6 +3790,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "b6245e4e-6bfe-32b2-9080-8751d185dd3e",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "3.原子的核式结构模型"
@@ -3675,6 +3816,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "4db4bb0c-4258-3982-b9d0-75c0366519b2",
           "chapter_path": [
             "第五章 原子核",
             "1.原子核的组成"
@@ -3702,6 +3844,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "992e3206-5b27-349a-8f26-20f7c5c2de14",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "5.能量量子化"
@@ -3729,6 +3872,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "7a9ebc82-8622-3d48-929f-bd30e06cd1f2",
           "chapter_path": [
             "第一章 运动的描述",
             "1.质点 参考系"
@@ -3754,6 +3898,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "19ee0291-061c-3289-ad2a-4634f22b2aef",
           "chapter_path": [
             "第四章 光",
             "3.光的干涉"
@@ -3779,6 +3924,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "19ee0291-061c-3289-ad2a-4634f22b2aef",
           "chapter_path": [
             "第四章 光",
             "3.光的干涉"
@@ -3804,6 +3950,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "19ee0291-061c-3289-ad2a-4634f22b2aef",
           "chapter_path": [
             "第四章 光",
             "3.光的干涉"
@@ -3831,6 +3978,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "75a34d93-5bd9-3325-9e5d-b9bdee97014c",
           "chapter_path": [
             "第五章 传感器",
             "3.利用传感器制作简单的自动控制装置"
@@ -3856,6 +4004,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "c9482be4-a6c2-3952-9d2e-b6b3cf10de9e",
           "chapter_path": [
             "第一章 动量守恒定律",
             "6.反冲现象 火箭"
@@ -3881,6 +4030,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
           "chapter_path": [
             "第五章 原子核",
             "5.“基本”粒子"
@@ -3906,6 +4056,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "32ceaee7-0160-3b0a-bd9d-87e35049f87c",
           "chapter_path": [
             "第二章 机械振动",
             "6.受迫振动 共振"
@@ -3931,6 +4082,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "002ef276-9392-3f8a-bc39-2ea1ec4aea27",
           "chapter_path": [
             "第一章 动量守恒定律",
             "2.动量定理"
@@ -3958,6 +4110,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "79966a7c-853f-3cd9-9960-f61c61054784",
           "chapter_path": [
             "第一章 运动的描述",
             "4.速度变化快慢的描述——加速度"
@@ -3985,6 +4138,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "4.电磁波的发现及应用"
@@ -4012,6 +4166,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "4.电磁波的发现及应用"
@@ -4039,6 +4194,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "af4aa343-dbd9-382e-8a14-5d3eeb482e6f",
           "chapter_path": [
             "第三章 交变电流",
             "3.变压器"
@@ -4066,6 +4222,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "313cc86a-b481-3ce9-8687-5e25db745504",
           "chapter_path": [
             "第六章 圆周运动",
             "2.向心力"
@@ -4093,6 +4250,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "182d6e9d-a8ec-35eb-a34c-18e96b5747f5",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "4.电磁波谱"
@@ -4120,6 +4278,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "acdc51cf-2b0a-35a0-911b-a1d2d07c090b",
           "chapter_path": [
             "第二章 电磁感应",
             "1.楞次定律"
@@ -4147,6 +4306,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e9c61aab-fc16-3804-8aac-9d30a5717689",
           "chapter_path": [
             "第三章 相互作用——力",
             "4.力的合成和分解"
@@ -4172,6 +4332,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "4db4bb0c-4258-3982-b9d0-75c0366519b2",
           "chapter_path": [
             "第五章 原子核",
             "1.原子核的组成"
@@ -4199,6 +4360,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ede745a9-2f51-3081-a3d2-88d75108e20d",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "5.相对论时空观与牛顿力学的局限性"
@@ -4224,6 +4386,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "4.固体"
@@ -4251,6 +4414,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "313cc86a-b481-3ce9-8687-5e25db745504",
           "chapter_path": [
             "第六章 圆周运动",
             "2.向心力"
@@ -4278,6 +4442,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "313cc86a-b481-3ce9-8687-5e25db745504",
           "chapter_path": [
             "第六章 圆周运动",
             "2.向心力"
@@ -4305,6 +4470,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "09c674a9-7d1e-3705-9dd1-ab3e7fef61ef",
           "chapter_path": [
             "第六章 圆周运动",
             "3.向心加速度"
@@ -4332,6 +4498,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "09c674a9-7d1e-3705-9dd1-ab3e7fef61ef",
           "chapter_path": [
             "第六章 圆周运动",
             "3.向心加速度"
@@ -4359,6 +4526,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "09c674a9-7d1e-3705-9dd1-ab3e7fef61ef",
           "chapter_path": [
             "第六章 圆周运动",
             "3.向心加速度"
@@ -4386,6 +4554,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e2452a7c-7168-3528-b9ee-7b55911fcda8",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "4.机械能守恒定律"
@@ -4413,6 +4582,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "132b19f0-f8db-361b-8e1d-4b40d4c32465",
           "chapter_path": [
             "第六章 圆周运动",
             "1.圆周运动"
@@ -4438,6 +4608,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "57fce4ba-e602-328c-b541-7b7663bc930c",
           "chapter_path": [
             "第五章 原子核",
             "3.核力与结合能"
@@ -4465,6 +4636,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "a4fea51d-786f-32f0-b15f-fb8c944bdaa1",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "4.质谱仪与回旋加速器"
@@ -4490,6 +4662,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "32ceaee7-0160-3b0a-bd9d-87e35049f87c",
           "chapter_path": [
             "第二章 机械振动",
             "6.受迫振动 共振"
@@ -4517,6 +4690,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "204e7962-d53e-3edd-99eb-596cba925d1c",
           "chapter_path": [
             "第四章 运动和力的关系",
             "4.力学单位制"
@@ -4542,6 +4716,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "72f818cd-b308-37a7-99e8-3dc580c8619d",
           "chapter_path": [
             "高考复习",
             "《力与运动》专题"
@@ -4569,6 +4744,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "132b19f0-f8db-361b-8e1d-4b40d4c32465",
           "chapter_path": [
             "第六章 圆周运动",
             "1.圆周运动"
@@ -4594,6 +4770,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e7560f6d-16ae-31ce-9aa1-4f13aa4c94e1",
           "chapter_path": [
             "第四章 光",
             "5.光的衍射"
@@ -4621,6 +4798,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "93127cef-0fa2-34bc-888c-e0034d82dc7e",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "1.行星的运动"
@@ -4648,6 +4826,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "fa9c894a-123c-30aa-ad4f-4a4b9b35d6c3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "4.宇宙航行"
@@ -4675,6 +4854,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e821a735-8d12-3d51-93ea-bd98f4fbbebb",
           "chapter_path": [
             "课题研究"
           ]
@@ -4701,6 +4881,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
           "chapter_path": [
             "第四章 运动和力的关系",
             "3.牛顿第二定律"
@@ -4728,6 +4909,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7cf236e9-4fae-3677-bb08-b2a027f2d72e",
           "chapter_path": [
             "课题研究"
           ]
@@ -4754,6 +4936,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "204e7962-d53e-3edd-99eb-596cba925d1c",
           "chapter_path": [
             "第四章 运动和力的关系",
             "4.力学单位制"
@@ -4779,6 +4962,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e50678e0-ec2c-33df-904a-9dfc13b8fbad",
           "chapter_path": [
             "第三章 机械波",
             "5.多普勒效应"
@@ -4804,6 +4988,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e50678e0-ec2c-33df-904a-9dfc13b8fbad",
           "chapter_path": [
             "第三章 机械波",
             "5.多普勒效应"
@@ -4829,6 +5014,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e50678e0-ec2c-33df-904a-9dfc13b8fbad",
           "chapter_path": [
             "第三章 机械波",
             "5.多普勒效应"
@@ -4854,6 +5040,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "4.固体"
@@ -4881,6 +5068,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3235404f-a36b-3a30-b1cb-18cb944e2098",
           "chapter_path": [
             "第九章 静电场及其应用",
             "2.库仑定律"
@@ -4908,6 +5096,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e2452a7c-7168-3528-b9ee-7b55911fcda8",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "4.机械能守恒定律"
@@ -4935,6 +5124,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ecd3e0e6-6849-3247-ad69-dac815369bc7",
           "chapter_path": [
             "第十一章 电路及其应用",
             "5.实验：练习使用多用电表"
@@ -4962,6 +5152,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ecd3e0e6-6849-3247-ad69-dac815369bc7",
           "chapter_path": [
             "第十一章 电路及其应用",
             "5.实验：练习使用多用电表"
@@ -4989,6 +5180,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ecd3e0e6-6849-3247-ad69-dac815369bc7",
           "chapter_path": [
             "第十一章 电路及其应用",
             "5.实验：练习使用多用电表"
@@ -5016,6 +5208,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ecd3e0e6-6849-3247-ad69-dac815369bc7",
           "chapter_path": [
             "第十一章 电路及其应用",
             "5.实验：练习使用多用电表"
@@ -5041,6 +5234,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "c9482be4-a6c2-3952-9d2e-b6b3cf10de9e",
           "chapter_path": [
             "第一章 动量守恒定律",
             "6.反冲现象 火箭"
@@ -5066,6 +5260,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "54f20575-fff0-3d14-a56f-c372d65448d3",
           "chapter_path": [
             "课题研究"
           ]
@@ -5090,6 +5285,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "4db4bb0c-4258-3982-b9d0-75c0366519b2",
           "chapter_path": [
             "第五章 原子核",
             "1.原子核的组成"
@@ -5117,6 +5313,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6df8d101-e313-34d2-b508-a3a2b8345fd3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "2.万有引力定律"
@@ -5142,6 +5339,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
           "chapter_path": [
             "第五章 原子核",
             "5.“基本”粒子"
@@ -5169,6 +5367,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "42c8040e-86a9-37a1-bccd-5d1469c12d8f",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "1.磁场 磁感线"
@@ -5196,6 +5395,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "7e1e70e0-1d42-30f1-be93-dc0f60406af2",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "1.磁场对通电导线的作用力"
@@ -5223,6 +5423,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "7e1e70e0-1d42-30f1-be93-dc0f60406af2",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "1.磁场对通电导线的作用力"
@@ -5250,6 +5451,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "fa9c6166-88c6-3eb4-91e6-fb90efb02bd6",
           "chapter_path": [
             "第四章 运动和力的关系",
             "6.超重和失重"
@@ -5275,6 +5477,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9d8197e6-f7cd-3f1f-921c-ad2de046c904",
           "chapter_path": [
             "第一章 动量守恒定律",
             "5.弹性碰撞和非弹性碰撞"
@@ -5300,6 +5503,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "2937469c-5199-3f7e-a459-b1d1138386a9",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "5.粒子的波动性和量子力学的建立"
@@ -5327,6 +5531,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "af4aa343-dbd9-382e-8a14-5d3eeb482e6f",
           "chapter_path": [
             "第三章 交变电流",
             "3.变压器"
@@ -5354,6 +5559,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d984cca7-4337-3d58-91b8-ec188ed21564",
           "chapter_path": [
             "第四章 运动和力的关系",
             "2.实验：探究加速度与力、质量的关系"
@@ -5379,6 +5585,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "54f20575-fff0-3d14-a56f-c372d65448d3",
           "chapter_path": [
             "课题研究"
           ]
@@ -5405,6 +5612,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "204e7962-d53e-3edd-99eb-596cba925d1c",
           "chapter_path": [
             "第四章 运动和力的关系",
             "4.力学单位制"
@@ -5432,6 +5640,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "304ebbb0-1c97-3687-a238-9ecb9cc65668",
           "chapter_path": [
             "第二章 电磁感应",
             "2.法拉第电磁感应定律"
@@ -5459,6 +5668,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "304ebbb0-1c97-3687-a238-9ecb9cc65668",
           "chapter_path": [
             "第二章 电磁感应",
             "2.法拉第电磁感应定律"
@@ -5486,6 +5696,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7cf236e9-4fae-3677-bb08-b2a027f2d72e",
           "chapter_path": [
             "课题研究"
           ]
@@ -5512,6 +5723,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "4.静电的防止与利用"
@@ -5539,6 +5751,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e1846db2-c878-3564-87ed-de680a716535",
           "chapter_path": [
             "第十章 静电场中的能量",
             "5.带电粒子在电场中的运动"
@@ -5566,6 +5779,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e1846db2-c878-3564-87ed-de680a716535",
           "chapter_path": [
             "第十章 静电场中的能量",
             "5.带电粒子在电场中的运动"
@@ -5593,6 +5807,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "485f398a-d83b-358b-abf9-51abd0cd3bcf",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "3.带电粒子在匀强磁场中的运动"
@@ -5620,6 +5835,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "485f398a-d83b-358b-abf9-51abd0cd3bcf",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "3.带电粒子在匀强磁场中的运动"
@@ -5647,6 +5863,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "485f398a-d83b-358b-abf9-51abd0cd3bcf",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "3.带电粒子在匀强磁场中的运动"
@@ -5672,6 +5889,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "850efd11-ade4-3a00-9ac0-4b1937c1ef50",
           "chapter_path": [
             "高考复习",
             "电学复习之带电物体在场中的运动"
@@ -5699,6 +5917,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3f1bbd42-0213-32b2-88f5-8db797b00765",
           "chapter_path": [
             "第十章 静电场中的能量",
             "4.电容器的电容"
@@ -5724,6 +5943,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "08a75b29-8166-3bd3-a5be-63406308b17f",
           "chapter_path": [
             "第三章 机械波",
             "4.波的干涉"
@@ -5749,6 +5969,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "08a75b29-8166-3bd3-a5be-63406308b17f",
           "chapter_path": [
             "第三章 机械波",
             "4.波的干涉"
@@ -5776,6 +5997,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "75a34d93-5bd9-3325-9e5d-b9bdee97014c",
           "chapter_path": [
             "第五章 传感器",
             "3.利用传感器制作简单的自动控制装置"
@@ -5803,6 +6025,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5ca89ff3-d699-3a2c-bb9f-1d8469633713",
           "chapter_path": [
             "第一章 运动的描述",
             "3.位置变化快慢的描述——速度"
@@ -5830,6 +6053,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "130d1375-cc06-3552-8ccf-16717228cb39",
           "chapter_path": [
             "第五章 抛体运动",
             "4.抛体运动的规律"
@@ -5857,6 +6081,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "cc31de20-b6ac-384a-8841-544d49a9e1a5",
           "chapter_path": [
             "第五章 抛体运动",
             "3.实验：探究平抛运动的特点"
@@ -5884,6 +6109,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "130d1375-cc06-3552-8ccf-16717228cb39",
           "chapter_path": [
             "第五章 抛体运动",
             "4.抛体运动的规律"
@@ -5911,6 +6137,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3f1bbd42-0213-32b2-88f5-8db797b00765",
           "chapter_path": [
             "第十章 静电场中的能量",
             "4.电容器的电容"
@@ -5936,6 +6163,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1df662bf-7930-3f34-8995-04249d7cb88a",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "1.温度和温标"
@@ -5963,6 +6191,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -5990,6 +6219,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -6017,6 +6247,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -6044,6 +6275,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3235404f-a36b-3a30-b1cb-18cb944e2098",
           "chapter_path": [
             "第九章 静电场及其应用",
             "2.库仑定律"
@@ -6071,6 +6303,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3235404f-a36b-3a30-b1cb-18cb944e2098",
           "chapter_path": [
             "第九章 静电场及其应用",
             "2.库仑定律"
@@ -6098,6 +6331,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "93127cef-0fa2-34bc-888c-e0034d82dc7e",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "1.行星的运动"
@@ -6125,6 +6359,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "93127cef-0fa2-34bc-888c-e0034d82dc7e",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "1.行星的运动"
@@ -6152,6 +6387,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "93127cef-0fa2-34bc-888c-e0034d82dc7e",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "1.行星的运动"
@@ -6179,6 +6415,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6df8d101-e313-34d2-b508-a3a2b8345fd3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "2.万有引力定律"
@@ -6206,6 +6443,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a4973833-8930-3a2e-9a72-ef15ff1799a9",
           "chapter_path": [
             "第三章 相互作用——力",
             "1.重力与弹力"
@@ -6231,6 +6469,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0bc53016-61d2-378d-88c7-68010d59f045",
           "chapter_path": [
             "高考复习",
             "力学中的功能关系与能量守恒"
@@ -6256,6 +6495,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9d8197e6-f7cd-3f1f-921c-ad2de046c904",
           "chapter_path": [
             "第一章 动量守恒定律",
             "5.弹性碰撞和非弹性碰撞"
@@ -6281,6 +6521,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e9c3919d-6bed-3c46-9d38-d5d785bfe0ac",
           "chapter_path": [
             "第二章 机械振动",
             "3.简谐运动的回复力和能量"
@@ -6306,6 +6547,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9a26a48e-6ab5-342e-8173-b16c2956d14b",
           "chapter_path": [
             "第二章 机械振动",
             "1.简谐运动"
@@ -6333,6 +6575,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
           "chapter_path": [
             "序言 物理学：研究物质及其运动规律的科学"
           ]
@@ -6359,6 +6602,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
           "chapter_path": [
             "第十一章 电路及其应用",
             "2.导体的电阻"
@@ -6384,6 +6628,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -6409,6 +6654,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "2937469c-5199-3f7e-a459-b1d1138386a9",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "5.粒子的波动性和量子力学的建立"
@@ -6436,6 +6682,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c62104ed-2271-31c2-b716-a33b258edd24",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "1.功与功率"
@@ -6463,6 +6710,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "87a2a7b1-c3d6-3e4b-ac8f-48d4da2bf1ec",
           "chapter_path": [
             "第十一章 电路及其应用",
             "1.电源和电流"
@@ -6490,6 +6738,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8c4ed767-1988-39cb-8441-4fb47911fa06",
           "chapter_path": [
             "第四章 运动和力的关系",
             "1.牛顿第一定律"
@@ -6517,6 +6766,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8c4ed767-1988-39cb-8441-4fb47911fa06",
           "chapter_path": [
             "第四章 运动和力的关系",
             "1.牛顿第一定律"
@@ -6544,6 +6794,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "0cdd82c5-8177-35b6-9f3e-ca0649d9e7b0",
           "chapter_path": [
             "第二章 电磁感应",
             "3.涡流、电磁阻尼和电磁驱动"
@@ -6571,6 +6822,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "f3c0b769-5653-320e-88be-04e6b23dab82",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "1.实验：探究小车速度随时间变化的规律"
@@ -6598,6 +6850,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
           "chapter_path": [
             "第一章 运动的描述",
             "2.时间 位移"
@@ -6625,6 +6878,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5ca89ff3-d699-3a2c-bb9f-1d8469633713",
           "chapter_path": [
             "第一章 运动的描述",
             "3.位置变化快慢的描述——速度"
@@ -6650,6 +6904,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "5f0ab66a-0f05-334f-8e5e-b4556908cf61",
           "chapter_path": [
             "第一章 动量守恒定律",
             "4.实验：验证动量守恒定律"
@@ -6677,6 +6932,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d984cca7-4337-3d58-91b8-ec188ed21564",
           "chapter_path": [
             "第四章 运动和力的关系",
             "2.实验：探究加速度与力、质量的关系"
@@ -6702,6 +6958,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "72f818cd-b308-37a7-99e8-3dc580c8619d",
           "chapter_path": [
             "高考复习",
             "《力与运动》专题"
@@ -6729,6 +6986,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "1.电荷"
@@ -6756,6 +7014,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "130d1375-cc06-3552-8ccf-16717228cb39",
           "chapter_path": [
             "第五章 抛体运动",
             "4.抛体运动的规律"
@@ -6781,6 +7040,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "5f0ab66a-0f05-334f-8e5e-b4556908cf61",
           "chapter_path": [
             "第一章 动量守恒定律",
             "4.实验：验证动量守恒定律"
@@ -6808,6 +7068,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "182d6e9d-a8ec-35eb-a34c-18e96b5747f5",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "4.电磁波谱"
@@ -6835,6 +7096,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
           "chapter_path": [
             "第一章 运动的描述",
             "2.时间 位移"
@@ -6862,6 +7124,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ede745a9-2f51-3081-a3d2-88d75108e20d",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "5.相对论时空观与牛顿力学的局限性"
@@ -6887,6 +7150,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "fc83be8f-a783-3022-8790-152853a16f37",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "1.普朗克黑体辐射理论"
@@ -6912,6 +7176,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "4.固体"
@@ -6937,6 +7202,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "4.固体"
@@ -6962,6 +7228,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f13f63cd-3fa1-30d7-b4d3-861ca179b2f2",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "4.固体"
@@ -6989,6 +7256,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7cf236e9-4fae-3677-bb08-b2a027f2d72e",
           "chapter_path": [
             "课题研究"
           ]
@@ -7015,6 +7283,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ee27b8ea-dac6-311a-83d4-1b860eb83cd3",
           "chapter_path": [
             "第五章 抛体运动",
             "1.曲线运动"
@@ -7042,6 +7311,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ee27b8ea-dac6-311a-83d4-1b860eb83cd3",
           "chapter_path": [
             "第五章 抛体运动",
             "1.曲线运动"
@@ -7069,6 +7339,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6df8d101-e313-34d2-b508-a3a2b8345fd3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "2.万有引力定律"
@@ -7096,6 +7367,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8731fa65-7b89-3135-a168-f0a16165190b",
           "chapter_path": [
             "学生实验"
           ]
@@ -7120,6 +7392,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9a26a48e-6ab5-342e-8173-b16c2956d14b",
           "chapter_path": [
             "第二章 机械振动",
             "1.简谐运动"
@@ -7145,6 +7418,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "eeeb1fd3-3945-38c2-86f7-e3c51ba570c9",
           "chapter_path": [
             "第三章 机械波",
             "1.波的形成"
@@ -7170,6 +7444,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0bc53016-61d2-378d-88c7-68010d59f045",
           "chapter_path": [
             "高考复习",
             "力学中的功能关系与能量守恒"
@@ -7197,6 +7472,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e2452a7c-7168-3528-b9ee-7b55911fcda8",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "4.机械能守恒定律"
@@ -7224,6 +7500,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e2452a7c-7168-3528-b9ee-7b55911fcda8",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "4.机械能守恒定律"
@@ -7249,6 +7526,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7d9a72ef-e63c-3130-b8d1-093b7d505203",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "3.气体的等压变化和等容变化"
@@ -7259,6 +7537,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -7284,6 +7563,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -7309,6 +7589,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "57fce4ba-e602-328c-b541-7b7663bc930c",
           "chapter_path": [
             "第五章 原子核",
             "3.核力与结合能"
@@ -7334,6 +7615,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
           "chapter_path": [
             "第五章 原子核",
             "4.核裂变与核聚变"
@@ -7359,6 +7641,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -7384,6 +7667,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
           "chapter_path": [
             "第五章 原子核",
             "4.核裂变与核聚变"
@@ -7411,6 +7695,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "acdc51cf-2b0a-35a0-911b-a1d2d07c090b",
           "chapter_path": [
             "第二章 电磁感应",
             "1.楞次定律"
@@ -7438,6 +7723,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "acdc51cf-2b0a-35a0-911b-a1d2d07c090b",
           "chapter_path": [
             "第二章 电磁感应",
             "1.楞次定律"
@@ -7463,6 +7749,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "eeeb1fd3-3945-38c2-86f7-e3c51ba570c9",
           "chapter_path": [
             "第三章 机械波",
             "1.波的形成"
@@ -7490,6 +7777,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "33c76c84-f2c5-3681-bf23-8308fe70a6cb",
           "chapter_path": [
             "课题研究"
           ]
@@ -7516,6 +7804,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c62104ed-2271-31c2-b716-a33b258edd24",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "1.功与功率"
@@ -7543,6 +7832,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "1d7d4bf4-b423-3bb7-b95b-767aff1b9a22",
           "chapter_path": [
             "第三章 交变电流",
             "1.交变电流"
@@ -7570,6 +7860,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "1d7d4bf4-b423-3bb7-b95b-767aff1b9a22",
           "chapter_path": [
             "第三章 交变电流",
             "1.交变电流"
@@ -7597,6 +7888,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "c0fb018d-a5e1-3594-b0e9-f5347dcf7cdc",
           "chapter_path": [
             "第三章 交变电流",
             "2.交变电流的描述"
@@ -7622,6 +7914,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -7632,6 +7925,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -7657,6 +7951,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "eb34154e-edc8-3da3-973f-d7ad2b141618",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "5.液体"
@@ -7682,6 +7977,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "647c3115-734c-3fc5-b5b8-cf22817454de",
           "chapter_path": [
             "第一章 分子动理论",
             "3.分子运动速率分布规律"
@@ -7707,6 +8003,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7d9a72ef-e63c-3130-b8d1-093b7d505203",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "3.气体的等压变化和等容变化"
@@ -7732,6 +8029,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "8bf2eac9-a44e-3953-84c4-2c3ef41acfc4",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "2.气体的等温变化"
@@ -7759,6 +8057,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "beb67962-96ae-39a0-b4b2-73d94725e906",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "5.实验：验证机械能守恒定律"
@@ -7784,6 +8083,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "5f0ab66a-0f05-334f-8e5e-b4556908cf61",
           "chapter_path": [
             "第一章 动量守恒定律",
             "4.实验：验证动量守恒定律"
@@ -7809,6 +8109,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "4.氢原子光谱和玻尔的原子模型"
@@ -7834,6 +8135,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1e07b8b9-1b20-323a-b093-eb2fb255607a",
           "chapter_path": [
             "第三章 热力学定律",
             "3.能量守恒定律"
@@ -7861,6 +8163,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1db539ac-7778-3274-ad06-4150618b4679",
           "chapter_path": [
             "第六章 圆周运动",
             "4.生活中的圆周运动"
@@ -7886,6 +8189,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "294bf017-3b15-3240-b31f-6e54d6768cb9",
           "chapter_path": [
             "第一章 分子动理论",
             "2.实验：用油膜法估测油酸分子的大小"
@@ -7911,6 +8215,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "294bf017-3b15-3240-b31f-6e54d6768cb9",
           "chapter_path": [
             "第一章 分子动理论",
             "2.实验：用油膜法估测油酸分子的大小"
@@ -7936,6 +8241,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "294bf017-3b15-3240-b31f-6e54d6768cb9",
           "chapter_path": [
             "第一章 分子动理论",
             "2.实验：用油膜法估测油酸分子的大小"
@@ -7961,6 +8267,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "294bf017-3b15-3240-b31f-6e54d6768cb9",
           "chapter_path": [
             "第一章 分子动理论",
             "2.实验：用油膜法估测油酸分子的大小"
@@ -7988,6 +8295,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "1eb3c003-23f1-315f-8bff-2a9462ff833d",
           "chapter_path": [
             "第十章 静电场中的能量",
             "1.电势能和电势"
@@ -8015,6 +8323,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "304ebbb0-1c97-3687-a238-9ecb9cc65668",
           "chapter_path": [
             "第二章 电磁感应",
             "2.法拉第电磁感应定律"
@@ -8042,6 +8351,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "304ebbb0-1c97-3687-a238-9ecb9cc65668",
           "chapter_path": [
             "第二章 电磁感应",
             "2.法拉第电磁感应定律"
@@ -8067,6 +8377,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "0bab66fb-54f4-32dc-aa74-1f4c43e2a5e5",
           "chapter_path": [
             "第三章 机械波",
             "2.波的描述"
@@ -8092,6 +8403,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "936517e7-fd2b-33ea-aea4-8d4e4c260f3d",
           "chapter_path": [
             "第三章 机械波",
             "3.波的反射、折射和衍射"
@@ -8117,6 +8429,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "08a75b29-8166-3bd3-a5be-63406308b17f",
           "chapter_path": [
             "第三章 机械波",
             "4.波的干涉"
@@ -8142,6 +8455,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "0bab66fb-54f4-32dc-aa74-1f4c43e2a5e5",
           "chapter_path": [
             "第三章 机械波",
             "2.波的描述"
@@ -8167,6 +8481,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "08a75b29-8166-3bd3-a5be-63406308b17f",
           "chapter_path": [
             "第三章 机械波",
             "4.波的干涉"
@@ -8192,6 +8507,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "eeeb1fd3-3945-38c2-86f7-e3c51ba570c9",
           "chapter_path": [
             "第三章 机械波",
             "1.波的形成"
@@ -8217,6 +8533,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "936517e7-fd2b-33ea-aea4-8d4e4c260f3d",
           "chapter_path": [
             "第三章 机械波",
             "3.波的反射、折射和衍射"
@@ -8242,6 +8559,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "936517e7-fd2b-33ea-aea4-8d4e4c260f3d",
           "chapter_path": [
             "第三章 机械波",
             "3.波的反射、折射和衍射"
@@ -8267,6 +8585,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -8277,6 +8596,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -8302,6 +8622,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "0bab66fb-54f4-32dc-aa74-1f4c43e2a5e5",
           "chapter_path": [
             "第三章 机械波",
             "2.波的描述"
@@ -8329,6 +8650,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "193b56b1-c3d1-37dc-aeee-2e476054486a",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "2.磁场对运动电荷的作用力"
@@ -8356,6 +8678,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "193b56b1-c3d1-37dc-aeee-2e476054486a",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "2.磁场对运动电荷的作用力"
@@ -8383,6 +8706,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "193b56b1-c3d1-37dc-aeee-2e476054486a",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "2.磁场对运动电荷的作用力"
@@ -8410,6 +8734,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "193b56b1-c3d1-37dc-aeee-2e476054486a",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "2.磁场对运动电荷的作用力"
@@ -8435,6 +8760,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "eb34154e-edc8-3da3-973f-d7ad2b141618",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "5.液体"
@@ -8462,6 +8788,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "0cdd82c5-8177-35b6-9f3e-ca0649d9e7b0",
           "chapter_path": [
             "第二章 电磁感应",
             "3.涡流、电磁阻尼和电磁驱动"
@@ -8489,6 +8816,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "0cdd82c5-8177-35b6-9f3e-ca0649d9e7b0",
           "chapter_path": [
             "第二章 电磁感应",
             "3.涡流、电磁阻尼和电磁驱动"
@@ -8514,6 +8842,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "eb34154e-edc8-3da3-973f-d7ad2b141618",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "5.液体"
@@ -8539,6 +8868,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "eb34154e-edc8-3da3-973f-d7ad2b141618",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "5.液体"
@@ -8564,6 +8894,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "647c3115-734c-3fc5-b5b8-cf22817454de",
           "chapter_path": [
             "第一章 分子动理论",
             "3.分子运动速率分布规律"
@@ -8589,6 +8920,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1df662bf-7930-3f34-8995-04249d7cb88a",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "1.温度和温标"
@@ -8614,6 +8946,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1df662bf-7930-3f34-8995-04249d7cb88a",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "1.温度和温标"
@@ -8641,6 +8974,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "34167e9d-ab08-3d19-9ac3-0e4f091453dd",
           "chapter_path": [
             "第十一章 电路及其应用",
             "3.实验：导体电阻率的测量"
@@ -8668,6 +9002,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8992ada9-b14a-380f-ac48-c612e84a269a",
           "chapter_path": [
             "第三章 相互作用——力",
             "2.摩擦力"
@@ -8695,6 +9030,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8992ada9-b14a-380f-ac48-c612e84a269a",
           "chapter_path": [
             "第三章 相互作用——力",
             "2.摩擦力"
@@ -8720,6 +9056,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "d76f1c8a-4918-3031-ac72-73de80aa773f",
           "chapter_path": [
             "第四章 光",
             "6.光的偏振 激光"
@@ -8745,6 +9082,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "d76f1c8a-4918-3031-ac72-73de80aa773f",
           "chapter_path": [
             "第四章 光",
             "6.光的偏振 激光"
@@ -8770,6 +9108,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "c9482be4-a6c2-3952-9d2e-b6b3cf10de9e",
           "chapter_path": [
             "第一章 动量守恒定律",
             "6.反冲现象 火箭"
@@ -8797,6 +9136,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
           "chapter_path": [
             "第九章 静电场及其应用",
             "3.电场 电场强度"
@@ -8824,6 +9164,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3235404f-a36b-3a30-b1cb-18cb944e2098",
           "chapter_path": [
             "第九章 静电场及其应用",
             "2.库仑定律"
@@ -8849,6 +9190,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
           "chapter_path": [
             "第五章 原子核",
             "4.核裂变与核聚变"
@@ -8874,6 +9216,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1df662bf-7930-3f34-8995-04249d7cb88a",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "1.温度和温标"
@@ -8899,6 +9242,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -8909,6 +9253,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -8934,6 +9279,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "8ed5cd65-8312-3fc9-9e16-2912b65ccf5a",
           "chapter_path": [
             "第三章 热力学定律",
             "2.热力学第一定律"
@@ -8959,6 +9305,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "8ed5cd65-8312-3fc9-9e16-2912b65ccf5a",
           "chapter_path": [
             "第三章 热力学定律",
             "2.热力学第一定律"
@@ -8984,6 +9331,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -8994,6 +9342,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -9019,6 +9368,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "19111565-0c26-322e-8493-5c130269cc04",
           "chapter_path": [
             "第三章 热力学定律",
             "4.热力学第二定律"
@@ -9044,6 +9394,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "19111565-0c26-322e-8493-5c130269cc04",
           "chapter_path": [
             "第三章 热力学定律",
             "4.热力学第二定律"
@@ -9069,6 +9420,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1df662bf-7930-3f34-8995-04249d7cb88a",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "1.温度和温标"
@@ -9096,6 +9448,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "76b92c33-d38f-3efc-a06c-ed79a88f4f0a",
           "chapter_path": [
             "课题研究"
           ]
@@ -9120,6 +9473,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
           "chapter_path": [
             "第五章 原子核",
             "4.核裂变与核聚变"
@@ -9145,6 +9499,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "54f20575-fff0-3d14-a56f-c372d65448d3",
           "chapter_path": [
             "课题研究"
           ]
@@ -9171,6 +9526,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "97325014-ef2c-3aee-a300-60acde1696e0",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "1.电路中的能量转化"
@@ -9196,6 +9552,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "19111565-0c26-322e-8493-5c130269cc04",
           "chapter_path": [
             "第三章 热力学定律",
             "4.热力学第二定律"
@@ -9221,6 +9578,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "54f20575-fff0-3d14-a56f-c372d65448d3",
           "chapter_path": [
             "课题研究"
           ]
@@ -9245,6 +9603,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "54f20575-fff0-3d14-a56f-c372d65448d3",
           "chapter_path": [
             "课题研究"
           ]
@@ -9269,6 +9628,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "2.光电效应"
@@ -9296,6 +9656,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ede745a9-2f51-3081-a3d2-88d75108e20d",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "5.相对论时空观与牛顿力学的局限性"
@@ -9323,6 +9684,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8c4ed767-1988-39cb-8441-4fb47911fa06",
           "chapter_path": [
             "第四章 运动和力的关系",
             "1.牛顿第一定律"
@@ -9350,6 +9712,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "10c06505-ae59-3eae-a055-de26c98f94de",
           "chapter_path": [
             "第三章 相互作用——力",
             "3.牛顿第三定律"
@@ -9377,6 +9740,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "10c06505-ae59-3eae-a055-de26c98f94de",
           "chapter_path": [
             "第三章 相互作用——力",
             "3.牛顿第三定律"
@@ -9404,6 +9768,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
           "chapter_path": [
             "第四章 运动和力的关系",
             "3.牛顿第二定律"
@@ -9431,6 +9796,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
           "chapter_path": [
             "第四章 运动和力的关系",
             "3.牛顿第二定律"
@@ -9458,6 +9824,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
           "chapter_path": [
             "第四章 运动和力的关系",
             "3.牛顿第二定律"
@@ -9485,6 +9852,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "3e01b2f7-6c5e-34b0-9b92-89d209b6f1c1",
           "chapter_path": [
             "第四章 运动和力的关系",
             "3.牛顿第二定律"
@@ -9510,6 +9878,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "72f818cd-b308-37a7-99e8-3dc580c8619d",
           "chapter_path": [
             "高考复习",
             "《力与运动》专题"
@@ -9535,6 +9904,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "58de05fa-e41a-32b5-b46a-64d22b4e8077",
           "chapter_path": [
             "高考复习",
             "牛顿定律考查方式及题目变化"
@@ -9562,6 +9932,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ee27b8ea-dac6-311a-83d4-1b860eb83cd3",
           "chapter_path": [
             "第五章 抛体运动",
             "1.曲线运动"
@@ -9587,6 +9958,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cbd8e3b9-2b75-33e0-b90e-df4af1a67760",
           "chapter_path": [
             "第一章 分子动理论",
             "1.分子动理论的基本内容"
@@ -9614,6 +9986,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
           "chapter_path": [
             "序言 物理学：研究物质及其运动规律的科学"
           ]
@@ -9640,6 +10013,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
           "chapter_path": [
             "序言 物理学：研究物质及其运动规律的科学"
           ]
@@ -9666,6 +10040,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
           "chapter_path": [
             "序言 物理学：研究物质及其运动规律的科学"
           ]
@@ -9692,6 +10067,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
           "chapter_path": [
             "序言 物理学：研究物质及其运动规律的科学"
           ]
@@ -9718,6 +10094,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "630d7ed4-216d-3931-aad3-cb6d579eb2fb",
           "chapter_path": [
             "序言 物理学：研究物质及其运动规律的科学"
           ]
@@ -9744,6 +10121,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8731fa65-7b89-3135-a168-f0a16165190b",
           "chapter_path": [
             "学生实验"
           ]
@@ -9770,6 +10148,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8731fa65-7b89-3135-a168-f0a16165190b",
           "chapter_path": [
             "学生实验"
           ]
@@ -9796,6 +10175,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ede745a9-2f51-3081-a3d2-88d75108e20d",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "5.相对论时空观与牛顿力学的局限性"
@@ -9823,6 +10203,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "42c8040e-86a9-37a1-bccd-5d1469c12d8f",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "1.磁场 磁感线"
@@ -9848,6 +10229,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
           "chapter_path": [
             "第五章 原子核",
             "5.“基本”粒子"
@@ -9873,6 +10255,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "4.氢原子光谱和玻尔的原子模型"
@@ -9898,6 +10281,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "4.氢原子光谱和玻尔的原子模型"
@@ -9923,6 +10307,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "4.氢原子光谱和玻尔的原子模型"
@@ -9948,6 +10333,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "8bf2eac9-a44e-3953-84c4-2c3ef41acfc4",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "2.气体的等温变化"
@@ -9958,6 +10344,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -9968,6 +10355,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -9995,6 +10383,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "af4aa343-dbd9-382e-8a14-5d3eeb482e6f",
           "chapter_path": [
             "第三章 交变电流",
             "3.变压器"
@@ -10022,6 +10411,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "af4aa343-dbd9-382e-8a14-5d3eeb482e6f",
           "chapter_path": [
             "第三章 交变电流",
             "3.变压器"
@@ -10047,6 +10437,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "26f2fb15-711d-3615-abc9-d394c53c582e",
           "chapter_path": [
             "高考复习",
             "高考物理复习（三）"
@@ -10072,6 +10463,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7d9a72ef-e63c-3130-b8d1-093b7d505203",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "3.气体的等压变化和等容变化"
@@ -10097,6 +10489,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "ffa5fabc-ced6-3fc6-b1fc-e7d82ae1cd7f",
           "chapter_path": [
             "第二章 机械振动",
             "5.实验：用单摆测量重力加速度"
@@ -10122,6 +10515,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "01116785-1dcd-348c-9976-a3000272c286",
           "chapter_path": [
             "第四章 光",
             "4.实验：用双缝干涉测量光的波长"
@@ -10147,6 +10541,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "fa72238e-d803-3296-92d4-cc273ccfbe2d",
           "chapter_path": [
             "第四章 光",
             "1.光的折射"
@@ -10174,6 +10569,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "97325014-ef2c-3aee-a300-60acde1696e0",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "1.电路中的能量转化"
@@ -10201,6 +10597,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "97325014-ef2c-3aee-a300-60acde1696e0",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "1.电路中的能量转化"
@@ -10228,6 +10625,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "46e3a242-fee0-39bd-add0-37ad8c469c69",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "2.闭合电路的欧姆定律"
@@ -10255,6 +10653,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "399e2d25-b3c0-3e19-b71b-9ba46f161eb0",
           "chapter_path": [
             "第十章 静电场中的能量",
             "2.电势差"
@@ -10282,6 +10681,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "1eb3c003-23f1-315f-8bff-2a9462ff833d",
           "chapter_path": [
             "第十章 静电场中的能量",
             "1.电势能和电势"
@@ -10309,6 +10709,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "1eb3c003-23f1-315f-8bff-2a9462ff833d",
           "chapter_path": [
             "第十章 静电场中的能量",
             "1.电势能和电势"
@@ -10336,6 +10737,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -10361,6 +10763,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0a7b86ff-1938-3b98-a0d9-d48af28cb041",
           "chapter_path": [
             "高考复习",
             "高考备考之场的问题"
@@ -10388,6 +10791,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "be9bd393-9cdd-3375-a13b-a060e1720865",
           "chapter_path": [
             "第十章 静电场中的能量",
             "3.电势差与电场强度的关系"
@@ -10415,6 +10819,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
           "chapter_path": [
             "第九章 静电场及其应用",
             "3.电场 电场强度"
@@ -10442,6 +10847,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
           "chapter_path": [
             "第九章 静电场及其应用",
             "3.电场 电场强度"
@@ -10469,6 +10875,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "be9bd393-9cdd-3375-a13b-a060e1720865",
           "chapter_path": [
             "第十章 静电场中的能量",
             "3.电势差与电场强度的关系"
@@ -10496,6 +10903,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
           "chapter_path": [
             "第九章 静电场及其应用",
             "3.电场 电场强度"
@@ -10523,6 +10931,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "873057b7-92bb-3214-81da-0d0028c0f060",
           "chapter_path": [
             "第九章 静电场及其应用",
             "3.电场 电场强度"
@@ -10548,6 +10957,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "b6245e4e-6bfe-32b2-9080-8751d185dd3e",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "3.原子的核式结构模型"
@@ -10573,6 +10983,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "2937469c-5199-3f7e-a459-b1d1138386a9",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "5.粒子的波动性和量子力学的建立"
@@ -10600,6 +11011,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3f1bbd42-0213-32b2-88f5-8db797b00765",
           "chapter_path": [
             "第十章 静电场中的能量",
             "4.电容器的电容"
@@ -10627,6 +11039,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9c5d0d6e-0251-3d38-bbea-0245dcb42865",
           "chapter_path": [
             "第五章 传感器",
             "2.常见传感器的工作原理及应用"
@@ -10654,6 +11067,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3f1bbd42-0213-32b2-88f5-8db797b00765",
           "chapter_path": [
             "第十章 静电场中的能量",
             "4.电容器的电容"
@@ -10681,6 +11095,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "3f1bbd42-0213-32b2-88f5-8db797b00765",
           "chapter_path": [
             "第十章 静电场中的能量",
             "4.电容器的电容"
@@ -10708,6 +11123,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "87a2a7b1-c3d6-3e4b-ac8f-48d4da2bf1ec",
           "chapter_path": [
             "第十一章 电路及其应用",
             "1.电源和电流"
@@ -10735,6 +11151,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "87a2a7b1-c3d6-3e4b-ac8f-48d4da2bf1ec",
           "chapter_path": [
             "第十一章 电路及其应用",
             "1.电源和电流"
@@ -10762,6 +11179,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "60983bc2-f3fc-30b1-97bf-5a0b35ae7e68",
           "chapter_path": [
             "第十一章 电路及其应用",
             "4.串联电路和并联电路"
@@ -10789,6 +11207,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "46e3a242-fee0-39bd-add0-37ad8c469c69",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "2.闭合电路的欧姆定律"
@@ -10816,6 +11235,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e821a735-8d12-3d51-93ea-bd98f4fbbebb",
           "chapter_path": [
             "课题研究"
           ]
@@ -10842,6 +11262,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "87a2a7b1-c3d6-3e4b-ac8f-48d4da2bf1ec",
           "chapter_path": [
             "第十一章 电路及其应用",
             "1.电源和电流"
@@ -10869,6 +11290,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "4a579e84-e8a0-301c-a244-693c5901f602",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "2.电磁场与电磁波"
@@ -10896,6 +11318,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "4.电磁波的发现及应用"
@@ -10923,6 +11346,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "95c97125-9819-3609-aba6-56b62344a820",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "3.电磁感应现象及应用"
@@ -10950,6 +11374,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "95c97125-9819-3609-aba6-56b62344a820",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "3.电磁感应现象及应用"
@@ -10977,6 +11402,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "fe81e852-b679-3d7c-9723-7f29b218b461",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "1.电磁振荡"
@@ -11004,6 +11430,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "4.电磁波的发现及应用"
@@ -11031,6 +11458,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9957e6e7-a68d-33cd-8489-a614ca3f560a",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "3.无线电波的发射和接收"
@@ -11058,6 +11486,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "4a579e84-e8a0-301c-a244-693c5901f602",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "2.电磁场与电磁波"
@@ -11085,6 +11514,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "4.电磁波的发现及应用"
@@ -11112,6 +11542,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "182d6e9d-a8ec-35eb-a34c-18e96b5747f5",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "4.电磁波谱"
@@ -11139,6 +11570,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "0cdd82c5-8177-35b6-9f3e-ca0649d9e7b0",
           "chapter_path": [
             "第二章 电磁感应",
             "3.涡流、电磁阻尼和电磁驱动"
@@ -11166,6 +11598,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "0cdd82c5-8177-35b6-9f3e-ca0649d9e7b0",
           "chapter_path": [
             "第二章 电磁感应",
             "3.涡流、电磁阻尼和电磁驱动"
@@ -11193,6 +11626,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "1.电荷"
@@ -11220,6 +11654,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "1.电荷"
@@ -11247,6 +11682,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9957e6e7-a68d-33cd-8489-a614ca3f560a",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "3.无线电波的发射和接收"
@@ -11274,6 +11710,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "34167e9d-ab08-3d19-9ac3-0e4f091453dd",
           "chapter_path": [
             "第十一章 电路及其应用",
             "3.实验：导体电阻率的测量"
@@ -11301,6 +11738,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9c5d0d6e-0251-3d38-bbea-0245dcb42865",
           "chapter_path": [
             "第五章 传感器",
             "2.常见传感器的工作原理及应用"
@@ -11328,6 +11766,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
           "chapter_path": [
             "第十一章 电路及其应用",
             "2.导体的电阻"
@@ -11355,6 +11794,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
           "chapter_path": [
             "第十一章 电路及其应用",
             "2.导体的电阻"
@@ -11382,6 +11822,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "fe1412a8-f6e0-31de-9a34-b2b5b20ddc9c",
           "chapter_path": [
             "第十一章 电路及其应用",
             "2.导体的电阻"
@@ -11409,6 +11850,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "a2937765-ae63-3940-aaa6-a3b4444803f6",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "3.实验：电池电动势和内阻的测量"
@@ -11434,6 +11876,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e7560f6d-16ae-31ce-9aa1-4f13aa4c94e1",
           "chapter_path": [
             "第四章 光",
             "5.光的衍射"
@@ -11459,6 +11902,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7d9a72ef-e63c-3130-b8d1-093b7d505203",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "3.气体的等压变化和等容变化"
@@ -11469,6 +11913,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "abec8352-63e7-3ce7-acde-787e8510229d",
           "chapter_path": [
             "高考复习",
             "高考物理复习（四）"
@@ -11496,6 +11941,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "42c8040e-86a9-37a1-bccd-5d1469c12d8f",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "1.磁场 磁感线"
@@ -11523,6 +11969,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0056fc7-7cf6-355f-a103-b8116c2c48ea",
           "chapter_path": [
             "第一章 运动的描述",
             "2.时间 位移"
@@ -11550,6 +11997,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c62104ed-2271-31c2-b716-a33b258edd24",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "1.功与功率"
@@ -11577,6 +12025,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e9c61aab-fc16-3804-8aac-9d30a5717689",
           "chapter_path": [
             "第三章 相互作用——力",
             "4.力的合成和分解"
@@ -11602,6 +12051,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "9ed52f50-661b-3a34-9334-a6547d3bafba",
           "chapter_path": [
             "高考复习",
             "与动量有关的力学问题"
@@ -11629,6 +12079,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "42c8040e-86a9-37a1-bccd-5d1469c12d8f",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "1.磁场 磁感线"
@@ -11656,6 +12107,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "08332dd5-a390-3020-8f01-aac21850a7a5",
           "chapter_path": [
             "第二章 电磁感应",
             "4.互感和自感"
@@ -11683,6 +12135,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "af9f94e2-5e59-39b2-9584-53a8027c1733",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "2.磁感应强度 磁通量"
@@ -11710,6 +12163,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "af9f94e2-5e59-39b2-9584-53a8027c1733",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "2.磁感应强度 磁通量"
@@ -11737,6 +12191,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "42c8040e-86a9-37a1-bccd-5d1469c12d8f",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "1.磁场 磁感线"
@@ -11764,6 +12219,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "7e1e70e0-1d42-30f1-be93-dc0f60406af2",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "1.磁场对通电导线的作用力"
@@ -11791,6 +12247,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "af9f94e2-5e59-39b2-9584-53a8027c1733",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "2.磁感应强度 磁通量"
@@ -11818,6 +12275,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "af9f94e2-5e59-39b2-9584-53a8027c1733",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "2.磁感应强度 磁通量"
@@ -11845,6 +12303,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e1846db2-c878-3564-87ed-de680a716535",
           "chapter_path": [
             "第十章 静电场中的能量",
             "5.带电粒子在电场中的运动"
@@ -11872,6 +12331,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1db539ac-7778-3274-ad06-4150618b4679",
           "chapter_path": [
             "第六章 圆周运动",
             "4.生活中的圆周运动"
@@ -11899,6 +12359,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "33c76c84-f2c5-3681-bf23-8308fe70a6cb",
           "chapter_path": [
             "课题研究"
           ]
@@ -11923,6 +12384,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "afbd948e-8b7f-35ea-a40e-ab4ee7210e2c",
           "chapter_path": [
             "课题研究"
           ]
@@ -11949,6 +12411,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "fa9c894a-123c-30aa-ad4f-4a4b9b35d6c3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "4.宇宙航行"
@@ -11976,6 +12439,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "fa9c894a-123c-30aa-ad4f-4a4b9b35d6c3",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "4.宇宙航行"
@@ -12003,6 +12467,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "399e2d25-b3c0-3e19-b71b-9ba46f161eb0",
           "chapter_path": [
             "第十章 静电场中的能量",
             "2.电势差"
@@ -12028,6 +12493,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "8bf2eac9-a44e-3953-84c4-2c3ef41acfc4",
           "chapter_path": [
             "第二章 气体、固体和液体",
             "2.气体的等温变化"
@@ -12053,6 +12519,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "291c62ad-29ac-3db9-a5f3-3c2da45739f2",
           "chapter_path": [
             "第二章 机械振动",
             "2.简谐运动的描述"
@@ -12078,6 +12545,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "9a26a48e-6ab5-342e-8173-b16c2956d14b",
           "chapter_path": [
             "第二章 机械振动",
             "1.简谐运动"
@@ -12103,6 +12571,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "291c62ad-29ac-3db9-a5f3-3c2da45739f2",
           "chapter_path": [
             "第二章 机械振动",
             "2.简谐运动的描述"
@@ -12128,6 +12597,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e9c3919d-6bed-3c46-9d38-d5d785bfe0ac",
           "chapter_path": [
             "第二章 机械振动",
             "3.简谐运动的回复力和能量"
@@ -12153,6 +12623,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e9c3919d-6bed-3c46-9d38-d5d785bfe0ac",
           "chapter_path": [
             "第二章 机械振动",
             "3.简谐运动的回复力和能量"
@@ -12178,6 +12649,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "291c62ad-29ac-3db9-a5f3-3c2da45739f2",
           "chapter_path": [
             "第二章 机械振动",
             "2.简谐运动的描述"
@@ -12203,6 +12675,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "291c62ad-29ac-3db9-a5f3-3c2da45739f2",
           "chapter_path": [
             "第二章 机械振动",
             "2.简谐运动的描述"
@@ -12228,6 +12701,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
           "chapter_path": [
             "第五章 原子核",
             "5.“基本”粒子"
@@ -12253,6 +12727,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "6c7d705b-85e0-36e9-9f4a-5e355d5c7015",
           "chapter_path": [
             "第五章 原子核",
             "5.“基本”粒子"
@@ -12280,6 +12755,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "182d6e9d-a8ec-35eb-a34c-18e96b5747f5",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "4.电磁波谱"
@@ -12307,6 +12783,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "182d6e9d-a8ec-35eb-a34c-18e96b5747f5",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "4.电磁波谱"
@@ -12332,6 +12809,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "eeeb1fd3-3945-38c2-86f7-e3c51ba570c9",
           "chapter_path": [
             "第三章 机械波",
             "1.波的形成"
@@ -12359,6 +12837,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "132b19f0-f8db-361b-8e1d-4b40d4c32465",
           "chapter_path": [
             "第六章 圆周运动",
             "1.圆周运动"
@@ -12386,6 +12865,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "132b19f0-f8db-361b-8e1d-4b40d4c32465",
           "chapter_path": [
             "第六章 圆周运动",
             "1.圆周运动"
@@ -12413,6 +12893,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "34167e9d-ab08-3d19-9ac3-0e4f091453dd",
           "chapter_path": [
             "第十一章 电路及其应用",
             "3.实验：导体电阻率的测量"
@@ -12438,6 +12919,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "f8018a26-6c40-3508-8f2d-e03017094393",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "4.氢原子光谱和玻尔的原子模型"
@@ -12463,6 +12945,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "fc83be8f-a783-3022-8790-152853a16f37",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "1.普朗克黑体辐射理论"
@@ -12488,6 +12971,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "57fce4ba-e602-328c-b541-7b7663bc930c",
           "chapter_path": [
             "第五章 原子核",
             "3.核力与结合能"
@@ -12515,6 +12999,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8731fa65-7b89-3135-a168-f0a16165190b",
           "chapter_path": [
             "学生实验"
           ]
@@ -12539,6 +13024,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "7899d625-d483-329d-8141-f9d77c664470",
           "chapter_path": [
             "第三章 热力学定律",
             "1.功、热和内能的改变"
@@ -12564,6 +13050,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "647c3115-734c-3fc5-b5b8-cf22817454de",
           "chapter_path": [
             "第一章 分子动理论",
             "3.分子运动速率分布规律"
@@ -12591,6 +13078,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a4973833-8930-3a2e-9a72-ef15ff1799a9",
           "chapter_path": [
             "第三章 相互作用——力",
             "1.重力与弹力"
@@ -12618,6 +13106,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "609e7e01-fe2d-3d13-92f5-17588b660b36",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "4.能源与可持续发展"
@@ -12645,6 +13134,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "992e3206-5b27-349a-8f26-20f7c5c2de14",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "5.能量量子化"
@@ -12655,6 +13145,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "fc83be8f-a783-3022-8790-152853a16f37",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "1.普朗克黑体辐射理论"
@@ -12680,6 +13171,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1e07b8b9-1b20-323a-b093-eb2fb255607a",
           "chapter_path": [
             "第三章 热力学定律",
             "3.能量守恒定律"
@@ -12705,6 +13197,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "1e07b8b9-1b20-323a-b093-eb2fb255607a",
           "chapter_path": [
             "第三章 热力学定律",
             "3.能量守恒定律"
@@ -12715,6 +13208,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0bc53016-61d2-378d-88c7-68010d59f045",
           "chapter_path": [
             "高考复习",
             "力学中的功能关系与能量守恒"
@@ -12742,6 +13236,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "609e7e01-fe2d-3d13-92f5-17588b660b36",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "4.能源与可持续发展"
@@ -12767,6 +13262,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "19111565-0c26-322e-8493-5c130269cc04",
           "chapter_path": [
             "第三章 热力学定律",
             "4.热力学第二定律"
@@ -12794,6 +13290,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "609e7e01-fe2d-3d13-92f5-17588b660b36",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "4.能源与可持续发展"
@@ -12821,6 +13318,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "08332dd5-a390-3020-8f01-aac21850a7a5",
           "chapter_path": [
             "第二章 电磁感应",
             "4.互感和自感"
@@ -12848,6 +13346,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "08332dd5-a390-3020-8f01-aac21850a7a5",
           "chapter_path": [
             "第二章 电磁感应",
             "4.互感和自感"
@@ -12875,6 +13374,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5f07e265-f85b-353c-ad40-179e10928b32",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "4.自由落体运动"
@@ -12902,6 +13402,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "beb67962-96ae-39a0-b4b2-73d94725e906",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "5.实验：验证机械能守恒定律"
@@ -12929,6 +13430,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5f07e265-f85b-353c-ad40-179e10928b32",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "4.自由落体运动"
@@ -12956,6 +13458,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5f07e265-f85b-353c-ad40-179e10928b32",
           "chapter_path": [
             "第二章 匀变速直线运动的研究",
             "4.自由落体运动"
@@ -12983,6 +13486,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1db539ac-7778-3274-ad06-4150618b4679",
           "chapter_path": [
             "第六章 圆周运动",
             "4.生活中的圆周运动"
@@ -13008,6 +13512,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "19ee0291-061c-3289-ad2a-4634f22b2aef",
           "chapter_path": [
             "第四章 光",
             "3.光的干涉"
@@ -13035,6 +13540,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "34167e9d-ab08-3d19-9ac3-0e4f091453dd",
           "chapter_path": [
             "第十一章 电路及其应用",
             "3.实验：导体电阻率的测量"
@@ -13062,6 +13568,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "93127cef-0fa2-34bc-888c-e0034d82dc7e",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "1.行星的运动"
@@ -13087,6 +13594,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "e7560f6d-16ae-31ce-9aa1-4f13aa4c94e1",
           "chapter_path": [
             "第四章 光",
             "5.光的衍射"
@@ -13112,6 +13620,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "a4981866-c075-38d1-b7f2-dd61e9ef54d5",
           "chapter_path": [
             "第五章 原子核",
             "2.放射性元素的衰变"
@@ -13139,6 +13648,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "132b19f0-f8db-361b-8e1d-4b40d4c32465",
           "chapter_path": [
             "第六章 圆周运动",
             "1.圆周运动"
@@ -13166,6 +13676,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9957e6e7-a68d-33cd-8489-a614ca3f560a",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "3.无线电波的发射和接收"
@@ -13193,6 +13704,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8731fa65-7b89-3135-a168-f0a16165190b",
           "chapter_path": [
             "学生实验"
           ]
@@ -13219,6 +13731,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "33c76c84-f2c5-3681-bf23-8308fe70a6cb",
           "chapter_path": [
             "课题研究"
           ]
@@ -13245,6 +13758,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9957e6e7-a68d-33cd-8489-a614ca3f560a",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "3.无线电波的发射和接收"
@@ -13270,6 +13784,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "32ceaee7-0160-3b0a-bd9d-87e35049f87c",
           "chapter_path": [
             "第二章 机械振动",
             "6.受迫振动 共振"
@@ -13295,6 +13810,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "4db4bb0c-4258-3982-b9d0-75c0366519b2",
           "chapter_path": [
             "第五章 原子核",
             "1.原子核的组成"
@@ -13322,6 +13838,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "7a9ebc82-8622-3d48-929f-bd30e06cd1f2",
           "chapter_path": [
             "第一章 运动的描述",
             "1.质点 参考系"
@@ -13349,6 +13866,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "a4fea51d-786f-32f0-b15f-fb8c944bdaa1",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "4.质谱仪与回旋加速器"
@@ -13374,6 +13892,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "57fce4ba-e602-328c-b541-7b7663bc930c",
           "chapter_path": [
             "第五章 原子核",
             "3.核力与结合能"
@@ -13401,6 +13920,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "4a579e84-e8a0-301c-a244-693c5901f602",
           "chapter_path": [
             "第四章 电磁振荡与电磁波",
             "2.电磁场与电磁波"
@@ -13428,6 +13948,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "ed2ef00b-3a15-3f18-8182-432ebc944c35",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "4.电磁波的发现及应用"
@@ -13455,6 +13976,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9266dc39-eca9-3fdf-8a4c-1e918f91f778",
           "chapter_path": [
             "第四章 运动和力的关系",
             "5.牛顿运动定律的应用"
@@ -13482,6 +14004,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "fa9c6166-88c6-3eb4-91e6-fb90efb02bd6",
           "chapter_path": [
             "第四章 运动和力的关系",
             "6.超重和失重"
@@ -13509,6 +14032,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "fa9c6166-88c6-3eb4-91e6-fb90efb02bd6",
           "chapter_path": [
             "第四章 运动和力的关系",
             "6.超重和失重"
@@ -13536,6 +14060,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "46e3a242-fee0-39bd-add0-37ad8c469c69",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "2.闭合电路的欧姆定律"
@@ -13563,6 +14088,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "66976946-4e93-3f1f-80a0-3d6f974e8bcd",
           "chapter_path": [
             "第三章 交变电流",
             "4.电能的输送"
@@ -13590,6 +14116,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f6da17f6-271e-3cf6-864a-f2590644f891",
           "chapter_path": [
             "第五章 抛体运动",
             "2.运动的合成与分解"
@@ -13617,6 +14144,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7cf236e9-4fae-3677-bb08-b2a027f2d72e",
           "chapter_path": [
             "课题研究"
           ]
@@ -13643,6 +14171,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f6da17f6-271e-3cf6-864a-f2590644f891",
           "chapter_path": [
             "第五章 抛体运动",
             "2.运动的合成与分解"
@@ -13670,6 +14199,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "66976946-4e93-3f1f-80a0-3d6f974e8bcd",
           "chapter_path": [
             "第三章 交变电流",
             "4.电能的输送"
@@ -13697,6 +14227,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5ca89ff3-d699-3a2c-bb9f-1d8469633713",
           "chapter_path": [
             "第一章 运动的描述",
             "3.位置变化快慢的描述——速度"
@@ -13724,6 +14255,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5ca89ff3-d699-3a2c-bb9f-1d8469633713",
           "chapter_path": [
             "第一章 运动的描述",
             "3.位置变化快慢的描述——速度"
@@ -13749,6 +14281,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "cfdc9007-8f7a-3bc2-85aa-a4d42e7674bf",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "2.光电效应"
@@ -13776,6 +14309,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "485f398a-d83b-358b-abf9-51abd0cd3bcf",
           "chapter_path": [
             "第一章 安培力与洛伦兹力",
             "3.带电粒子在匀强磁场中的运动"
@@ -13803,6 +14337,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "57a6499e-eda8-3ce7-a142-7375c701cc1a",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "2.重力势能"
@@ -13830,6 +14365,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "57a6499e-eda8-3ce7-a142-7375c701cc1a",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "2.重力势能"
@@ -13855,6 +14391,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0bc53016-61d2-378d-88c7-68010d59f045",
           "chapter_path": [
             "高考复习",
             "力学中的功能关系与能量守恒"
@@ -13882,6 +14419,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "57a6499e-eda8-3ce7-a142-7375c701cc1a",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "2.重力势能"
@@ -13909,6 +14447,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "57a6499e-eda8-3ce7-a142-7375c701cc1a",
           "chapter_path": [
             "第八章 机械能守恒定律",
             "2.重力势能"
@@ -13936,6 +14475,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a4973833-8930-3a2e-9a72-ef15ff1799a9",
           "chapter_path": [
             "第三章 相互作用——力",
             "1.重力与弹力"
@@ -13963,6 +14503,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a4973833-8930-3a2e-9a72-ef15ff1799a9",
           "chapter_path": [
             "第三章 相互作用——力",
             "1.重力与弹力"
@@ -13988,6 +14529,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "2937469c-5199-3f7e-a459-b1d1138386a9",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "5.粒子的波动性和量子力学的建立"
@@ -14013,6 +14555,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "2937469c-5199-3f7e-a459-b1d1138386a9",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "5.粒子的波动性和量子力学的建立"
@@ -14040,6 +14583,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "34167e9d-ab08-3d19-9ac3-0e4f091453dd",
           "chapter_path": [
             "第十一章 电路及其应用",
             "3.实验：导体电阻率的测量"
@@ -14067,6 +14611,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9c5d0d6e-0251-3d38-bbea-0245dcb42865",
           "chapter_path": [
             "第五章 传感器",
             "2.常见传感器的工作原理及应用"
@@ -14094,6 +14639,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1db539ac-7778-3274-ad06-4150618b4679",
           "chapter_path": [
             "第六章 圆周运动",
             "4.生活中的圆周运动"
@@ -14119,6 +14665,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "0266b8b1-b654-3a68-8e7d-a9165682b41d",
           "chapter_path": [
             "第五章 原子核",
             "4.核裂变与核聚变"
@@ -14146,6 +14693,7 @@
           "textbook_title": "高中物理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ede745a9-2f51-3081-a3d2-88d75108e20d",
           "chapter_path": [
             "第七章 万有引力与宇宙航行",
             "5.相对论时空观与牛顿力学的局限性"
@@ -14173,6 +14721,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "46e3a242-fee0-39bd-add0-37ad8c469c69",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "2.闭合电路的欧姆定律"
@@ -14198,6 +14747,7 @@
           "textbook_title": "高中物理人教版选择性必修 第一册",
           "grade": "",
           "volume": "选择性必修 第一册",
+          "chapter_node_id": "32ceaee7-0160-3b0a-bd9d-87e35049f87c",
           "chapter_path": [
             "第二章 机械振动",
             "6.受迫振动 共振"
@@ -14225,6 +14775,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "9c5d0d6e-0251-3d38-bbea-0245dcb42865",
           "chapter_path": [
             "第五章 传感器",
             "2.常见传感器的工作原理及应用"
@@ -14252,6 +14803,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8992ada9-b14a-380f-ac48-c612e84a269a",
           "chapter_path": [
             "第三章 相互作用——力",
             "2.摩擦力"
@@ -14279,6 +14831,7 @@
           "textbook_title": "高中物理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "8992ada9-b14a-380f-ac48-c612e84a269a",
           "chapter_path": [
             "第三章 相互作用——力",
             "2.摩擦力"
@@ -14306,6 +14859,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "399e2d25-b3c0-3e19-b71b-9ba46f161eb0",
           "chapter_path": [
             "第十章 静电场中的能量",
             "2.电势差"
@@ -14333,6 +14887,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "1eb3c003-23f1-315f-8bff-2a9462ff833d",
           "chapter_path": [
             "第十章 静电场中的能量",
             "1.电势能和电势"
@@ -14360,6 +14915,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "4.静电的防止与利用"
@@ -14387,6 +14943,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "4.静电的防止与利用"
@@ -14414,6 +14971,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "4.静电的防止与利用"
@@ -14441,6 +14999,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "4.静电的防止与利用"
@@ -14468,6 +15027,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "69cc2c82-5f84-35d0-8b4a-ce236ac744a7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "1.电荷"
@@ -14495,6 +15055,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "e67cadde-1a49-341c-afd0-b23ce4b232b7",
           "chapter_path": [
             "第九章 静电场及其应用",
             "4.静电的防止与利用"
@@ -14522,6 +15083,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "97325014-ef2c-3aee-a300-60acde1696e0",
           "chapter_path": [
             "第十二章 电能 能量守恒定律",
             "1.电路中的能量转化"
@@ -14549,6 +15111,7 @@
           "textbook_title": "高中物理人教版高二选择性必修 第二册",
           "grade": "高二",
           "volume": "选择性必修 第二册",
+          "chapter_node_id": "66976946-4e93-3f1f-80a0-3d6f974e8bcd",
           "chapter_path": [
             "第三章 交变电流",
             "4.电能的输送"
@@ -14576,6 +15139,7 @@
           "textbook_title": "高中物理人教版高二必修 第三册",
           "grade": "高二",
           "volume": "必修 第三册",
+          "chapter_node_id": "992e3206-5b27-349a-8f26-20f7c5c2de14",
           "chapter_path": [
             "第十三章 电磁感应与电磁波初步",
             "5.能量量子化"
@@ -14601,6 +15165,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "fc83be8f-a783-3022-8790-152853a16f37",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "1.普朗克黑体辐射理论"
@@ -14626,6 +15191,7 @@
           "textbook_title": "高中物理人教版选择性必修 第三册",
           "grade": "",
           "volume": "选择性必修 第三册",
+          "chapter_node_id": "fc83be8f-a783-3022-8790-152853a16f37",
           "chapter_path": [
             "第四章 原子结构和波粒二象性",
             "1.普朗克黑体辐射理论"

@@ -24,6 +24,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "057d8ce2-669b-3cb1-8841-6810ef59ae9a",
           "chapter_path": [
             "第五章 环境与发展",
             "第二节 走向人地协调——可持续发展"
@@ -49,6 +50,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "2236f35e-5dab-38af-9deb-d21226800665",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第三节 环境问题及其危害"
@@ -76,6 +78,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -101,6 +104,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "e126e1b2-4369-3bf3-90e9-5afbf127ed99",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第四节 国际合作"
@@ -126,6 +130,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "669d9a63-73da-3946-94f3-27f6730ae0f5",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第一节 走向生态文明"
@@ -153,6 +158,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0a4ea2fb-489e-3ff7-a07f-31858cd73c07",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -179,6 +185,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "92f1b34d-6bfc-3c75-9abf-75dd7b78678f",
           "chapter_path": [
             "第三章 大气的运动",
             "第二节 气压带和风带"
@@ -206,6 +213,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -231,6 +239,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "a924b744-3b4e-3163-bef5-e90366bbf804",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "问题研究 是否应该发展核能"
@@ -258,6 +267,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6fcb3330-3b2d-386e-8042-83ae5c6adc60",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -286,6 +296,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f938312e-dbf7-3eae-adb1-e785fe74c617",
           "chapter_path": [
             "第一章 人口",
             "第一节 人口分布"
@@ -313,6 +324,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "be028422-d52c-3113-8684-5eeb2a4ec2c6",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -341,6 +353,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9f45a2c3-cabd-3ce8-ad68-1b8a5b20a9e5",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第二节 城镇化"
@@ -366,6 +379,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "a924b744-3b4e-3163-bef5-e90366bbf804",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "问题研究 是否应该发展核能"
@@ -393,6 +407,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "16220db8-b2d5-3d8a-a2e2-4ac464dba7b9",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -421,6 +436,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4cc4f495-6887-3d29-85e8-385180e26402",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -449,6 +465,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0a4ea2fb-489e-3ff7-a07f-31858cd73c07",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -477,6 +494,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "fcf30bba-2538-3cfd-9ce8-b90ebee14b4a",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -503,6 +521,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "e126e1b2-4369-3bf3-90e9-5afbf127ed99",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第四节 国际合作"
@@ -528,6 +547,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6475771a-b5e3-3a0d-ab37-35d736394eb0",
           "chapter_path": [
             "第四章 水的运动",
             "第二节 洋流"
@@ -553,6 +573,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "5b0c56d1-7fbe-37d2-bfdc-f9198b1d74ee",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第三节 产业转移"
@@ -580,6 +601,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "41d5e9c9-2eb5-3b76-9dd3-e5c6eef1a7ac",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -609,6 +631,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "41d5e9c9-2eb5-3b76-9dd3-e5c6eef1a7ac",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -638,6 +661,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "41d5e9c9-2eb5-3b76-9dd3-e5c6eef1a7ac",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -667,6 +691,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "07b7385d-7272-3889-af68-a38bdc5acae4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -696,6 +721,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "07b7385d-7272-3889-af68-a38bdc5acae4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -725,6 +751,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "07b7385d-7272-3889-af68-a38bdc5acae4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -754,6 +781,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1a8052a7-77b4-37d5-a15c-7ff5489656a1",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -783,6 +811,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1a8052a7-77b4-37d5-a15c-7ff5489656a1",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -812,6 +841,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1a8052a7-77b4-37d5-a15c-7ff5489656a1",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -841,6 +871,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a8191334-b6cc-3614-bb54-09edeeb5674b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -870,6 +901,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a8191334-b6cc-3614-bb54-09edeeb5674b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -899,6 +931,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "07b7385d-7272-3889-af68-a38bdc5acae4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -928,6 +961,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "02ce2f0a-e20f-3ea2-ab7d-33978921499b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -956,6 +990,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ff3345f0-dc46-3f70-8137-2e4a66900fb3",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -984,6 +1019,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "96d426ae-45a3-3b91-aecd-e2cbe4bc0eba",
           "chapter_path": [
             "第六章 自然灾害",
             "第三节 防灾减灾"
@@ -1009,6 +1045,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "11c1346a-9fc6-3d9c-bdc7-986b1882cfee",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "问题研究 我们的生态足迹有多大"
@@ -1036,6 +1073,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "02ce2f0a-e20f-3ea2-ab7d-33978921499b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1064,6 +1102,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6a8d8ee3-34cf-3339-ab8c-21e7bbb7c6b2",
           "chapter_path": [
             "第五章 环境与发展",
             "第三节 中国国家发展战略举例"
@@ -1091,6 +1130,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6fcb3330-3b2d-386e-8042-83ae5c6adc60",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -1119,6 +1159,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f98ae89d-e2bb-3766-81ab-24345e14d471",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1147,6 +1188,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f98ae89d-e2bb-3766-81ab-24345e14d471",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1175,6 +1217,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f98ae89d-e2bb-3766-81ab-24345e14d471",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1203,6 +1246,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f98ae89d-e2bb-3766-81ab-24345e14d471",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1231,6 +1275,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2c4e39ba-78e1-367f-a37b-1bcba945b7dc",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第三节 地域文化与城乡景观"
@@ -1258,6 +1303,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "02ce2f0a-e20f-3ea2-ab7d-33978921499b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1286,6 +1332,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f8d31084-3c54-3830-8aef-feda019f7feb",
           "chapter_path": [
             "第一章 人口",
             "第二节 人口迁移"
@@ -1311,6 +1358,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "92a4eab6-e828-3bfb-bbdf-98dd39baba36",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第三节 国际合作"
@@ -1338,6 +1386,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9d73a085-b60d-3bb6-85e6-07b4c82b5706",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1366,6 +1415,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "58e70e90-fe13-36cb-a2a2-900115bf74bb",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1394,6 +1444,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ddfdf61b-941d-3e11-876c-a4f15bc15f5a",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1422,6 +1473,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ddfdf61b-941d-3e11-876c-a4f15bc15f5a",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1450,6 +1502,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9d73a085-b60d-3bb6-85e6-07b4c82b5706",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1478,6 +1531,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f0a998cb-9a6d-3a3e-bfc6-9b59f3d72e5f",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1506,6 +1560,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9f45a2c3-cabd-3ce8-ad68-1b8a5b20a9e5",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第二节 城镇化"
@@ -1533,6 +1588,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d38d86de-b357-3798-8a88-ed84c00b3748",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1561,6 +1617,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a14b1d4a-0f54-39ca-88ba-b9afebe9a9af",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1589,6 +1646,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c906956d-d346-3270-9c36-cf3ad84d0a17",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1617,6 +1675,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "dab88950-9f40-393a-b7b4-18809a124687",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1645,6 +1704,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6a8d8ee3-34cf-3339-ab8c-21e7bbb7c6b2",
           "chapter_path": [
             "第五章 环境与发展",
             "第三节 中国国家发展战略举例"
@@ -1672,6 +1732,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d38d86de-b357-3798-8a88-ed84c00b3748",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1700,6 +1761,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "46d8ea9e-c528-3e52-a862-e0903e4d1ae2",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1728,6 +1790,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "46d8ea9e-c528-3e52-a862-e0903e4d1ae2",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1756,6 +1819,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "46d8ea9e-c528-3e52-a862-e0903e4d1ae2",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1784,6 +1848,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "46d8ea9e-c528-3e52-a862-e0903e4d1ae2",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1810,6 +1875,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -1835,6 +1901,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -1860,6 +1927,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -1885,6 +1953,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "7d9b2bcb-c3f5-3abf-82c7-b829125a09c4",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第二节 中国的能源安全"
@@ -1910,6 +1979,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "7d9b2bcb-c3f5-3abf-82c7-b829125a09c4",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第二节 中国的能源安全"
@@ -1937,6 +2007,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f0a998cb-9a6d-3a3e-bfc6-9b59f3d72e5f",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -1965,6 +2036,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e702b6a8-f02f-363c-870a-4260796c7933",
           "chapter_path": [
             "第六章 自然灾害",
             "问题研究  救灾物资储备库应该建在哪里"
@@ -1990,6 +2062,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "475c4263-faff-39c8-ae54-7cf6070231ff",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "问题研究 如何做中学生资源、环境安全意识问卷调查"
@@ -2015,6 +2088,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "e126e1b2-4369-3bf3-90e9-5afbf127ed99",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第四节 国际合作"
@@ -2042,6 +2116,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -2069,6 +2144,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6a8d8ee3-34cf-3339-ab8c-21e7bbb7c6b2",
           "chapter_path": [
             "第五章 环境与发展",
             "第三节 中国国家发展战略举例"
@@ -2096,6 +2172,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "47da04fc-004d-3b36-8ee9-f2b2b0ccaf87",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第一节 乡村和城镇空间结构"
@@ -2121,6 +2198,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -2148,6 +2226,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -2173,6 +2252,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -2200,6 +2280,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -2227,6 +2308,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "52a6c605-7949-3ddc-9fcb-c5c90d0823d8",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第一节 区域发展对交通运输布局的影响"
@@ -2254,6 +2336,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4fa5b46a-e01d-3d10-91b6-04f8b60ca076",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第二节 交通运输布局对区域发展的影响"
@@ -2281,6 +2364,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4fa5b46a-e01d-3d10-91b6-04f8b60ca076",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第二节 交通运输布局对区域发展的影响"
@@ -2308,6 +2392,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "52a6c605-7949-3ddc-9fcb-c5c90d0823d8",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第一节 区域发展对交通运输布局的影响"
@@ -2333,6 +2418,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "73e2c3da-c5d4-315c-abd3-83a6468949e6",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第二节 地区产业结构变化"
@@ -2358,6 +2444,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "73e2c3da-c5d4-315c-abd3-83a6468949e6",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第二节 地区产业结构变化"
@@ -2383,6 +2470,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "5b0c56d1-7fbe-37d2-bfdc-f9198b1d74ee",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第三节 产业转移"
@@ -2408,6 +2496,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "5b0c56d1-7fbe-37d2-bfdc-f9198b1d74ee",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第三节 产业转移"
@@ -2435,6 +2524,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a315dc10-1b5b-364b-bf02-0c48f0dbe460",
           "chapter_path": [
             "第一章 人口",
             "第三节 人口容量"
@@ -2462,6 +2552,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f8d31084-3c54-3830-8aef-feda019f7feb",
           "chapter_path": [
             "第一章 人口",
             "第二节 人口迁移"
@@ -2487,6 +2578,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5c28ba5-569f-33cd-b065-21118ea6ed7a",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第一节 区域发展的自然环境基础"
@@ -2512,6 +2604,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a8ff7235-26e2-3ff2-bb59-6cdaa3a8e5ba",
           "chapter_path": [
             "第三章 大气的运动",
             "问题研究 阿联酋“造山引雨”是否可行"
@@ -2539,6 +2632,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f8d31084-3c54-3830-8aef-feda019f7feb",
           "chapter_path": [
             "第一章 人口",
             "第二节 人口迁移"
@@ -2564,6 +2658,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a27ed4b7-9e98-3e47-a04f-d2a727445181",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "问题研究 崇明岛的未来是什么样子"
@@ -2591,6 +2686,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -2616,6 +2712,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "72da7440-a96f-364a-8cd2-2616cb3123e7",
           "chapter_path": [
             "第一章 地球的运动",
             "问题研究 人类是否需要人造月亮"
@@ -2641,6 +2738,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "72da7440-a96f-364a-8cd2-2616cb3123e7",
           "chapter_path": [
             "第一章 地球的运动",
             "问题研究 人类是否需要人造月亮"
@@ -2666,6 +2764,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "357cf59f-1392-3c9b-ac78-1a555c1a7da2",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "问题研究 如何“藏粮于地”"
@@ -2693,6 +2792,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "257ce857-8fa0-3cd9-999d-b3054d538712",
           "chapter_path": [
             "第五章 环境与发展",
             "问题研究 低碳食品知多少"
@@ -2720,6 +2820,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "257ce857-8fa0-3cd9-999d-b3054d538712",
           "chapter_path": [
             "第五章 环境与发展",
             "问题研究 低碳食品知多少"
@@ -2745,6 +2846,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "bdb674f2-efee-31f3-ba7e-99c869fd1685",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第一节 资源安全对国家安全的影响"
@@ -2772,6 +2874,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "f51d9891-a833-3fde-b033-12f924dc85dd",
           "chapter_path": [
             "第六章 自然灾害",
             "第四节 地理信息技术在防灾减灾中的应用"
@@ -2799,6 +2902,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "3eddabac-d9d3-3a81-8b9b-13df35306471",
           "chapter_path": [
             "第五章 环境与发展",
             "第一节 人类面临的主要环境问题"
@@ -2824,6 +2928,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f3eb6480-2800-317d-9133-49c03c9ffe46",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第四节 全球气候变化与国家安全"
@@ -2849,6 +2954,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f3eb6480-2800-317d-9133-49c03c9ffe46",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第四节 全球气候变化与国家安全"
@@ -2874,6 +2980,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "92f1b34d-6bfc-3c75-9abf-75dd7b78678f",
           "chapter_path": [
             "第三章 大气的运动",
             "第二节 气压带和风带"
@@ -2899,6 +3006,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "11c1346a-9fc6-3d9c-bdc7-986b1882cfee",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "问题研究 我们的生态足迹有多大"
@@ -2924,6 +3032,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -2949,6 +3058,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -2976,6 +3086,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "057d8ce2-669b-3cb1-8841-6810ef59ae9a",
           "chapter_path": [
             "第五章 环境与发展",
             "第二节 走向人地协调——可持续发展"
@@ -3001,6 +3112,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "db8802df-b249-3fb7-bc93-620acf722e2f",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第一节 塑造地表形态的力量"
@@ -3028,6 +3140,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "b5c885cb-84d0-3800-acd4-13dbf51f4009",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3056,6 +3169,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "b5c885cb-84d0-3800-acd4-13dbf51f4009",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3084,6 +3198,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "bac2d668-b0be-3f31-a84a-4aa7f9897c39",
           "chapter_path": [
             "第三章 产业区位因素",
             "第一节 农业区位因素及其变化"
@@ -3111,6 +3226,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "bac2d668-b0be-3f31-a84a-4aa7f9897c39",
           "chapter_path": [
             "第三章 产业区位因素",
             "第一节 农业区位因素及其变化"
@@ -3138,6 +3254,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "bac2d668-b0be-3f31-a84a-4aa7f9897c39",
           "chapter_path": [
             "第三章 产业区位因素",
             "第一节 农业区位因素及其变化"
@@ -3165,6 +3282,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "bac2d668-b0be-3f31-a84a-4aa7f9897c39",
           "chapter_path": [
             "第三章 产业区位因素",
             "第一节 农业区位因素及其变化"
@@ -3190,6 +3308,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -3217,6 +3336,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a072b679-38de-3b45-afc4-4f44ac554214",
           "chapter_path": [
             "第一章 人口",
             "问题研究 如何看待农民工现象"
@@ -3244,6 +3364,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a072b679-38de-3b45-afc4-4f44ac554214",
           "chapter_path": [
             "第一章 人口",
             "问题研究 如何看待农民工现象"
@@ -3271,6 +3392,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a072b679-38de-3b45-afc4-4f44ac554214",
           "chapter_path": [
             "第一章 人口",
             "问题研究 如何看待农民工现象"
@@ -3296,6 +3418,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "e2ee2aca-3a1f-3a43-baba-8ca2d412badc",
           "chapter_path": [
             "第四章 水的运动",
             "第一节 陆地水体及其相互关系"
@@ -3321,6 +3444,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "fcf9e5d4-ba24-3d3d-a350-3961a2176605",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第三节 河流地貌的发育"
@@ -3348,6 +3472,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -3373,6 +3498,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a9785e53-9d27-32b0-b886-0e226ca951f9",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "问题研究 如何看待我国西北地区城市引进欧洲冷季型草坪"
@@ -3398,6 +3524,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "11c1346a-9fc6-3d9c-bdc7-986b1882cfee",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "问题研究 我们的生态足迹有多大"
@@ -3425,6 +3552,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -3450,6 +3578,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a6bf7055-f54f-3c0c-a964-bc0028fc584a",
           "chapter_path": [
             "第三章 大气的运动",
             "第三节 气压带和风带对气候的影响"
@@ -3477,6 +3606,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -3502,6 +3632,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -3527,6 +3658,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -3554,6 +3686,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7e673fd7-2bd3-3afd-86f1-45c098c56aeb",
           "chapter_path": [
             "第三章 产业区位因素",
             "第二节 工业区位因素及其变化"
@@ -3579,6 +3712,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "ec512c20-e9d9-3ac1-9510-7518e380c4a5",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第二节 区域整体性和关联性"
@@ -3606,6 +3740,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "52a6c605-7949-3ddc-9fcb-c5c90d0823d8",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第一节 区域发展对交通运输布局的影响"
@@ -3631,6 +3766,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -3656,6 +3792,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "357cf59f-1392-3c9b-ac78-1a555c1a7da2",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "问题研究 如何“藏粮于地”"
@@ -3681,6 +3818,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "ec512c20-e9d9-3ac1-9510-7518e380c4a5",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第二节 区域整体性和关联性"
@@ -3706,6 +3844,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a8ff7235-26e2-3ff2-bb59-6cdaa3a8e5ba",
           "chapter_path": [
             "第三章 大气的运动",
             "问题研究 阿联酋“造山引雨”是否可行"
@@ -3731,6 +3870,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c89a86fb-bd6d-3411-a85b-cf65c431b826",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第一节 多种多样的区域"
@@ -3758,6 +3898,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "35919d9f-527c-367d-acc0-55618b7ec629",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -3786,6 +3927,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a315dc10-1b5b-364b-bf02-0c48f0dbe460",
           "chapter_path": [
             "第一章 人口",
             "第三节 人口容量"
@@ -3811,6 +3953,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c89a86fb-bd6d-3411-a85b-cf65c431b826",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第一节 多种多样的区域"
@@ -3838,6 +3981,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "35784895-df56-3a78-8abc-9c8c7134d287",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3867,6 +4011,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "97aa45ce-1c38-310d-a172-108e1e6e95c6",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3896,6 +4041,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "97aa45ce-1c38-310d-a172-108e1e6e95c6",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3925,6 +4071,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "97aa45ce-1c38-310d-a172-108e1e6e95c6",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3954,6 +4101,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2a56e994-1009-3bb1-ac60-edf7f35d39fe",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -3983,6 +4131,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2a56e994-1009-3bb1-ac60-edf7f35d39fe",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4012,6 +4161,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2a56e994-1009-3bb1-ac60-edf7f35d39fe",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4041,6 +4191,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2a56e994-1009-3bb1-ac60-edf7f35d39fe",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4070,6 +4221,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "35784895-df56-3a78-8abc-9c8c7134d287",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4099,6 +4251,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "35784895-df56-3a78-8abc-9c8c7134d287",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4128,6 +4281,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "056d29fc-49f2-394a-8587-1ff06778597b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4157,6 +4311,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "056d29fc-49f2-394a-8587-1ff06778597b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4186,6 +4341,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "02ce2f0a-e20f-3ea2-ab7d-33978921499b",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4212,6 +4368,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -4237,6 +4394,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "13bbc954-fe8d-3a88-9a4f-6b19a8f0c0c4",
           "chapter_path": [
             "第四章 水的运动",
             "问题研究 能否利用南极冰山解决沙特阿拉伯的缺水问题"
@@ -4262,6 +4420,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "4d56d277-3f7e-3c46-a5aa-3a2922134902",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第二节 资源跨区域调配"
@@ -4289,6 +4448,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ff3345f0-dc46-3f70-8137-2e4a66900fb3",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -4317,6 +4477,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1e30ea14-c0d8-3ca7-8a58-34d263bad675",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4346,6 +4507,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1e30ea14-c0d8-3ca7-8a58-34d263bad675",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4375,6 +4537,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "20abce17-b226-3bdf-802c-27443901e20c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4404,6 +4567,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "20abce17-b226-3bdf-802c-27443901e20c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4433,6 +4597,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "20abce17-b226-3bdf-802c-27443901e20c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4462,6 +4627,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "20abce17-b226-3bdf-802c-27443901e20c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4491,6 +4657,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a113815d-ee85-31eb-b58f-8d17455b07ce",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4520,6 +4687,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a113815d-ee85-31eb-b58f-8d17455b07ce",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4549,6 +4717,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a113815d-ee85-31eb-b58f-8d17455b07ce",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4578,6 +4747,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1710100c-595d-36aa-9ff9-e6cb50ad6e95",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4607,6 +4777,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1710100c-595d-36aa-9ff9-e6cb50ad6e95",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -4634,6 +4805,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "c13979a6-cbb0-39f2-a194-7f6b24625e0c",
           "chapter_path": [
             "第四章 水的运动",
             "第三节 海—气相互作用"
@@ -4661,6 +4833,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "bac2d668-b0be-3f31-a84a-4aa7f9897c39",
           "chapter_path": [
             "第三章 产业区位因素",
             "第一节 农业区位因素及其变化"
@@ -4686,6 +4859,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "45e9df34-93a5-35b7-a90d-5c2d5388b8ad",
           "chapter_path": [
             "第三章 大气的运动",
             "第一节 常见天气系统"
@@ -4711,6 +4885,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "36d60dee-521a-3746-a0d6-42627a521ec0",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "问题研究 汽车工业能否带动家乡的发展"
@@ -4738,6 +4913,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d98e40cc-0fd2-3a26-8d41-8b76aade4c4f",
           "chapter_path": [
             "第二章 地球上的大气",
             "问题研究 何时“蓝天”常在`"
@@ -4765,6 +4941,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -4792,6 +4969,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "057d8ce2-669b-3cb1-8841-6810ef59ae9a",
           "chapter_path": [
             "第五章 环境与发展",
             "第二节 走向人地协调——可持续发展"
@@ -4819,6 +4997,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "057d8ce2-669b-3cb1-8841-6810ef59ae9a",
           "chapter_path": [
             "第五章 环境与发展",
             "第二节 走向人地协调——可持续发展"
@@ -4846,6 +5025,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "057d8ce2-669b-3cb1-8841-6810ef59ae9a",
           "chapter_path": [
             "第五章 环境与发展",
             "第二节 走向人地协调——可持续发展"
@@ -4873,6 +5053,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a5c9a2e9-9fb6-3922-ab9a-f2c982187ef8",
           "chapter_path": [
             "第六章 自然灾害",
             "第一节 气象灾害"
@@ -4900,6 +5081,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "47da04fc-004d-3b36-8ee9-f2b2b0ccaf87",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第一节 乡村和城镇空间结构"
@@ -4927,6 +5109,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "486d7c38-bac5-33d7-beed-d5b851ba99dd",
           "chapter_path": [
             "第三章 产业区位因素",
             "第三节 服务业区位因素及其变化"
@@ -4954,6 +5137,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -4981,6 +5165,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "601cdb11-245c-3095-bd23-7a1332ecbb14",
           "chapter_path": [
             "第四章 地貌",
             "问题研究 如何提升我国西南喀斯特峰丛山地的经济发展水平"
@@ -5008,6 +5193,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "601cdb11-245c-3095-bd23-7a1332ecbb14",
           "chapter_path": [
             "第四章 地貌",
             "问题研究 如何提升我国西南喀斯特峰丛山地的经济发展水平"
@@ -5035,6 +5221,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "601cdb11-245c-3095-bd23-7a1332ecbb14",
           "chapter_path": [
             "第四章 地貌",
             "问题研究 如何提升我国西南喀斯特峰丛山地的经济发展水平"
@@ -5062,6 +5249,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "601cdb11-245c-3095-bd23-7a1332ecbb14",
           "chapter_path": [
             "第四章 地貌",
             "问题研究 如何提升我国西南喀斯特峰丛山地的经济发展水平"
@@ -5087,6 +5275,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -5112,6 +5301,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "ec512c20-e9d9-3ac1-9510-7518e380c4a5",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第二节 区域整体性和关联性"
@@ -5137,6 +5327,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "64928f87-7961-399f-839d-432ded7d25eb",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第四节 海洋空间资源开发与国家安全"
@@ -5164,6 +5355,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "8d39c691-f473-3a89-a395-da97bff34a78",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "问题研究 城市交通如何疏堵"
@@ -5189,6 +5381,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -5216,6 +5409,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f8d31084-3c54-3830-8aef-feda019f7feb",
           "chapter_path": [
             "第一章 人口",
             "第二节 人口迁移"
@@ -5241,6 +5435,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "92a4eab6-e828-3bfb-bbdf-98dd39baba36",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第三节 国际合作"
@@ -5266,6 +5461,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -5291,6 +5487,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -5318,6 +5515,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "67e7a059-de1d-320f-95c5-adcb3b40786b",
           "chapter_path": [
             "第五章 植被与土壤",
             "第二节 土壤"
@@ -5345,6 +5543,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "67e7a059-de1d-320f-95c5-adcb3b40786b",
           "chapter_path": [
             "第五章 植被与土壤",
             "第二节 土壤"
@@ -5372,6 +5571,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "67e7a059-de1d-320f-95c5-adcb3b40786b",
           "chapter_path": [
             "第五章 植被与土壤",
             "第二节 土壤"
@@ -5399,6 +5599,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "67e7a059-de1d-320f-95c5-adcb3b40786b",
           "chapter_path": [
             "第五章 植被与土壤",
             "第二节 土壤"
@@ -5426,6 +5627,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "67e7a059-de1d-320f-95c5-adcb3b40786b",
           "chapter_path": [
             "第五章 植被与土壤",
             "第二节 土壤"
@@ -5453,6 +5655,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -5478,6 +5681,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "73e2c3da-c5d4-315c-abd3-83a6468949e6",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第二节 地区产业结构变化"
@@ -5503,6 +5707,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6b7d3c9c-fed9-3a56-ac5b-029f10e19414",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第二节 自然环境的地域差异性"
@@ -5530,6 +5735,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2c4e39ba-78e1-367f-a37b-1bcba945b7dc",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第三节 地域文化与城乡景观"
@@ -5557,6 +5763,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2c4e39ba-78e1-367f-a37b-1bcba945b7dc",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第三节 地域文化与城乡景观"
@@ -5584,6 +5791,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e0f0eab0-c926-3767-8ae9-892ab18c9b5e",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -5612,6 +5820,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "be028422-d52c-3113-8684-5eeb2a4ec2c6",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -5638,6 +5847,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a8ff7235-26e2-3ff2-bb59-6cdaa3a8e5ba",
           "chapter_path": [
             "第三章 大气的运动",
             "问题研究 阿联酋“造山引雨”是否可行"
@@ -5665,6 +5875,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "910e095d-2d0b-367d-b3d0-d7581367f260",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -5691,6 +5902,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6b7d3c9c-fed9-3a56-ac5b-029f10e19414",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第二节 自然环境的地域差异性"
@@ -5716,6 +5928,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -5741,6 +5954,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "d669523a-ae65-3f1c-a03b-d691aa8a3f35",
           "chapter_path": [
             "第一章 地球的运动",
             "第一节 地球的自转和公转"
@@ -5768,6 +5982,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5150eee9-087a-3424-be16-f661b134d500",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第四节 地球的圈层结构"
@@ -5795,6 +6010,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5150eee9-087a-3424-be16-f661b134d500",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第四节 地球的圈层结构"
@@ -5820,6 +6036,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "d669523a-ae65-3f1c-a03b-d691aa8a3f35",
           "chapter_path": [
             "第一章 地球的运动",
             "第一节 地球的自转和公转"
@@ -5845,6 +6062,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "d669523a-ae65-3f1c-a03b-d691aa8a3f35",
           "chapter_path": [
             "第一章 地球的运动",
             "第一节 地球的自转和公转"
@@ -5872,6 +6090,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "f51d9891-a833-3fde-b033-12f924dc85dd",
           "chapter_path": [
             "第六章 自然灾害",
             "第四节 地理信息技术在防灾减灾中的应用"
@@ -5899,6 +6118,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1c8d9095-c5a2-3eb7-a115-d7cd4f919dc8",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -5927,6 +6147,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7c0844c1-f693-3783-9eb6-ac96a5044aaf",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -5955,6 +6176,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "48be8ac2-a4e1-36a4-9171-f4e2af074bdf",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -5983,6 +6205,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "47da04fc-004d-3b36-8ee9-f2b2b0ccaf87",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第一节 乡村和城镇空间结构"
@@ -6010,6 +6233,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -6037,6 +6261,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0f8073be-b8f9-32f8-a033-537edfeacc16",
           "chapter_path": [
             "第四章 地貌",
             "第二节 地貌的观察"
@@ -6064,6 +6289,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0f8073be-b8f9-32f8-a033-537edfeacc16",
           "chapter_path": [
             "第四章 地貌",
             "第二节 地貌的观察"
@@ -6091,6 +6317,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0f8073be-b8f9-32f8-a033-537edfeacc16",
           "chapter_path": [
             "第四章 地貌",
             "第二节 地貌的观察"
@@ -6118,6 +6345,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -6145,6 +6373,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "187766aa-ae00-390f-a242-f0a489b803d1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第二节 大气受热过程和大气运动"
@@ -6172,6 +6401,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a7696e29-9555-3e4a-83f6-0f83aad9f47c",
           "chapter_path": [
             "第六章 自然灾害",
             "第二节 地质灾害"
@@ -6199,6 +6429,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a7696e29-9555-3e4a-83f6-0f83aad9f47c",
           "chapter_path": [
             "第六章 自然灾害",
             "第二节 地质灾害"
@@ -6226,6 +6457,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "187766aa-ae00-390f-a242-f0a489b803d1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第二节 大气受热过程和大气运动"
@@ -6253,6 +6485,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0f8073be-b8f9-32f8-a033-537edfeacc16",
           "chapter_path": [
             "第四章 地貌",
             "第二节 地貌的观察"
@@ -6280,6 +6513,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0f8073be-b8f9-32f8-a033-537edfeacc16",
           "chapter_path": [
             "第四章 地貌",
             "第二节 地貌的观察"
@@ -6305,6 +6539,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6b7d3c9c-fed9-3a56-ac5b-029f10e19414",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第二节 自然环境的地域差异性"
@@ -6332,6 +6567,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "8d39c691-f473-3a89-a395-da97bff34a78",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "问题研究 城市交通如何疏堵"
@@ -6357,6 +6593,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "78e76f92-8b37-30a2-83bd-59799456f29b",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第一节 城市的辐射功能"
@@ -6384,6 +6621,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9f655a0b-d34c-304c-b32a-c4592fb0195a",
           "chapter_path": [
             "第五章 植被与土壤",
             "问题研究  如何让城市不再“看海”"
@@ -6411,6 +6649,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6ba4281c-ffb0-3abf-a337-8d730572f3c7",
           "chapter_path": [
             "第二章 乡村和城镇",
             "问题研究 从市中心到郊区，你选择住在哪里"
@@ -6436,6 +6675,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "78e76f92-8b37-30a2-83bd-59799456f29b",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第一节 城市的辐射功能"
@@ -6461,6 +6701,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a9785e53-9d27-32b0-b886-0e226ca951f9",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "问题研究 如何看待我国西北地区城市引进欧洲冷季型草坪"
@@ -6486,6 +6727,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "78e76f92-8b37-30a2-83bd-59799456f29b",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第一节 城市的辐射功能"
@@ -6513,6 +6755,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "47da04fc-004d-3b36-8ee9-f2b2b0ccaf87",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第一节 乡村和城镇空间结构"
@@ -6540,6 +6783,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "47da04fc-004d-3b36-8ee9-f2b2b0ccaf87",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第一节 乡村和城镇空间结构"
@@ -6567,6 +6811,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9f45a2c3-cabd-3ce8-ad68-1b8a5b20a9e5",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第二节 城镇化"
@@ -6594,6 +6839,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9f45a2c3-cabd-3ce8-ad68-1b8a5b20a9e5",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第二节 城镇化"
@@ -6619,6 +6865,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "0b09f0ce-0dc6-304b-9792-df7b3876ef5b",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "问题研究 景德镇还要不要走“世界瓷都”之路"
@@ -6646,6 +6893,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "8d39c691-f473-3a89-a395-da97bff34a78",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "问题研究 城市交通如何疏堵"
@@ -6671,6 +6919,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "db8802df-b249-3fb7-bc93-620acf722e2f",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第一节 塑造地表形态的力量"
@@ -6698,6 +6947,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4dc926c9-fa75-371a-9841-d60543ae8d58",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -6726,6 +6976,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "187766aa-ae00-390f-a242-f0a489b803d1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第二节 大气受热过程和大气运动"
@@ -6753,6 +7004,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "187766aa-ae00-390f-a242-f0a489b803d1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第二节 大气受热过程和大气运动"
@@ -6780,6 +7032,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ff3345f0-dc46-3f70-8137-2e4a66900fb3",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -6808,6 +7061,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a6e334ef-f2bd-306a-ab87-14c9b1bc37a5",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第一节 地球的宇宙环境"
@@ -6835,6 +7089,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a6e334ef-f2bd-306a-ab87-14c9b1bc37a5",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第一节 地球的宇宙环境"
@@ -6862,6 +7117,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "75b0adf6-f424-3702-bad0-cfe561596679",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第二节 太阳对地球的影响"
@@ -6889,6 +7145,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "75b0adf6-f424-3702-bad0-cfe561596679",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第二节 太阳对地球的影响"
@@ -6914,6 +7171,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "d669523a-ae65-3f1c-a03b-d691aa8a3f35",
           "chapter_path": [
             "第一章 地球的运动",
             "第一节 地球的自转和公转"
@@ -6941,6 +7199,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a6e334ef-f2bd-306a-ab87-14c9b1bc37a5",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第一节 地球的宇宙环境"
@@ -6968,6 +7227,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "75b0adf6-f424-3702-bad0-cfe561596679",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第二节 太阳对地球的影响"
@@ -6993,6 +7253,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "92f1b34d-6bfc-3c75-9abf-75dd7b78678f",
           "chapter_path": [
             "第三章 大气的运动",
             "第二节 气压带和风带"
@@ -7020,6 +7281,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "dbe80089-5afb-3648-92d7-5df9aadb5ff2",
           "chapter_path": [
             "第三章 产业区位因素",
             "问题研究 实体商店何去何从"
@@ -7047,6 +7309,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -7074,6 +7337,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a5c9a2e9-9fb6-3922-ab9a-f2c982187ef8",
           "chapter_path": [
             "第六章 自然灾害",
             "第一节 气象灾害"
@@ -7101,6 +7365,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -7128,6 +7393,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a05fe81d-e3db-35f8-8e17-be17ae9879f4",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "问题研究  火星基地应该是什么样子"
@@ -7153,6 +7419,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "2461081b-3d83-3f6d-84ef-eaa499f583f2",
           "chapter_path": [
             "第一章 区域与区域发展",
             "问题研究 毛里求斯的发展模式可以复制吗"
@@ -7180,6 +7447,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6ba4281c-ffb0-3abf-a337-8d730572f3c7",
           "chapter_path": [
             "第二章 乡村和城镇",
             "问题研究 从市中心到郊区，你选择住在哪里"
@@ -7205,6 +7473,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "db8802df-b249-3fb7-bc93-620acf722e2f",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第一节 塑造地表形态的力量"
@@ -7230,6 +7499,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a27ed4b7-9e98-3e47-a04f-d2a727445181",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "问题研究 崇明岛的未来是什么样子"
@@ -7257,6 +7527,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7e673fd7-2bd3-3afd-86f1-45c098c56aeb",
           "chapter_path": [
             "第三章 产业区位因素",
             "第二节 工业区位因素及其变化"
@@ -7284,6 +7555,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7e673fd7-2bd3-3afd-86f1-45c098c56aeb",
           "chapter_path": [
             "第三章 产业区位因素",
             "第二节 工业区位因素及其变化"
@@ -7311,6 +7583,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7e673fd7-2bd3-3afd-86f1-45c098c56aeb",
           "chapter_path": [
             "第三章 产业区位因素",
             "第二节 工业区位因素及其变化"
@@ -7338,6 +7611,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7e673fd7-2bd3-3afd-86f1-45c098c56aeb",
           "chapter_path": [
             "第三章 产业区位因素",
             "第二节 工业区位因素及其变化"
@@ -7363,6 +7637,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "669d9a63-73da-3946-94f3-27f6730ae0f5",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第一节 走向生态文明"
@@ -7390,6 +7665,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7e673fd7-2bd3-3afd-86f1-45c098c56aeb",
           "chapter_path": [
             "第三章 产业区位因素",
             "第二节 工业区位因素及其变化"
@@ -7417,6 +7693,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ff3345f0-dc46-3f70-8137-2e4a66900fb3",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -7445,6 +7722,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -7472,6 +7750,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "33eef8fe-f444-3ebd-bf9c-3348a2ebdbc6",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -7500,6 +7779,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a5c9a2e9-9fb6-3922-ab9a-f2c982187ef8",
           "chapter_path": [
             "第六章 自然灾害",
             "第一节 气象灾害"
@@ -7527,6 +7807,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -7554,6 +7835,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -7579,6 +7861,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f3eb6480-2800-317d-9133-49c03c9ffe46",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第四节 全球气候变化与国家安全"
@@ -7604,6 +7887,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "5b0c56d1-7fbe-37d2-bfdc-f9198b1d74ee",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第三节 产业转移"
@@ -7631,6 +7915,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f938312e-dbf7-3eae-adb1-e785fe74c617",
           "chapter_path": [
             "第一章 人口",
             "第一节 人口分布"
@@ -7658,6 +7943,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f938312e-dbf7-3eae-adb1-e785fe74c617",
           "chapter_path": [
             "第一章 人口",
             "第一节 人口分布"
@@ -7685,6 +7971,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6ba4281c-ffb0-3abf-a337-8d730572f3c7",
           "chapter_path": [
             "第二章 乡村和城镇",
             "问题研究 从市中心到郊区，你选择住在哪里"
@@ -7712,6 +7999,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4dc926c9-fa75-371a-9841-d60543ae8d58",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -7740,6 +8028,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4dc926c9-fa75-371a-9841-d60543ae8d58",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -7768,6 +8057,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "8d39c691-f473-3a89-a395-da97bff34a78",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "问题研究 城市交通如何疏堵"
@@ -7795,6 +8085,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d98e40cc-0fd2-3a26-8d41-8b76aade4c4f",
           "chapter_path": [
             "第二章 地球上的大气",
             "问题研究 何时“蓝天”常在`"
@@ -7822,6 +8113,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d98e40cc-0fd2-3a26-8d41-8b76aade4c4f",
           "chapter_path": [
             "第二章 地球上的大气",
             "问题研究 何时“蓝天”常在`"
@@ -7849,6 +8141,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1edac2b6-0ac7-3d88-98bb-986902e44612",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -7877,6 +8170,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1edac2b6-0ac7-3d88-98bb-986902e44612",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -7905,6 +8199,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9f655a0b-d34c-304c-b32a-c4592fb0195a",
           "chapter_path": [
             "第五章 植被与土壤",
             "问题研究  如何让城市不再“看海”"
@@ -7930,6 +8225,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -7955,6 +8251,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "bdb674f2-efee-31f3-ba7e-99c869fd1685",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第一节 资源安全对国家安全的影响"
@@ -7980,6 +8277,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "73e2c3da-c5d4-315c-abd3-83a6468949e6",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第二节 地区产业结构变化"
@@ -8005,6 +8303,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "475c4263-faff-39c8-ae54-7cf6070231ff",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "问题研究 如何做中学生资源、环境安全意识问卷调查"
@@ -8030,6 +8329,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "c13979a6-cbb0-39f2-a194-7f6b24625e0c",
           "chapter_path": [
             "第四章 水的运动",
             "第三节 海—气相互作用"
@@ -8057,6 +8357,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6a8d8ee3-34cf-3339-ab8c-21e7bbb7c6b2",
           "chapter_path": [
             "第五章 环境与发展",
             "第三节 中国国家发展战略举例"
@@ -8082,6 +8383,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c89a86fb-bd6d-3411-a85b-cf65c431b826",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第一节 多种多样的区域"
@@ -8107,6 +8409,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c89a86fb-bd6d-3411-a85b-cf65c431b826",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第一节 多种多样的区域"
@@ -8134,6 +8437,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f8d31084-3c54-3830-8aef-feda019f7feb",
           "chapter_path": [
             "第一章 人口",
             "第二节 人口迁移"
@@ -8159,6 +8463,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -8186,6 +8491,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e702b6a8-f02f-363c-870a-4260796c7933",
           "chapter_path": [
             "第六章 自然灾害",
             "问题研究  救灾物资储备库应该建在哪里"
@@ -8213,6 +8519,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e702b6a8-f02f-363c-870a-4260796c7933",
           "chapter_path": [
             "第六章 自然灾害",
             "问题研究  救灾物资储备库应该建在哪里"
@@ -8240,6 +8547,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2c4e39ba-78e1-367f-a37b-1bcba945b7dc",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第三节 地域文化与城乡景观"
@@ -8265,6 +8573,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "23e7381d-b986-3e6b-876f-1e4f7c014d0c",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第二节 构造地貌的形成"
@@ -8292,6 +8601,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "486d7c38-bac5-33d7-beed-d5b851ba99dd",
           "chapter_path": [
             "第三章 产业区位因素",
             "第三节 服务业区位因素及其变化"
@@ -8319,6 +8629,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d76170e2-8300-3720-b503-e6a1cc5489ea",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第三节 地球的历史"
@@ -8344,6 +8655,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "5b0c56d1-7fbe-37d2-bfdc-f9198b1d74ee",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第三节 产业转移"
@@ -8371,6 +8683,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "04347836-bfc3-3062-b273-60a32e6fbe19",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8399,6 +8712,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "29576533-4bc0-3d5b-b766-f3fa64f85837",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8427,6 +8741,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "913bbd1b-8542-393f-9bd9-e1881ec0b348",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8455,6 +8770,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "913bbd1b-8542-393f-9bd9-e1881ec0b348",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8483,6 +8799,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "79c2dfc6-7998-3278-9c2c-3ea943163328",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8511,6 +8828,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "79c2dfc6-7998-3278-9c2c-3ea943163328",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8522,6 +8840,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6fcb3330-3b2d-386e-8042-83ae5c6adc60",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8550,6 +8869,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "04347836-bfc3-3062-b273-60a32e6fbe19",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8578,6 +8898,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "718ab2d2-a020-38cd-80a7-b1d981ae3780",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8606,6 +8927,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "718ab2d2-a020-38cd-80a7-b1d981ae3780",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8634,6 +8956,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "5c666809-8e67-3e1c-977d-82fb8d7ec8bb",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8662,6 +8985,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "04347836-bfc3-3062-b273-60a32e6fbe19",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8690,6 +9014,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "04347836-bfc3-3062-b273-60a32e6fbe19",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8718,6 +9043,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "04347836-bfc3-3062-b273-60a32e6fbe19",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8746,6 +9072,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0db3f1e3-82a3-372d-8c71-873fd512aa0c",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8757,6 +9084,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "1edac2b6-0ac7-3d88-98bb-986902e44612",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8785,6 +9113,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0db3f1e3-82a3-372d-8c71-873fd512aa0c",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8813,6 +9142,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "161bde85-a1fb-3573-8bcb-028ae2b66cff",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -8839,6 +9169,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -8864,6 +9195,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -8889,6 +9221,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -8914,6 +9247,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "0b09f0ce-0dc6-304b-9792-df7b3876ef5b",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "问题研究 景德镇还要不要走“世界瓷都”之路"
@@ -8939,6 +9273,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "0b09f0ce-0dc6-304b-9792-df7b3876ef5b",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "问题研究 景德镇还要不要走“世界瓷都”之路"
@@ -8964,6 +9299,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6475771a-b5e3-3a0d-ab37-35d736394eb0",
           "chapter_path": [
             "第四章 水的运动",
             "第二节 洋流"
@@ -8989,6 +9325,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -9014,6 +9351,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "72da7440-a96f-364a-8cd2-2616cb3123e7",
           "chapter_path": [
             "第一章 地球的运动",
             "问题研究 人类是否需要人造月亮"
@@ -9041,6 +9379,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "257ce857-8fa0-3cd9-999d-b3054d538712",
           "chapter_path": [
             "第五章 环境与发展",
             "问题研究 低碳食品知多少"
@@ -9066,6 +9405,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "23e7381d-b986-3e6b-876f-1e4f7c014d0c",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第二节 构造地貌的形成"
@@ -9091,6 +9431,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "a924b744-3b4e-3163-bef5-e90366bbf804",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "问题研究 是否应该发展核能"
@@ -9116,6 +9457,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "a924b744-3b4e-3163-bef5-e90366bbf804",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "问题研究 是否应该发展核能"
@@ -9143,6 +9485,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -9170,6 +9513,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -9195,6 +9539,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6fb98545-7ca0-38b0-8073-a990e0da7a92",
           "chapter_path": [
             "第一章 地球的运动",
             "第二节 地球运动的地理意义"
@@ -9220,6 +9565,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "2461081b-3d83-3f6d-84ef-eaa499f583f2",
           "chapter_path": [
             "第一章 区域与区域发展",
             "问题研究 毛里求斯的发展模式可以复制吗"
@@ -9245,6 +9591,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "2461081b-3d83-3f6d-84ef-eaa499f583f2",
           "chapter_path": [
             "第一章 区域与区域发展",
             "问题研究 毛里求斯的发展模式可以复制吗"
@@ -9272,6 +9619,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "a14b1d4a-0f54-39ca-88ba-b9afebe9a9af",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -9298,6 +9646,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f3eb6480-2800-317d-9133-49c03c9ffe46",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第四节 全球气候变化与国家安全"
@@ -9323,6 +9672,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "92a4eab6-e828-3bfb-bbdf-98dd39baba36",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第三节 国际合作"
@@ -9350,6 +9700,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9a1413d1-7690-3dca-9b54-d68b5d6c91cc",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -9378,6 +9729,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9a1413d1-7690-3dca-9b54-d68b5d6c91cc",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -9406,6 +9758,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9a1413d1-7690-3dca-9b54-d68b5d6c91cc",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -9434,6 +9787,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "33eef8fe-f444-3ebd-bf9c-3348a2ebdbc6",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -9462,6 +9816,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4cc4f495-6887-3d29-85e8-385180e26402",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -9488,6 +9843,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a6bf7055-f54f-3c0c-a964-bc0028fc584a",
           "chapter_path": [
             "第三章 大气的运动",
             "第三节 气压带和风带对气候的影响"
@@ -9513,6 +9869,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "92f1b34d-6bfc-3c75-9abf-75dd7b78678f",
           "chapter_path": [
             "第三章 大气的运动",
             "第二节 气压带和风带"
@@ -9540,6 +9897,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4cc4f495-6887-3d29-85e8-385180e26402",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -9566,6 +9924,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "45e9df34-93a5-35b7-a90d-5c2d5388b8ad",
           "chapter_path": [
             "第三章 大气的运动",
             "第一节 常见天气系统"
@@ -9593,6 +9952,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a5c9a2e9-9fb6-3922-ab9a-f2c982187ef8",
           "chapter_path": [
             "第六章 自然灾害",
             "第一节 气象灾害"
@@ -9620,6 +9980,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "187766aa-ae00-390f-a242-f0a489b803d1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第二节 大气受热过程和大气运动"
@@ -9647,6 +10008,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0e3b47f-8fcb-3e4f-b4b5-440fae1481c8",
           "chapter_path": [
             "第三章 地球上的水",
             "第一节 水循环"
@@ -9674,6 +10036,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c0e3b47f-8fcb-3e4f-b4b5-440fae1481c8",
           "chapter_path": [
             "第三章 地球上的水",
             "第一节 水循环"
@@ -9701,6 +10064,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -9726,6 +10090,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a8ff7235-26e2-3ff2-bb59-6cdaa3a8e5ba",
           "chapter_path": [
             "第三章 大气的运动",
             "问题研究 阿联酋“造山引雨”是否可行"
@@ -9751,6 +10116,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "c1488777-4191-358c-b4b2-99aface237ea",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第二节 环境污染与国家安全"
@@ -9776,6 +10142,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "36d60dee-521a-3746-a0d6-42627a521ec0",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "问题研究 汽车工业能否带动家乡的发展"
@@ -9801,6 +10168,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "36d60dee-521a-3746-a0d6-42627a521ec0",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "问题研究 汽车工业能否带动家乡的发展"
@@ -9826,6 +10194,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "13bbc954-fe8d-3a88-9a4f-6b19a8f0c0c4",
           "chapter_path": [
             "第四章 水的运动",
             "问题研究 能否利用南极冰山解决沙特阿拉伯的缺水问题"
@@ -9851,6 +10220,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a27ed4b7-9e98-3e47-a04f-d2a727445181",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "问题研究 崇明岛的未来是什么样子"
@@ -9878,6 +10248,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "1c9f0b73-e4a3-3460-ad2b-bcfb9785a246",
           "chapter_path": [
             "第四章 地貌",
             "第一节 常见地貌类型"
@@ -9903,6 +10274,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "e2ee2aca-3a1f-3a43-baba-8ca2d412badc",
           "chapter_path": [
             "第四章 水的运动",
             "第一节 陆地水体及其相互关系"
@@ -9928,6 +10300,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "e2ee2aca-3a1f-3a43-baba-8ca2d412badc",
           "chapter_path": [
             "第四章 水的运动",
             "第一节 陆地水体及其相互关系"
@@ -9953,6 +10326,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "fcf9e5d4-ba24-3d3d-a350-3961a2176605",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第三节 河流地貌的发育"
@@ -9978,6 +10352,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "fcf9e5d4-ba24-3d3d-a350-3961a2176605",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第三节 河流地貌的发育"
@@ -10003,6 +10378,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "fcf9e5d4-ba24-3d3d-a350-3961a2176605",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第三节 河流地貌的发育"
@@ -10030,6 +10406,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a7696e29-9555-3e4a-83f6-0f83aad9f47c",
           "chapter_path": [
             "第六章 自然灾害",
             "第二节 地质灾害"
@@ -10057,6 +10434,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e287f258-8a62-3485-b87d-5e915c635cd8",
           "chapter_path": [
             "第三章 地球上的水",
             "第三节 海水的运动"
@@ -10082,6 +10460,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6475771a-b5e3-3a0d-ab37-35d736394eb0",
           "chapter_path": [
             "第四章 水的运动",
             "第二节 洋流"
@@ -10109,6 +10488,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e287f258-8a62-3485-b87d-5e915c635cd8",
           "chapter_path": [
             "第三章 地球上的水",
             "第三节 海水的运动"
@@ -10134,6 +10514,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6475771a-b5e3-3a0d-ab37-35d736394eb0",
           "chapter_path": [
             "第四章 水的运动",
             "第二节 洋流"
@@ -10161,6 +10542,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a5c9a2e9-9fb6-3922-ab9a-f2c982187ef8",
           "chapter_path": [
             "第六章 自然灾害",
             "第一节 气象灾害"
@@ -10186,6 +10568,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -10211,6 +10594,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -10236,6 +10620,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -10261,6 +10646,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -10286,6 +10672,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "c13979a6-cbb0-39f2-a194-7f6b24625e0c",
           "chapter_path": [
             "第四章 水的运动",
             "第三节 海—气相互作用"
@@ -10313,6 +10700,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "924bf1ae-2119-3512-a26b-b39a2933a12d",
           "chapter_path": [
             "第三章 地球上的水",
             "问题研究 能否淡化海冰解决环渤海地区淡水短缺问题"
@@ -10340,6 +10728,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0a4ea2fb-489e-3ff7-a07f-31858cd73c07",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -10368,6 +10757,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c1b1e65b-5cd4-3f10-997d-1ac6c7b720c1",
           "chapter_path": [
             "第三章 地球上的水",
             "第二节 海水的性质"
@@ -10395,6 +10785,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c1b1e65b-5cd4-3f10-997d-1ac6c7b720c1",
           "chapter_path": [
             "第三章 地球上的水",
             "第二节 海水的性质"
@@ -10422,6 +10813,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c1b1e65b-5cd4-3f10-997d-1ac6c7b720c1",
           "chapter_path": [
             "第三章 地球上的水",
             "第二节 海水的性质"
@@ -10449,6 +10841,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "c1b1e65b-5cd4-3f10-997d-1ac6c7b720c1",
           "chapter_path": [
             "第三章 地球上的水",
             "第二节 海水的性质"
@@ -10474,6 +10867,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "64928f87-7961-399f-839d-432ded7d25eb",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第四节 海洋空间资源开发与国家安全"
@@ -10499,6 +10893,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "64928f87-7961-399f-839d-432ded7d25eb",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第四节 海洋空间资源开发与国家安全"
@@ -10524,6 +10919,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "64928f87-7961-399f-839d-432ded7d25eb",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第四节 海洋空间资源开发与国家安全"
@@ -10551,6 +10947,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e287f258-8a62-3485-b87d-5e915c635cd8",
           "chapter_path": [
             "第三章 地球上的水",
             "第三节 海水的运动"
@@ -10578,6 +10975,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9f655a0b-d34c-304c-b32a-c4592fb0195a",
           "chapter_path": [
             "第五章 植被与土壤",
             "问题研究  如何让城市不再“看海”"
@@ -10605,6 +11003,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e0f0eab0-c926-3767-8ae9-892ab18c9b5e",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -10631,6 +11030,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "92f1b34d-6bfc-3c75-9abf-75dd7b78678f",
           "chapter_path": [
             "第三章 大气的运动",
             "第二节 气压带和风带"
@@ -10658,6 +11058,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "924bf1ae-2119-3512-a26b-b39a2933a12d",
           "chapter_path": [
             "第三章 地球上的水",
             "问题研究 能否淡化海冰解决环渤海地区淡水短缺问题"
@@ -10685,6 +11086,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "924bf1ae-2119-3512-a26b-b39a2933a12d",
           "chapter_path": [
             "第三章 地球上的水",
             "问题研究 能否淡化海冰解决环渤海地区淡水短缺问题"
@@ -10712,6 +11114,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "41d5e9c9-2eb5-3b76-9dd3-e5c6eef1a7ac",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -10741,6 +11144,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a7696e29-9555-3e4a-83f6-0f83aad9f47c",
           "chapter_path": [
             "第六章 自然灾害",
             "第二节 地质灾害"
@@ -10766,6 +11170,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "64928f87-7961-399f-839d-432ded7d25eb",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第四节 海洋空间资源开发与国家安全"
@@ -10793,6 +11198,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e287f258-8a62-3485-b87d-5e915c635cd8",
           "chapter_path": [
             "第三章 地球上的水",
             "第三节 海水的运动"
@@ -10820,6 +11226,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a05fe81d-e3db-35f8-8e17-be17ae9879f4",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "问题研究  火星基地应该是什么样子"
@@ -10847,6 +11254,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a05fe81d-e3db-35f8-8e17-be17ae9879f4",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "问题研究  火星基地应该是什么样子"
@@ -10874,6 +11282,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "a05fe81d-e3db-35f8-8e17-be17ae9879f4",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "问题研究  火星基地应该是什么样子"
@@ -10901,6 +11310,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "96d426ae-45a3-3b91-aecd-e2cbe4bc0eba",
           "chapter_path": [
             "第六章 自然灾害",
             "第三节 防灾减灾"
@@ -10926,6 +11336,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "78e76f92-8b37-30a2-83bd-59799456f29b",
           "chapter_path": [
             "第三章 城市、产业与区域发展",
             "第一节 城市的辐射功能"
@@ -10953,6 +11364,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -10978,6 +11390,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "7d9b2bcb-c3f5-3abf-82c7-b829125a09c4",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第二节 中国的能源安全"
@@ -11003,6 +11416,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "c1488777-4191-358c-b4b2-99aface237ea",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第二节 环境污染与国家安全"
@@ -11028,6 +11442,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "088e1325-ec17-3169-aa07-8189a3a06ad4",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第一节 环境安全对国家安全的影响"
@@ -11053,6 +11468,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "088e1325-ec17-3169-aa07-8189a3a06ad4",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第一节 环境安全对国家安全的影响"
@@ -11078,6 +11494,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "088e1325-ec17-3169-aa07-8189a3a06ad4",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第一节 环境安全对国家安全的影响"
@@ -11103,6 +11520,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "2236f35e-5dab-38af-9deb-d21226800665",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第三节 环境问题及其危害"
@@ -11130,6 +11548,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "3eddabac-d9d3-3a81-8b9b-13df35306471",
           "chapter_path": [
             "第五章 环境与发展",
             "第一节 人类面临的主要环境问题"
@@ -11155,6 +11574,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "2236f35e-5dab-38af-9deb-d21226800665",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第三节 环境问题及其危害"
@@ -11182,6 +11602,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "3eddabac-d9d3-3a81-8b9b-13df35306471",
           "chapter_path": [
             "第五章 环境与发展",
             "第一节 人类面临的主要环境问题"
@@ -11209,6 +11630,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "3eddabac-d9d3-3a81-8b9b-13df35306471",
           "chapter_path": [
             "第五章 环境与发展",
             "第一节 人类面临的主要环境问题"
@@ -11234,6 +11656,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "2236f35e-5dab-38af-9deb-d21226800665",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第三节 环境问题及其危害"
@@ -11259,6 +11682,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "2236f35e-5dab-38af-9deb-d21226800665",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第三节 环境问题及其危害"
@@ -11284,6 +11708,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -11311,6 +11736,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "751ba3b3-fa18-3486-ab99-8a9cda9aefc1",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -11339,6 +11765,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "751ba3b3-fa18-3486-ab99-8a9cda9aefc1",
           "chapter_path": [
             "其他",
             "旅游地理（旧版人教版选修三）",
@@ -11365,6 +11792,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "669d9a63-73da-3946-94f3-27f6730ae0f5",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第一节 走向生态文明"
@@ -11390,6 +11818,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -11415,6 +11844,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "609c5530-6b26-36c7-af6b-adcce29c106c",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第三节 生态保护与国家安全"
@@ -11440,6 +11870,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "669d9a63-73da-3946-94f3-27f6730ae0f5",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第一节 走向生态文明"
@@ -11467,6 +11898,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "3eddabac-d9d3-3a81-8b9b-13df35306471",
           "chapter_path": [
             "第五章 环境与发展",
             "第一节 人类面临的主要环境问题"
@@ -11492,6 +11924,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -11517,6 +11950,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -11542,6 +11976,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "11c1346a-9fc6-3d9c-bdc7-986b1882cfee",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "问题研究 我们的生态足迹有多大"
@@ -11567,6 +12002,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "609c5530-6b26-36c7-af6b-adcce29c106c",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第三节 生态保护与国家安全"
@@ -11592,6 +12028,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "34f22573-6a14-30bb-9537-45307f9135e0",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第一节 自然环境的整体性"
@@ -11619,6 +12056,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "dbe80089-5afb-3648-92d7-5df9aadb5ff2",
           "chapter_path": [
             "第三章 产业区位因素",
             "问题研究 实体商店何去何从"
@@ -11644,6 +12082,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "7d9b2bcb-c3f5-3abf-82c7-b829125a09c4",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第二节 中国的能源安全"
@@ -11671,6 +12110,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "d98e40cc-0fd2-3a26-8d41-8b76aade4c4f",
           "chapter_path": [
             "第二章 地球上的大气",
             "问题研究 何时“蓝天”常在`"
@@ -11696,6 +12136,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "088e1325-ec17-3169-aa07-8189a3a06ad4",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第一节 环境安全对国家安全的影响"
@@ -11721,6 +12162,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "c1488777-4191-358c-b4b2-99aface237ea",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第二节 环境污染与国家安全"
@@ -11746,6 +12188,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -11771,6 +12214,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "f460d38a-fde0-36d1-bab2-256c4cbc955f",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第三节 中国的耕地资源与粮食安全"
@@ -11798,6 +12242,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -11825,6 +12270,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "2c4e39ba-78e1-367f-a37b-1bcba945b7dc",
           "chapter_path": [
             "第二章 乡村和城镇",
             "第三节 地域文化与城乡景观"
@@ -11852,6 +12298,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "e0f0eab0-c926-3767-8ae9-892ab18c9b5e",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -11878,6 +12325,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "e126e1b2-4369-3bf3-90e9-5afbf127ed99",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第四节 国际合作"
@@ -11905,6 +12353,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "52a6c605-7949-3ddc-9fcb-c5c90d0823d8",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第一节 区域发展对交通运输布局的影响"
@@ -11930,6 +12379,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c89a86fb-bd6d-3411-a85b-cf65c431b826",
           "chapter_path": [
             "第一章 区域与区域发展",
             "第一节 多种多样的区域"
@@ -11957,6 +12407,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "486d7c38-bac5-33d7-beed-d5b851ba99dd",
           "chapter_path": [
             "第三章 产业区位因素",
             "第三节 服务业区位因素及其变化"
@@ -11984,6 +12435,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f938312e-dbf7-3eae-adb1-e785fe74c617",
           "chapter_path": [
             "第一章 人口",
             "第一节 人口分布"
@@ -12009,6 +12461,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "7d9b2bcb-c3f5-3abf-82c7-b829125a09c4",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第二节 中国的能源安全"
@@ -12034,6 +12487,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "609c5530-6b26-36c7-af6b-adcce29c106c",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第三节 生态保护与国家安全"
@@ -12059,6 +12513,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "609c5530-6b26-36c7-af6b-adcce29c106c",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第三节 生态保护与国家安全"
@@ -12086,6 +12541,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f8d31084-3c54-3830-8aef-feda019f7feb",
           "chapter_path": [
             "第一章 人口",
             "第二节 人口迁移"
@@ -12113,6 +12569,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "67e7a059-de1d-320f-95c5-adcb3b40786b",
           "chapter_path": [
             "第五章 植被与土壤",
             "第二节 土壤"
@@ -12138,6 +12595,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "980fc648-d126-32e5-86dd-6963bcfa3f35",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第二节 生态脆弱区的综合治理"
@@ -12163,6 +12621,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5c28ba5-569f-33cd-b065-21118ea6ed7a",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第一节 区域发展的自然环境基础"
@@ -12190,6 +12649,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "96d426ae-45a3-3b91-aecd-e2cbe4bc0eba",
           "chapter_path": [
             "第六章 自然灾害",
             "第三节 防灾减灾"
@@ -12215,6 +12675,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "34f22573-6a14-30bb-9537-45307f9135e0",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第一节 自然环境的整体性"
@@ -12240,6 +12701,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "58197ef0-42ef-3eb2-a0d3-54e91c6a37f0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第一节 自然环境的服务功能"
@@ -12265,6 +12727,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "58197ef0-42ef-3eb2-a0d3-54e91c6a37f0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第一节 自然环境的服务功能"
@@ -12290,6 +12753,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "34f22573-6a14-30bb-9537-45307f9135e0",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第一节 自然环境的整体性"
@@ -12315,6 +12779,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "34f22573-6a14-30bb-9537-45307f9135e0",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第一节 自然环境的整体性"
@@ -12340,6 +12805,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "34f22573-6a14-30bb-9537-45307f9135e0",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第一节 自然环境的整体性"
@@ -12365,6 +12831,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "58197ef0-42ef-3eb2-a0d3-54e91c6a37f0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第一节 自然环境的服务功能"
@@ -12390,6 +12857,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "34442274-42f3-34e1-aa14-6503d5db46e0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第二节 自然资源及其利用"
@@ -12415,6 +12883,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "34442274-42f3-34e1-aa14-6503d5db46e0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第二节 自然资源及其利用"
@@ -12440,6 +12909,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "34442274-42f3-34e1-aa14-6503d5db46e0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第二节 自然资源及其利用"
@@ -12465,6 +12935,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "34442274-42f3-34e1-aa14-6503d5db46e0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第二节 自然资源及其利用"
@@ -12490,6 +12961,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "34442274-42f3-34e1-aa14-6503d5db46e0",
           "chapter_path": [
             "第一章 自然环境与人类社会",
             "第二节 自然资源及其利用"
@@ -12515,6 +12987,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5c28ba5-569f-33cd-b065-21118ea6ed7a",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第一节 区域发展的自然环境基础"
@@ -12542,6 +13015,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "0b54d339-05c7-3e1c-a31f-ea74386fb6ab",
           "chapter_path": [
             "第五章 植被与土壤",
             "第一节 植被"
@@ -12567,6 +13041,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -12592,6 +13067,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "452cbc59-2eb7-3735-bd74-49cecd13b892",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "问题研究 该不该引藏水入疆"
@@ -12617,6 +13093,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "452cbc59-2eb7-3735-bd74-49cecd13b892",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "问题研究 该不该引藏水入疆"
@@ -12642,6 +13119,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "357cf59f-1392-3c9b-ac78-1a555c1a7da2",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "问题研究 如何“藏粮于地”"
@@ -12667,6 +13145,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "357cf59f-1392-3c9b-ac78-1a555c1a7da2",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "问题研究 如何“藏粮于地”"
@@ -12692,6 +13171,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "23e7381d-b986-3e6b-876f-1e4f7c014d0c",
           "chapter_path": [
             "第二章 地表形态的塑造",
             "第二节 构造地貌的形成"
@@ -12719,6 +13199,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "5cb91c37-6155-3122-a9dc-f443b105546d",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12748,6 +13229,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7c4e920b-6e48-332f-a1af-3a4a93794dc7",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12777,6 +13259,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7c4e920b-6e48-332f-a1af-3a4a93794dc7",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12806,6 +13289,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "33eef8fe-f444-3ebd-bf9c-3348a2ebdbc6",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12834,6 +13318,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7c4e920b-6e48-332f-a1af-3a4a93794dc7",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12863,6 +13348,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "7c4e920b-6e48-332f-a1af-3a4a93794dc7",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12892,6 +13378,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "5cb91c37-6155-3122-a9dc-f443b105546d",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12921,6 +13408,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "5cb91c37-6155-3122-a9dc-f443b105546d",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12950,6 +13438,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "b83fe82d-1f00-3f6e-9cff-361c9aaed724",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -12979,6 +13468,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "b83fe82d-1f00-3f6e-9cff-361c9aaed724",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13008,6 +13498,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f3825633-e8fb-3799-a9d1-47f2838c6afc",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13037,6 +13528,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f3825633-e8fb-3799-a9d1-47f2838c6afc",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13066,6 +13558,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "f3825633-e8fb-3799-a9d1-47f2838c6afc",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13095,6 +13588,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d0d70057-18ea-35b2-870b-2cb8edcb9b82",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13124,6 +13618,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d0d70057-18ea-35b2-870b-2cb8edcb9b82",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13153,6 +13648,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c27f372e-c91d-3771-b6cd-23fef276f0f5",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13182,6 +13678,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c27f372e-c91d-3771-b6cd-23fef276f0f5",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -13211,6 +13708,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ff3345f0-dc46-3f70-8137-2e4a66900fb3",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -13237,6 +13735,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "4d56d277-3f7e-3c46-a5aa-3a2922134902",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第二节 资源跨区域调配"
@@ -13262,6 +13761,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "4d56d277-3f7e-3c46-a5aa-3a2922134902",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第二节 资源跨区域调配"
@@ -13287,6 +13787,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a6bf7055-f54f-3c0c-a964-bc0028fc584a",
           "chapter_path": [
             "第三章 大气的运动",
             "第三节 气压带和风带对气候的影响"
@@ -13312,6 +13813,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "92a4eab6-e828-3bfb-bbdf-98dd39baba36",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第三节 国际合作"
@@ -13337,6 +13839,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "bdb674f2-efee-31f3-ba7e-99c869fd1685",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第一节 资源安全对国家安全的影响"
@@ -13362,6 +13865,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "bdb674f2-efee-31f3-ba7e-99c869fd1685",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第一节 资源安全对国家安全的影响"
@@ -13387,6 +13891,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "bdb674f2-efee-31f3-ba7e-99c869fd1685",
           "chapter_path": [
             "第二章 资源安全与国家安全",
             "第一节 资源安全对国家安全的影响"
@@ -13412,6 +13917,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5c28ba5-569f-33cd-b065-21118ea6ed7a",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第一节 区域发展的自然环境基础"
@@ -13437,6 +13943,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "81eb6848-7553-3a84-ad36-4b774f88f01f",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第三节 资源枯竭型城市的转型发展"
@@ -13462,6 +13969,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "81eb6848-7553-3a84-ad36-4b774f88f01f",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第三节 资源枯竭型城市的转型发展"
@@ -13487,6 +13995,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "81eb6848-7553-3a84-ad36-4b774f88f01f",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第三节 资源枯竭型城市的转型发展"
@@ -13512,6 +14021,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "81eb6848-7553-3a84-ad36-4b774f88f01f",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第三节 资源枯竭型城市的转型发展"
@@ -13537,6 +14047,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "81eb6848-7553-3a84-ad36-4b774f88f01f",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第三节 资源枯竭型城市的转型发展"
@@ -13562,6 +14073,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "81eb6848-7553-3a84-ad36-4b774f88f01f",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "第三节 资源枯竭型城市的转型发展"
@@ -13587,6 +14099,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "0b09f0ce-0dc6-304b-9792-df7b3876ef5b",
           "chapter_path": [
             "第二章 资源、环境与区域发展",
             "问题研究 景德镇还要不要走“世界瓷都”之路"
@@ -13612,6 +14125,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "92a4eab6-e828-3bfb-bbdf-98dd39baba36",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第三节 国际合作"
@@ -13637,6 +14151,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "2461081b-3d83-3f6d-84ef-eaa499f583f2",
           "chapter_path": [
             "第一章 区域与区域发展",
             "问题研究 毛里求斯的发展模式可以复制吗"
@@ -13662,6 +14177,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "4d56d277-3f7e-3c46-a5aa-3a2922134902",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第二节 资源跨区域调配"
@@ -13687,6 +14203,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "4d56d277-3f7e-3c46-a5aa-3a2922134902",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第二节 资源跨区域调配"
@@ -13712,6 +14229,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "adfe5f75-31d2-3a8d-9dd4-982e1829dc0c",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "第二节 国家战略与政策"
@@ -13737,6 +14255,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "a6bf7055-f54f-3c0c-a964-bc0028fc584a",
           "chapter_path": [
             "第三章 大气的运动",
             "第三节 气压带和风带对气候的影响"
@@ -13762,6 +14281,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "c1488777-4191-358c-b4b2-99aface237ea",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第二节 环境污染与国家安全"
@@ -13787,6 +14307,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "13bbc954-fe8d-3a88-9a4f-6b19a8f0c0c4",
           "chapter_path": [
             "第四章 水的运动",
             "问题研究 能否利用南极冰山解决沙特阿拉伯的缺水问题"
@@ -13814,6 +14335,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "5150eee9-087a-3424-be16-f661b134d500",
           "chapter_path": [
             "第一章 宇宙中的地球",
             "第四节 地球的圈层结构"
@@ -13841,6 +14363,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "c0a6565f-f555-3b28-be92-fad2bfaa0c50",
           "chapter_path": [
             "其他",
             "高考复习",
@@ -13869,6 +14392,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "187766aa-ae00-390f-a242-f0a489b803d1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第二节 大气受热过程和大气运动"
@@ -13896,6 +14420,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "f51d9891-a833-3fde-b033-12f924dc85dd",
           "chapter_path": [
             "第六章 自然灾害",
             "第四节 地理信息技术在防灾减灾中的应用"
@@ -13923,6 +14448,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "e287f258-8a62-3485-b87d-5e915c635cd8",
           "chapter_path": [
             "第三章 地球上的水",
             "第三节 海水的运动"
@@ -13950,6 +14476,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "4fa5b46a-e01d-3d10-91b6-04f8b60ca076",
           "chapter_path": [
             "第四章 交通运输布局与区域发展",
             "第二节 交通运输布局对区域发展的影响"
@@ -13975,6 +14502,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "45e9df34-93a5-35b7-a90d-5c2d5388b8ad",
           "chapter_path": [
             "第三章 大气的运动",
             "第一节 常见天气系统"
@@ -14002,6 +14530,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "303c1ce7-9e65-37b2-9cbc-57724cc65934",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14031,6 +14560,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "303c1ce7-9e65-37b2-9cbc-57724cc65934",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14060,6 +14590,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9cf2db24-0a33-3d16-8afe-14744ff6c201",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14089,6 +14620,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "9cf2db24-0a33-3d16-8afe-14744ff6c201",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14118,6 +14650,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d4246e6b-2278-342e-bfe3-914380c8319c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14147,6 +14680,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d4246e6b-2278-342e-bfe3-914380c8319c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14176,6 +14710,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "d4246e6b-2278-342e-bfe3-914380c8319c",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14205,6 +14740,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0887b4a7-c299-3944-a24d-6691dfeed760",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14234,6 +14770,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0887b4a7-c299-3944-a24d-6691dfeed760",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14263,6 +14800,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "6a8d8ee3-34cf-3339-ab8c-21e7bbb7c6b2",
           "chapter_path": [
             "第五章 环境与发展",
             "第三节 中国国家发展战略举例"
@@ -14288,6 +14826,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "475c4263-faff-39c8-ae54-7cf6070231ff",
           "chapter_path": [
             "第四章 保障国家安全的资源、环境战略与行动",
             "问题研究 如何做中学生资源、环境安全意识问卷调查"
@@ -14315,6 +14854,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "96d426ae-45a3-3b91-aecd-e2cbe4bc0eba",
           "chapter_path": [
             "第六章 自然灾害",
             "第三节 防灾减灾"
@@ -14342,6 +14882,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "96d426ae-45a3-3b91-aecd-e2cbe4bc0eba",
           "chapter_path": [
             "第六章 自然灾害",
             "第三节 防灾减灾"
@@ -14367,6 +14908,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "6b7d3c9c-fed9-3a56-ac5b-029f10e19414",
           "chapter_path": [
             "第五章 自然环境的整体性与差异性",
             "第二节 自然环境的地域差异性"
@@ -14394,6 +14936,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "0a4ea2fb-489e-3ff7-a07f-31858cd73c07",
           "chapter_path": [
             "其他",
             "世界地理（旧版人教版选修三）",
@@ -14420,6 +14963,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "e2ee2aca-3a1f-3a43-baba-8ca2d412badc",
           "chapter_path": [
             "第四章 水的运动",
             "第一节 陆地水体及其相互关系"
@@ -14445,6 +14989,7 @@
           "textbook_title": "高中地理人教版选择性必修3 资源、环境与国家安全",
           "grade": "",
           "volume": "选择性必修3 资源、环境与国家安全",
+          "chapter_node_id": "088e1325-ec17-3169-aa07-8189a3a06ad4",
           "chapter_path": [
             "第三章 环境安全与国家安全",
             "第一节 环境安全对国家安全的影响"
@@ -14472,6 +15017,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "9f655a0b-d34c-304c-b32a-c4592fb0195a",
           "chapter_path": [
             "第五章 植被与土壤",
             "问题研究  如何让城市不再“看海”"
@@ -14499,6 +15045,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "36a34703-a013-38cd-bce2-8d13e28dc5a4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14528,6 +15075,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ae539455-d1d3-3da6-b052-9a8d53ce9dec",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14557,6 +15105,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "36a34703-a013-38cd-bce2-8d13e28dc5a4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14586,6 +15135,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "36a34703-a013-38cd-bce2-8d13e28dc5a4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14615,6 +15165,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "ae539455-d1d3-3da6-b052-9a8d53ce9dec",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14644,6 +15195,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "36a34703-a013-38cd-bce2-8d13e28dc5a4",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
@@ -14673,6 +15225,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "486d7c38-bac5-33d7-beed-d5b851ba99dd",
           "chapter_path": [
             "第三章 产业区位因素",
             "第三节 服务业区位因素及其变化"
@@ -14700,6 +15253,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "257ce857-8fa0-3cd9-999d-b3054d538712",
           "chapter_path": [
             "第五章 环境与发展",
             "问题研究 低碳食品知多少"
@@ -14727,6 +15281,7 @@
           "textbook_title": "高中地理人教版高一必修 第一册",
           "grade": "高一",
           "volume": "必修 第一册",
+          "chapter_node_id": "eb074f37-1475-38d6-966b-de17f7a41bd1",
           "chapter_path": [
             "第二章 地球上的大气",
             "第一节 大气的组成和垂直分层"
@@ -14752,6 +15307,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -14777,6 +15333,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -14802,6 +15359,7 @@
           "textbook_title": "高中地理人教版选择性必修2 区域发展",
           "grade": "",
           "volume": "选择性必修2 区域发展",
+          "chapter_node_id": "c5894e23-cecf-3b5b-9a61-28ddde708f9e",
           "chapter_path": [
             "第四章 区域联系与区域协调发展",
             "第一节 流域内协调发展"
@@ -14827,6 +15385,7 @@
           "textbook_title": "高中地理人教版选择性必修1 自然地理基础",
           "grade": "",
           "volume": "选择性必修1 自然地理基础",
+          "chapter_node_id": "d669523a-ae65-3f1c-a03b-d691aa8a3f35",
           "chapter_path": [
             "第一章 地球的运动",
             "第一节 地球的自转和公转"
@@ -14854,6 +15413,7 @@
           "textbook_title": "高中地理人教版高一必修 第二册",
           "grade": "高一",
           "volume": "必修 第二册",
+          "chapter_node_id": "41d5e9c9-2eb5-3b76-9dd3-e5c6eef1a7ac",
           "chapter_path": [
             "其他",
             "中国地理（旧版人教版选修三）",
