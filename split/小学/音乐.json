@@ -1,7 +1,7 @@
 {
   "grade_band": "小学",
   "subject": "音乐",
-  "kp_count": 1021,
+  "kp_count": 1006,
   "relation_count": 0,
   "knowledge_points": [
     {
@@ -2058,32 +2058,6 @@
       ]
     },
     {
-      "id": "2a660896-f90d-4d66-adcd-c2a6f99248e6",
-      "canonical_name": "《妈妈教我一支歌》歌曲学唱与情感表达",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"妈妈教我一支歌\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用亲切自然的声音演唱《妈妈教我一支歌》\",\"能说出歌曲中表达的母子情感\",\"会根据歌词内容调整演唱力度\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为抒情歌曲不需要气息控制\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "《妈妈教我一支歌》歌曲学唱与情感表达",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "印在心里的歌  我爱你 中国 \n妈妈教我一支歌"
-          ]
-        }
-      ]
-    },
-    {
       "id": "638f5d9d-a3a6-40e4-a0d3-bfc6b9552d53",
       "canonical_name": "《威廉·退尔》序曲音乐欣赏",
       "subject": "音乐",
@@ -3240,32 +3214,6 @@
           "chapter_path": [
             "第五单元 英雄礼赞",
             "小小歌唱家 我有一个梦"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "93515cd8-1f9e-4a1d-a773-241654a9634e",
-      "canonical_name": "《我爱你,中国》歌曲学唱与爱国情感表达",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"我爱你中国\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用自然连贯的声音完整演唱《我爱你,中国》\",\"会控制气息完成歌曲中的长乐句\",\"能说出歌曲所表达的爱国情感\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为唱歌声音越大越能表达感情\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512233550,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "《我爱你,中国》歌曲学唱与爱国情感表达",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "印在心里的歌  我爱你 中国 \n妈妈教我一支歌"
           ]
         }
       ]
@@ -6399,33 +6347,6 @@
       ]
     },
     {
-      "id": "7a59f409-a55e-47c9-b42e-603e70c12eb0",
-      "canonical_name": "一首作品在传播中伴奏乐器与编配的变化",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"音乐传播中的伙伴乐器\",\"作品旅途中的伴奏变化\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512112659,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512112659,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举同一首作品在不同地区/版本中出现的伴奏乐器\",\"能说出乐器编配随传播路径发生的变化\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512112659,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512112659,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为一首作品的伴奏乐器在传播过程中始终不变\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512112659,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512112659,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "一首作品在传播中伴奏乐器与编配的变化",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第二单元  音乐的传播",
-            "学习项目二  一首作品旅途中的伙伴"
-          ]
-        }
-      ]
-    },
-    {
       "id": "25e7e433-f75e-430a-a465-391bf58b6b1f",
       "canonical_name": "三拍子圆舞曲律动感受",
       "subject": "音乐",
@@ -6934,33 +6855,6 @@
           "chapter_path": [
             "第五单元 西北高原唱花儿",
             "音乐万花筒 丝绸之路驼铃声"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8cc08e66-2b1c-4b86-8490-14d9aef11469",
-      "canonical_name": "个人独立完成音乐工程各环节的角色认知",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"独立音乐制作流程\",\"一人多角色音乐制作\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举音乐工程中作曲、编曲、录制、混音等环节\",\"能解释为何数字技术使个人独立完成音乐工程成为可能\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为作曲、编曲、录音、混音必须由不同专业人员分别完成\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "个人独立完成音乐工程各环节的角色认知",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第一单元  音乐的数字化",
-            "学习项目二  一个人的音乐工程"
           ]
         }
       ]
@@ -8627,33 +8521,6 @@
       ]
     },
     {
-      "id": "73ec946c-711b-4fb1-a24f-59b8f2482663",
-      "canonical_name": "利用循环乐句进行个人编曲",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"循环乐段编曲\",\"loop编曲\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能选择合适的循环乐句拼接成一段完整旋律\",\"会调整循环乐句的音量与节奏以匹配整体编曲\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"数字音乐制作软件的基本操作\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为使用现成循环乐句拼接不算真正的音乐创作\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "利用循环乐句进行个人编曲",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第一单元  音乐的数字化",
-            "学习项目二  一个人的音乐工程"
-          ]
-        }
-      ]
-    },
-    {
       "id": "8b437e58-22ee-4912-a9c5-903ca5c7b08a",
       "canonical_name": "力度的强弱变化",
       "subject": "音乐",
@@ -9011,32 +8878,6 @@
           "chapter_path": [
             "第二单元  乐品东北亚",
             "趣味乐理  半音距离与音程协和度"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aeb429cc-7853-42da-a13a-f1ebfd65b479",
-      "canonical_name": "单元学习测评与自我评价",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"学习测评\",\"单元自评\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788535523645,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788535523645,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能回顾本单元所学的歌曲、乐曲与知识要点\",\"能对照测评项目对自己的演唱、聆听表现进行自我评价\",\"能识别自己在本单元学习中的薄弱环节并提出改进方式\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788535523645,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788535523645,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为测评只是教师打分，与自己的反思和改进无关\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788535523645,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788535523645,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "单元学习测评与自我评价",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "学习测评"
           ]
         }
       ]
@@ -13525,60 +13366,6 @@
       ]
     },
     {
-      "id": "a36f6106-33d6-4f35-af56-a0ba714c8927",
-      "canonical_name": "数字化音乐创作的认知与实践",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"数字化音乐创编\",\"数字音乐制作入门\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512092777,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512092777,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出数字化音乐创作常用的工具与方式\",\"能尝试运用简单数字化手段进行音乐旋律或伴奏的创编\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512092777,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512092777,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"学生易将数字化音乐创作等同于简单播放或拼接已有音乐素材\",\"学生易忽视创编过程中音乐要素的运用而只关注软件操作技巧\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512092777,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512092777,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "数字化音乐创作的认知与实践",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第一单元  音乐的数字化",
-            "学习项目一 数字化时代的音乐创作"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0c7e2e28-f8a8-4873-9c18-02ff6b7b0389",
-      "canonical_name": "数字音乐制作软件的基本操作",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.35,
-      "aliases": "[\"音乐制作软件入门\",\"DAW基础操作\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出数字音乐制作软件的主要功能界面\",\"会用软件完成轨道的新建与音频片段的导入\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为数字音乐制作必须依赖乐队协作，个人无法独立完成\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512086720,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "数字音乐制作软件的基本操作",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第一单元  音乐的数字化",
-            "学习项目二  一个人的音乐工程"
-          ]
-        }
-      ]
-    },
-    {
       "id": "a856f210-b12f-47ac-be33-f590c6fc602e",
       "canonical_name": "数数歌词的递增规律与衬词运用",
       "subject": "音乐",
@@ -14222,114 +14009,6 @@
           "chapter_path": [
             "第四单元　音乐中的动物",
             "欣赏 鸭子拌嘴（片段）"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0a6d3ff9-5c19-451e-a8f6-17ca0ad9b5fc",
-      "canonical_name": "校园音乐剧宣传与总结活动",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"音乐剧宣传策划\",\"音乐剧展演总结\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512211805,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512211805,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能设计校园音乐剧的宣传方案（如海报、宣传语、演出预告）\",\"能与同伴合作制作并展示音乐剧宣传成果\",\"能总结校园音乐剧创编与演出过程中的收获与不足\",\"能对自己在音乐剧项目中的角色与表现进行反思评价\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512211805,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"校园音乐剧的创编与排演\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512211805,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为宣传只是张贴海报等形式性工作，忽视内容与创意设计\",\"总结环节只关注演出结果好坏，忽视过程性反思与合作体验\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512211805,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512211805,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "校园音乐剧宣传与总结活动",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第四单元  一部校园音乐剧的诞生",
-            "学习项目三 校园音乐剧宣传与总结"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "380576de-4b1b-43eb-98f2-f8d6be5e4cfa",
-      "canonical_name": "校园音乐剧的主题与音乐创编",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.35,
-      "aliases": "[\"音乐剧创编\",\"剧情与配乐设计\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能与同伴商定校园音乐剧的主题与情节梗概\",\"会为剧情选配或改编适宜的歌曲与配乐\",\"能设计角色台词与唱段的衔接方式\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"歌曲演唱基础\",\"简单节奏与旋律创作\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为音乐剧只需要唱歌不需要剧情设计\",\"认为配乐可以随意选用而不考虑情节情绪\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "校园音乐剧的主题与音乐创编",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第四单元  一部校园音乐剧的诞生",
-            "学习项目二 校园音乐剧创演"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8c9c6451-483d-4a63-a879-0afdcd8bfc6b",
-      "canonical_name": "校园音乐剧的排演与展示",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"音乐剧排练\",\"小组合作展演\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能在小组中承担角色分工并完成排练\",\"会运用歌唱、动作与表情配合完成剧目展示\",\"能对同伴的展演给予简单评价与建议\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"校园音乐剧的主题与音乐创编\",\"集体歌唱与合作表演经验\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为排演只需背熟台词而忽视歌唱与动作的配合\",\"认为个人表现优先于小组整体协作\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512192367,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "校园音乐剧的排演与展示",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第四单元  一部校园音乐剧的诞生",
-            "学习项目二 校园音乐剧创演"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "35435a3b-6dd2-4902-9170-b9dcd307aec9",
-      "canonical_name": "校园音乐剧策划的基本要素与分工",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.35,
-      "aliases": "[\"音乐剧策划会\",\"校园音乐剧创作分工\",\"音乐剧策划活动\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512179227,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512179227,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出音乐剧的基本组成要素（剧情、角色、歌唱、对白、舞蹈）\",\"能描述策划一部校园音乐剧的基本流程（选题、编剧、选角、创编音乐、排练）\",\"能在小组策划活动中说出自己承担的分工角色\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512179227,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512179227,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"学生易以为音乐剧只是唱歌加简单表演，忽视剧本与角色策划环节\",\"学生易忽略音乐剧创作需要团队分工协作，误以为可由个人独立完成\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512179227,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512179227,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "校园音乐剧策划的基本要素与分工",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第四单元  一部校园音乐剧的诞生",
-            "学习项目一 校园音乐剧策划会"
           ]
         }
       ]
@@ -26590,33 +26269,6 @@
       ]
     },
     {
-      "id": "72d2226d-df78-4194-ae35-79f0223fbc48",
-      "canonical_name": "音乐作品传播途径与版本演变",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"作品的传播与流变\",\"一首歌的旅行\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512125495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512125495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举一首音乐作品在传播过程中经历的主要途径（如口传心授、现场演出、录音录像、网络传播等）\",\"能举例说明同一首作品因传播、改编而产生的不同版本或风格差异\",\"能说出影响音乐作品传播范围与效果的关键因素（如媒介、时代、地域文化）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512125495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512125495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为一首作品只有一个'标准'版本，传播过程中不会发生改变\",\"认为音乐传播只依赖现代录音技术，忽视口传心授、现场演出等传统途径\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512125495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512125495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "音乐作品传播途径与版本演变",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第二单元  音乐的传播",
-            "学习项目一  一首作品的旅行"
-          ]
-        }
-      ]
-    },
-    {
       "id": "71b94fea-f9c7-4be6-959e-9a5e17f85274",
       "canonical_name": "音乐创作中的重复手法",
       "subject": "音乐",
@@ -26881,60 +26533,6 @@
           "volume": "上册",
           "chapter_path": [
             "音乐测评"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "db6c3718-fd4c-45e6-a1ab-cac4d372ddb1",
-      "canonical_name": "音乐审美的个体差异性",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.3,
-      "aliases": "[\"审美差异\",\"音乐鉴赏中的主观差异\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512140207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512140207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举影响个人音乐审美差异的因素（如文化背景、生活经历、音乐积累等）\",\"能对比不同听众对同一音乐作品产生的不同感受并说明原因\",\"能表达对他人音乐审美差异的理解与尊重\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512140207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512140207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为音乐好听与否存在唯一绝对标准\",\"把审美差异误认为是音乐鉴赏能力高低之分\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512140207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788512140207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "音乐审美的个体差异性",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第三单元  音乐的品鉴",
-            "学习项目一 音乐审美有差异"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "20fde33e-c4e8-40f3-a792-72a292c34809",
-      "canonical_name": "音乐审美评价标准",
-      "subject": "音乐",
-      "grade_band": "小学",
-      "curriculum_system": "pep-cn",
-      "confidence": 0.35,
-      "aliases": "[\"音乐鉴赏标准\",\"音乐审美判断依据\"]",
-      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512157929,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512157929,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出评价音乐作品的基本审美维度（如音乐要素、情感表达、文化背景等）\",\"能运用给定的审美标准对所听乐曲作出简单评价\",\"能识别不同风格音乐作品在审美标准运用上的共性与差异\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512157929,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"音乐要素（旋律、节奏、音色、和声）的基本感知\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512157929,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为音乐审美纯属个人主观喜好，不存在可参照的标准\",\"认为审美标准等同于流行度或个人喜爱程度\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512157929,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788512157929,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
-      "summary": "",
-      "title": "音乐审美评价标准",
-      "grades": [
-        "九年级"
-      ],
-      "textbooks": [
-        {
-          "textbook_id": "d16cfb59-065a-4e78-abac-489176972457",
-          "textbook_title": "新教材-小学音乐人教版九年级上册",
-          "grade": "九年级",
-          "volume": "上册",
-          "chapter_path": [
-            "第三单元  音乐的品鉴",
-            "学习项目二 音乐审美有标准"
           ]
         }
       ]

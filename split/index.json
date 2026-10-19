@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T11:33:47.974Z",
+  "exported_at": "2026-10-19T11:38:10.645Z",
   "total_kp": 33765,
   "total_relations": 21536,
   "files": [
@@ -127,9 +127,9 @@
       "path": "初中/音乐.json",
       "grade_band": "初中",
       "subject": "音乐",
-      "kp_count": 1219,
+      "kp_count": 1234,
       "relation_count": 0,
-      "size_kb": 2917
+      "size_kb": 2953
     },
     {
       "path": "小学/体育.json",
@@ -191,9 +191,9 @@
       "path": "小学/音乐.json",
       "grade_band": "小学",
       "subject": "音乐",
-      "kp_count": 1021,
+      "kp_count": 1006,
       "relation_count": 0,
-      "size_kb": 2398
+      "size_kb": 2361
     },
     {
       "path": "高中/体育.json",
