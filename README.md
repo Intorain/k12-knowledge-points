@@ -83,3 +83,11 @@ split/                  # 按学段×科目拆分（推荐使用，单文件 190
 教材页面 OCR → LLM 知识点抽取（qwen-plus / Claude）→ 低置信度清理 → 同科目去重合并 → LLM 关系推断。
 
 教材来源：国家中小学智慧教育平台（公开教育资源服务平台）逐页预览图，经 OCR 转录为正文后抽取。
+
+## 作者与许可证
+
+本系统由云一工作室主理人 **猫叔** 独立开发。仓库地址：https://github.com/mmlong818/k12-knowledge-points
+
+许可证：[PolyForm Noncommercial 1.0.0](./LICENSE)——允许个人使用、学习、修改和非商业分发；**不允许任何商业用途，包括商业性的二次创作与分发**。
+
+> Required Notice: Copyright © 2026 猫叔 (https://github.com/mmlong818/k12-knowledge-points)
